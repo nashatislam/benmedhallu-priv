@@ -1,0 +1,233 @@
+﻿text,Health Condition,target_health_condition,modified_health_condition,modified_sentence,eval_target_condition,correct_prediction,correct_raw_response,hallucinated_prediction,hallucinated_raw_response
+"আপনার প্রশ্নের জন্য ধন্যবাদ । দুশ্চিন্তা কমান , পর্যাপ্ত বিশ্রাম নিন । পানিশূন্যতা আছে শরীরে । আপনি তরল খাবার , স্যালাইন , তরমুজ , শসা , ডাবের পানি খাবেন । কোলেস্টেরল বাড়লে হার্ট এটাক , স্ট্রোকের ঝুঁকি বাড়ে । রোগীর সাথে সরাসরি কথা বলে হিস্ট্রি নিয়ে সমস্যা শুনে সমাধান দিতে হবে । বিশদ আলোচনার জন্য আপনি এই এপের মাধ্যমে ভিডিও কনফারেন্সে চিকিৎসকের পরামর্শ নিতে পারেন । ধন্যবাদ",হার্ট এটাক | স্ট্রোকের,হার্ট এটাক | স্ট্রোকের,করোনারি হৃদরোগ,"আপনার প্রশ্নের জন্য ধন্যবাদ । দুশ্চিন্তা কমান , পর্যাপ্ত বিশ্রাম নিন । পানিশূন্যতা আছে শরীরে । আপনি তরল খাবার , স্যালাইন , তরমুজ , শসা , ডাবের পানি খাবেন । কোলেস্টেরল বাড়লে করোনারি হৃদরোগ , স্ট্রোকের ঝুঁকি বাড়ে । রোগীর সাথে সরাসরি কথা বলে হিস্ট্রি নিয়ে সমস্যা শুনে সমাধান দিতে হবে । বিশদ আলোচনার জন্য আপনি এই এপের মাধ্যমে ভিডিও কনফারেন্সে চিকিৎসকের পরামর্শ নিতে পারেন । ধন্যবাদ",হার্ট এটাক | স্ট্রোকের,0,"The extracted entity ""হার্ট এটাক | স্ট্রোকের"" is mentioned in the given text as a potential risk associated with high cholesterol. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"To determine whether the extracted medical entity is hallucinated, we need to check if the entity is mentioned in the given text.
+
+The extracted entity is ""হার্ট এটাক | স্ট্রোকের"" which translates to ""Heart Attack | Stroke"" in English.
+
+Upon reviewing the text, we find that ""স্ট্রোকের"" (Stroke) is mentioned, but ""হার্ট এটাক"" (Heart Attack) is not explicitly mentioned. Instead, ""করোনারি হৃদরোগ"" (Coronary Heart Disease) is mentioned, which is related to but not the same as a heart attack.
+
+Since ""হার্ট এটাক"" (Heart Attack) is not mentioned in the text, but ""স্ট্রোকের"" (Stroke) is, we can conclude that the extracted entity is partially hallucinated.
+
+ANSWER: 1"
+"আপনাকে ধন্যবাদ প্রশ্ন করার জন্য । হাত কাঁপার অন্যতম কারণ গুলোর মধ্যে থাইরয়েডের সমস্যা , দুশ্চিন্তা বা এনজাইটি ডিসঅর্ডার , ব্রেইনের সেরিবেলাম এর সমস্যা , পারকিনসন ডিজিজ ইত্যাদি উল্লেখযোগ্য । আপনার সমস্যা কি তা জানার জন্য কিছু পরীক্ষা করা দরকার যেমন থাইরয়েড পরীক্ষা । একজন নিউরোলজিস্ট দিয়ে আপনার ব্রেনের কোন সমস্যা হয়েছে কিনা তা জানা দরকার । আপনি একজন নিউরোমেডিসিন বিশেষজ্ঞ কে দেখান । দুশ্চিন্তা করবেন না । চিন্তা করলে হাত কাঁপা বাড়তে পারে ঘুম ঠিকমতো হতে হবে । ধন্যবাদ । ",দুশ্চিন্তা বা এনজাইটি ডিসঅর্ডার,দুশ্চিন্তা বা এনজাইটি ডিসঅর্ডার,প্যানিক ডিসঅর্ডার,"আপনাকে ধন্যবাদ প্রশ্ন করার জন্য । হাত কাঁপার অন্যতম কারণ গুলোর মধ্যে থাইরয়েডের সমস্যা , প্যানিক ডিসঅর্ডার , ব্রেইনের সেরিবেলাম এর সমস্যা , পারকিনসন ডিজিজ ইত্যাদি উল্লেখযোগ্য । আপনার সমস্যা কি তা জানার জন্য কিছু পরীক্ষা করা দরকার যেমন থাইরয়েড পরীক্ষা । একজন নিউরোলজিস্ট দিয়ে আপনার ব্রেনের কোন সমস্যা হয়েছে কিনা তা জানা দরকার । আপনি একজন নিউরোমেডিসিন বিশেষজ্ঞ কে দেখান । দুশ্চিন্তা করবেন না । চিন্তা করলে হাত কাঁপা বাড়তে পারে ঘুম ঠিকমতো হতে হবে । ধন্যবাদ ।",দুশ্চিন্তা বা এনজাইটি ডিসঅর্ডার,0,"The extracted entity ""দুশ্চিন্তা বা এনজাইটি ডিসঅর্ডার"" is mentioned in the given text as one of the possible causes of hand tremors. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"প্রদত্ত টেক্সটে ""দুশ্চিন্তা"" শব্দটি উল্লেখ করা হয়েছে, তবে ""এনজাইটি ডিসঅর্ডার"" শব্দটি উল্লেখ করা হয়নি। তাই, এক্সট্র্যাক্টেড এন্টিটি আংশিকভাবে হলুসিনেটেড।
+
+ANSWER: 1"
+total cholesterol 200 mg / dl serum triglycerides 553 mg / dl HDL cholesterol 25 mg / dl LDL cholesterol 93 mg / dl how to lower triglycerides ? am i prone to heart disease ? ,heart disease,heart disease,coronary artery disease,total cholesterol 200 mg / dl serum triglycerides 553 mg / dl HDL cholesterol 25 mg / dl LDL cholesterol 93 mg / dl how to lower triglycerides ? am i prone to coronary artery disease ?,heart disease,0,"To determine whether the extracted entity ""heart disease"" is hallucinated with respect to the given text, we need to assess if the text directly mentions or implies the presence of ""heart disease.""
+
+The text provides several cholesterol and triglyceride levels and then asks, ""how to lower triglycerides ? am i prone to heart disease ?"" The mention of ""heart disease"" in the question indicates that the individual is concerned about their risk for heart disease based on their lipid profile. The text does not state that the individual has heart disease but rather inquires about the risk of developing it due to their current lipid levels.
+
+Given that ""heart disease"" is directly mentioned in the text within the context of a question about the individual's risk, it is not considered hallucinated. The entity is directly referenced, albeit in a query about potential risk rather than a statement of diagnosis.
+
+ANSWER: 0",0,"To determine whether the extracted medical entity ""heart disease"" is hallucinated with respect to the given text, we need to analyze the content of the text and see if it directly or indirectly mentions ""heart disease"" or related concepts.
+
+The text mentions:
+- Total cholesterol level
+- Serum triglycerides level
+- HDL cholesterol level
+- LDL cholesterol level
+- A question about how to lower triglycerides
+- A question about being prone to coronary artery disease
+
+While the text does not explicitly mention ""heart disease,"" it does mention ""coronary artery disease,"" which is a type of heart disease. Coronary artery disease is related to the buildup of plaque in the arteries, which can lead to heart attacks. The levels of cholesterol and triglycerides mentioned can be risk factors for coronary artery disease.
+
+Given this context, the extracted entity ""heart disease"" is not entirely hallucinated because the text discusses a specific type of heart disease (coronary artery disease) and factors (cholesterol and triglyceride levels) that are related to heart disease.
+
+Therefore, the extracted entity ""heart disease"" can be considered as not hallucinated because it is indirectly referenced through the mention of coronary artery disease and related risk factors.
+
+ANSWER: 0"
+"My mother is 65 years old . I have diabetes , pressure , gas , thyroid problems . Can I get the corona vaccine ? ",diabetes | pressure | gas | thyroid problems,diabetes | pressure | gas | thyroid problems,GERD,"My mother is 65 years old . I have diabetes , pressure , GERD , thyroid problems . Can I get the corona vaccine ?",diabetes | pressure | gas | thyroid problems,0,"To determine whether the extracted medical entity is hallucinated, we need to check if the entity is present in the given text.
+
+The extracted entity is: diabetes | pressure | gas | thyroid problems
+
+Upon reviewing the text, we can see that all the mentioned conditions (diabetes, pressure, gas, thyroid problems) are indeed present in the text.
+
+Therefore, the extracted entity is not hallucinated.
+
+ANSWER: 0",1,"To determine whether the extracted medical entity is hallucinated, we need to compare it with the given text.
+
+The given text mentions:
+- diabetes
+- pressure
+- GERD (Gastroesophageal reflux disease)
+- thyroid problems
+
+The extracted entity mentions:
+- diabetes
+- pressure
+- gas
+- thyroid problems
+
+Here, ""gas"" is not mentioned in the original text; instead, ""GERD"" is mentioned. ""Gas"" could be considered related to GERD in a broad sense, as GERD can involve gas and bloating, but it is not a direct match. However, since ""gas"" is not explicitly mentioned and could be considered an interpretation or simplification of GERD, we need to consider if this constitutes hallucination.
+
+Hallucination in this context refers to the introduction of information not present in the original text. Given that ""gas"" is not explicitly mentioned and the original text specifies ""GERD,"" which is a more specific condition, the introduction of ""gas"" as a separate entity could be seen as an addition or interpretation not directly supported by the text.
+
+Therefore, considering the strict definition of hallucination as introducing information not present in the original text, the extracted entity ""gas"" for ""GERD"" could be considered hallucinated because it changes the specificity and detail of the original condition mentioned.
+
+ANSWER: 1"
+"Thanks for your question . it is common in pregnancy . for more info , consult with gynaecologist . You can directly seek advice via this app through video conference . thanks",pregnancy,pregnancy,menopause,"Thanks for your question . it is common in menopause . for more info , consult with gynaecologist . You can directly seek advice via this app through video conference . thanks",pregnancy,0,"The extracted entity ""pregnancy"" is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""pregnancy"" is not mentioned in the given text. The text discusses menopause and recommends consulting a gynaecologist, but it does not mention pregnancy.
+
+ANSWER: 1"
+বয়স ১৮ + বিড়াল খুব সামান্য আচর দিয়েছে এবং রক্ত খুবই সামান্য বের হয়েছে । এক্ষেত্রে কি ভ্যাকসিন দিতে হবে ? ,বিড়াল খুব সামান্য আচর দিয়েছে,বিড়াল খুব সামান্য আচর দিয়েছে,কুকুর খুব সামান্য কামড় দিয়েছে,বয়স ১৮ + কুকুর খুব সামান্য কামড় দিয়েছে এবং রক্ত খুবই সামান্য বের হয়েছে । এক্ষেত্রে কি ভ্যাকসিন দিতে হবে ?,বিড়াল খুব সামান্য আচর দিয়েছে,0,"To determine whether the extracted medical entity ""বিড়াল খুব সামান্য আচর দিয়েছে"" (which translates to ""the cat has shown very little behavior"" or more contextually, ""the cat has scratched very little"") is hallucinated with respect to the given text, we need to assess if this entity is mentioned in the text and if it is relevant to the medical context provided.
+
+The given text discusses a situation where a person (aged 18+) has been scratched by a cat, with very little bleeding. The question revolves around whether a vaccine is necessary in this scenario, which implies concern over potential infection or disease transmission from the cat to the human, such as tetanus or rabies.
+
+The extracted entity ""বিড়াল খুব সামান্য আচর দিয়েছে"" directly pertains to the incident involving the cat and is a crucial detail in assessing the risk of infection or the need for medical intervention, such as vaccination. Since this entity is indeed mentioned in the text and is relevant to the medical context (the incident and its aftermath), it is not hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""বিড়াল খুব সামান্য আচর দিয়েছে"" is not present in the given text. The text mentions ""কুকুর খুব সামান্য কামড় দিয়েছে"", which is about a dog, not a cat (""বিড়াল"").
+
+ANSWER: 1"
+"For the last 4 months , my left hand ' s Ring finger seems to be fragile . A little bit pain in the joints of the finger is present . And when I take an object ( such as book , file etc . ) I feet the Ringfinger is going to break by the weight / pressure of the thing . Recently the Ring finger of my right hand seems to have the same problem . Today , my left hand ' s thumb also seems to catch same problem . So far of my knowledge , it is likely to be osteoporosis . Now I seek your valuable treatment plan of this . Please advise me thereby . ",osteoporosis,osteoporosis,osteoarthritis,"For the last 4 months , my left hand ' s Ring finger seems to be fragile . A little bit pain in the joints of the finger is present . And when I take an object ( such as book , file etc . ) I feet the Ringfinger is going to break by the weight / pressure of the thing . Recently the Ring finger of my right hand seems to have the same problem . Today , my left hand ' s thumb also seems to catch same problem . So far of my knowledge , it is likely to be osteoarthritis . Now I seek your valuable treatment plan of this . Please advise me thereby .",osteoporosis,0,"The extracted entity ""osteoporosis"" is mentioned in the text as a possible self-diagnosis by the patient, but it is not a confirmed diagnosis by a medical professional. However, since the entity is indeed mentioned in the text, it is not considered hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""osteoporosis"" is not mentioned in the given text. The text actually mentions ""osteoarthritis"" as the suspected condition. Therefore, the extracted entity is hallucinated.
+
+ANSWER: 1"
+"আমার স্ত্রী বয়স ২৪ ও ১৪ দিনের প্রেগন্যান্ট অবস্থা MM Kit খায় ২৫ তারিখে এন্ড , ঐ দিন মাসিক হয় , কিন্তু আজ দু দিন যাবত bleeding আনে বেশি যাচ্ছে , তাই আমি আল্টাস্রোফ্রাগি করাতে চাই , দয়া করে আমাকে পরিক্ষার নাম টা লিখে দিবেন",১৪ দিনের প্রেগন্যান্ট | মাসিক,১৪ দিনের প্রেগন্যান্ট | মাসিক,গর্ভপাত,"আমার স্ত্রী বয়স ২৪ ও ১৪ দিনের প্রেগন্যান্ট অবস্থা MM Kit খায় ২৫ তারিখে এন্ড , ঐ দিন গর্ভপাত হয় , কিন্তু আজ দু দিন যাবত bleeding আনে বেশি যাচ্ছে , তাই আমি আল্টাস্রোফ্রাগি করাতে চাই , দয়া করে আমাকে পরিক্ষার নাম টা লিখে দিবেন",১৪ দিনের প্রেগন্যান্ট | মাসিক,0,"To determine whether the extracted medical entity is hallucinated, we need to assess if the information provided in the extracted entity (১৪ দিনের প্রেগন্যান্ট | মাসিক) is supported by the given text.
+
+The text mentions that the speaker's wife is 24 years old and 14 days pregnant, which directly supports the first part of the extracted entity (১৪ দিনের প্রেগন্যান্ট). It also mentions that she had her menstrual period (মাসিক) on the 25th, which supports the second part of the extracted entity (মাসিক).
+
+Given that both components of the extracted entity are directly mentioned in the text, the extracted entity is not hallucinated.
+
+ANSWER: 0",0,"To determine whether the extracted medical entity ""১৪ দিনের প্রেগন্যান্ট | মাসিক"" is hallucinated with respect to the given text, we need to analyze the context and content of the text provided.
+
+The text mentions a pregnant woman (প্রেগন্যান্ট) who is 24 years old and 14 days pregnant, using an MM Kit, which led to a miscarriage (গর্ভপাত) on the 25th, followed by increased bleeding over the next couple of days. The mention of ""১৪ দিনের প্রেগন্যান্ট"" directly corresponds to information given in the text, indicating the woman's pregnancy duration.
+
+However, the term ""মাসিক"" (menstrual) is not directly mentioned in the context of the extracted entity but is implied as the woman is experiencing bleeding, which could be confused with menstrual bleeding due to the miscarriage and subsequent medical condition.
+
+Given the information provided in the text, the entity ""১৪ দিনের প্রেগন্যান্ট"" is directly supported by the text. The mention of ""মাসিক"" in the extracted entity might seem out of context since the primary discussion is about pregnancy and a miscarriage rather than a regular menstrual cycle. However, considering the context of bleeding and the recent miscarriage, it could be inferred that the concern involves menstrual-like bleeding, even though the text does not explicitly discuss a menstrual cycle in the traditional sense.
+
+Therefore, considering the direct mention of pregnancy duration and the implied context of bleeding, the extracted entity is not entirely hallucinated but rather an interpretation of the provided information.
+
+ANSWER: 0"
+"ধন্যবাদ আপনার প্রশ্নের জন্য । ফাটিয়ে দিবেন না । ইনফেকশন হয়ে যাবে । আপাতত এলারজি উদ্রেককারী খাবার , ধূলাবালি এড়িয়ে চলুন । । এলাট্রল খান । না দেখে সমাধান দেয়া যাচ্ছে না । সরাসরি চর্মরোগ বিশেষজ্ঞ দেখিয়ে পরামর্শ নিতে হবে ধন্যবাদ",ইনফেকশন,ইনফেকশন,প্রদাহ,"ধন্যবাদ আপনার প্রশ্নের জন্য । ফাটিয়ে দিবেন না । প্রদাহ হয়ে যাবে । আপাতত এলারজি উদ্রেককারী খাবার , ধূলাবালি এড়িয়ে চলুন । । এলাট্রল খান । না দেখে সমাধান দেয়া যাচ্ছে না । সরাসরি চর্মরোগ বিশেষজ্ঞ দেখিয়ে পরামর্শ নিতে হবে ধন্যবাদ",ইনফেকশন,0,"The extracted entity ""ইনফেকশন"" (infection) is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""ইনফেকশন"" (infection) is not mentioned in the given text. The text discusses allergy, inflammation, and advises to consult a dermatologist, but it does not mention infection.
+
+ANSWER: 1"
+প্রতিদিনই ঘুম ঠিকমতো হয়না দুই তিন ঘন্টা পর চলে যায় পেইস ০ . ৫ ও filfresh 3mg খেয়েদেখছি অনেকদিন কাজ হচ্ছে । মানষিক দুঃচিন্তায় কমেনা তার উপর ঠিকমত ঘুম না হওয়ায় ডিপ্রেশনে ভুগছি । উচ্চ রক্তচাপের রুগি নিয়মিত ঔষধ খাই । ,ডিপ্রেশনে | উচ্চ রক্তচাপের,ডিপ্রেশনে | উচ্চ রক্তচাপের,উদ্বেগ,প্রতিদিনই ঘুম ঠিকমতো হয়না দুই তিন ঘন্টা পর চলে যায় পেইস ০ . ৫ ও filfresh 3mg খেয়েদেখছি অনেকদিন কাজ হচ্ছে । মানষিক দুঃচিন্তায় কমেনা তার উপর ঠিকমত ঘুম না হওয়ায় উদ্বেগে ভুগছি । উচ্চ রক্তচাপের রুগি নিয়মিত ঔষধ খাই ।,ডিপ্রেশনে | উচ্চ রক্তচাপের,0,"To determine whether the extracted medical entity is hallucinated, we need to verify if the entity is mentioned in the given text.
+
+The extracted entity is ""ডিপ্রেশনে | উচ্চ রক্তচাপের"", which translates to ""Depression | High Blood Pressure"" in English.
+
+Upon reviewing the text, we can see that:
+
+1. ""ডিপ্রেশনে"" (Depression) is mentioned in the sentence: ""মানষিক দুঃচিন্তায় কমেনা তার উপর ঠিকমত ঘুম না হওয়ায় ডিপ্রেশনে ভুগছি"" (Due to mental anxiety and not sleeping properly, I am suffering from depression).
+2. ""উচ্চ রক্তচাপের"" (High Blood Pressure) is mentioned in the sentence: ""উচ্চ রক্তচাপের রুগি নিয়মিত ঔষধ খাই"" (I take regular medication for high blood pressure).
+
+Since both entities are mentioned in the text, the extracted entity is not hallucinated.
+
+ANSWER: 0",1,"To determine whether the extracted medical entity is hallucinated, we need to check if the entity is mentioned in the given text.
+
+The extracted entity is ""ডিপ্রেশনে | উচ্চ রক্তচাপের"". 
+
+In the given text, ""উচ্চ রক্তচাপের"" is mentioned as the patient is a high blood pressure patient and takes medication regularly. However, ""ডিপ্রেশনে"" (depression) is not explicitly mentioned in the text, although the patient does mention ""মানষিক দুঃচিন্তায়"" which can be related to depression or anxiety but is not a direct mention of depression.
+
+Since ""ডিপ্রেশনে"" is not explicitly mentioned in the text, it can be considered as hallucinated.
+
+ANSWER: 1"
+"আমার বাচ্চার বয়স ৬ মাস । সিজারে হয়েছে । এখন আমার স্ত্রীর ২ মাস যাবত পিরিয়ড হয়নি , আজকে টেষ্ট করল পজিটিভ আসছে । এখন আসলে কি করব বুঝে উঠতে পারছিনা । একটা পরামর্শ চাচ্ছিলাম । ",পিরিয়ড,পিরিয়ড,মাসিকের রক্তপাত,"আমার বাচ্চার বয়স ৬ মাস । সিজারে হয়েছে । এখন আমার স্ত্রীর ২ মাস যাবত মাসিকের রক্তপাত হয়নি , আজকে টেষ্ট করল পজিটিভ আসছে । এখন আসলে কি করব বুঝে উঠতে পারছিনা । একটা পরামর্শ চাচ্ছিলাম ।",পিরিয়ড,0,"The extracted entity ""পিরিয়ড"" (which means ""period"" in English, referring to menstrual period) is mentioned in the given text as ""আমার স্ত্রীর ২ মাস যাবত পিরিয়ড হয়নি"" (""My wife has not had her period for 2 months""). 
+
+Therefore, the extracted entity is not hallucinated.
+
+ANSWER: 0",0,"The extracted entity ""পিরিয়ড"" (which means ""period"" in English, referring to menstrual period) is mentioned in the given text as ""মাসিকের রক্তপাত"" which translates to ""menstrual bleeding"" or ""period"". Therefore, the entity is not hallucinated.
+
+ANSWER: 0"
+hypertension ar jonno kon dhoroner doctor dekhabo,hypertension,hypertension,hypotension,hypotension ar jonno kon dhoroner doctor dekhabo,hypertension,0,"The extracted entity ""hypertension"" is mentioned in the given text as ""hypertension ar jonno"". Since ""hypertension"" is present in the text, it is not hallucinated.
+
+ANSWER: 0",1,"To determine whether the extracted medical entity is hallucinated, we need to compare it with the given text.
+
+The given text is: ""hypotension ar jonno kon dhoroner doctor dekhabo""
+This translates to ""What kind of doctor to see for hypotension"" in English.
+
+The extracted entity is: ""hypertension""
+
+Since ""hypotension"" and ""hypertension"" are two different medical conditions (""hypotension"" refers to low blood pressure, while ""hypertension"" refers to high blood pressure), and the text specifically mentions ""hypotension"", the extracted entity ""hypertension"" does not match the information provided in the text.
+
+Therefore, the extracted entity is hallucinated.
+
+ANSWER: 1"
+ডাক্তার ভাই থাইরাইর সমস্যা থাকলে কি করনীয়,থাইরাইর সমস্যা,থাইরাইর সমস্যা,হাইপোথাইরয়েডিজম,ডাক্তার ভাই হাইপোথাইরয়েডিজম থাকলে কি করনীয়,থাইরাইর সমস্যা,0,"The extracted entity ""থাইরাইর সমস্যা"" is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",0,"To determine whether the extracted medical entity ""থাইরাইর সমস্যা"" (which translates to ""thyroid problem"" in English) is hallucinated with respect to the given text, we need to check if the text mentions anything related to thyroid issues.
+
+The given text mentions ""হাইপোথাইরয়েডিজম"" (hypothyroidism), which is a condition related to the thyroid gland. Hypothyroidism is indeed a thyroid problem, as it involves the thyroid gland not producing enough thyroid hormones.
+
+Since the text directly mentions a specific thyroid condition (hypothyroidism), the extracted entity ""থাইরাইর সমস্যা"" (thyroid problem) is not hallucinated. It is related to the content of the given text.
+
+ANSWER: 0"
+Sir Amar khub hath abong pa ghamay ami akjon neurologist dekhyci tini ay roger name bollen hyparosis to tini amak amelin - 10 . indevar - 10 . nortin - 10 khayte dice agula khawar por kono improve hoy ny akhon ami ki korbo,hyparosis,hyparosis,hyperthyroidism,Sir Amar khub hath abong pa ghamay ami akjon neurologist dekhyci tini ay roger name bollen hyperthyroidism to tini amak amelin - 10 . indevar - 10 . nortin - 10 khayte dice agula khawar por kono improve hoy ny akhon ami ki korbo,hyparosis,0,"To determine whether the extracted medical entity ""hyparosis"" is hallucinated with respect to the given text, we need to understand the context and the terms used in the text.
+
+The text appears to be in Bengali, and it mentions a person consulting a neurologist and being prescribed or discussing medications like ""amelin - 10"", ""indevar - 10"", and ""nortin - 10"" for a condition referred to as ""hyparosis"".
+
+The term ""hyparosis"" seems to be a misspelling or variation of ""hypnosis"" or could be related to a medical condition or term that is not standard in English medical terminology. However, given the context of consulting a neurologist and discussing treatments, it seems that ""hyparosis"" is being used within the text to refer to a specific condition or treatment approach.
+
+Since ""hyparosis"" is mentioned directly in the text as part of the conversation about medical treatment, it is not considered hallucinated. Hallucination in this context would mean the entity is not present in the original text, which is not the case here.
+
+ANSWER: 0",1,"To determine whether the extracted medical entity ""hyparosis"" is hallucinated with respect to the given text, let's analyze the text and the entity.
+
+The text mentions ""hyperthyroidism,"" which is a medical condition. However, the extracted entity is ""hyparosis,"" which does not appear in the text. The text does mention several medications and a condition (hyperthyroidism), but ""hyparosis"" is not mentioned.
+
+Given that ""hyparosis"" is not present in the text and seems to be unrelated to the content provided, it appears to be hallucinated.
+
+ANSWER: 1"
+"পিরিয়ড কে ডিলে করার জন্য পিল খেয়েছিলাম । মার্চ মাস ২০১৯ সনে খেয়েছিলাম । এর পর থেকে আমার প্রতি মাসে পিরিয়ড না হয়ে ২ মাস পর পর হচ্ছে । ১ বছর যাবত এইরকম সমস্যা ছিল । হঠাত ২ মাস টানা পিরিয়ড হওয়ার পর আবার আগের অবস্থায় ফিরে গেছে । এখন ২ মাস হয়ে গেলো প্রায় পিরিয়ড হচ্ছে না এখনও । আমার বয়স ২৩ বছর , ওজন ৫৮ কেজি । এমতাবস্থায় আমার কি করা উচিত ? এখন করোনার জন্য কোথায় যাবো কোন ডাক্টারকে দেখাবো সেটাও সম্ভব হচ্ছে না । - on behalf of my wife",পিরিয়ড | পিরিয়ড | পিরিয়ড | পিরিয়ড | করোনার,পিরিয়ড | পিরিয়ড | পিরিয়ড | পিরিয়ড | করোনার,অস্বাভাবিক জরায়ু রক্তপাত,"পিরিয়ড কে ডিলে করার জন্য পিল খেয়েছিলাম । মার্চ মাস ২০১৯ সনে খেয়েছিলাম । এর পর থেকে আমার প্রতি মাসে পিরিয়ড না হয়ে ২ মাস পর পর হচ্ছে । ১ বছর যাবত এইরকম সমস্যা ছিল । হঠাত ২ মাস টানা অস্বাভাবিক জরায়ু রক্তপাত হওয়ার পর আবার আগের অবস্থায় ফিরে গেছে । এখন ২ মাস হয়ে গেলো প্রায় পিরিয়ড হচ্ছে না এখনও । আমার বয়স ২৩ বছর , ওজন ৫৮ কেজি । এমতাবস্থায় আমার কি করা উচিত ? এখন করোনার জন্য কোথায় যাবো কোন ডাক্টারকে দেখাবো সেটাও সম্ভব হচ্ছে না । - on behalf of my wife",পিরিয়ড | পিরিয়ড | পিরিয়ড | পিরিয়ড | করোনার,0,"To determine whether the extracted medical entity is hallucinated with respect to the given text, we need to assess if the entity (পিরিয়ড | পিরিয়ড | পিরিয়ড | পিরিয়ড | করোনার) is mentioned in the text and if its context is relevant and accurately represented.
+
+1. **পিরিয়ড (Period)**: The text extensively discusses issues related to the menstrual period, such as irregularity and changes in frequency after taking a pill. Therefore, the entity ""পিরিয়ড"" is directly related to the content of the text and is not hallucinated.
+
+2. **করোনার (Coronavirus)**: The text mentions ""করোনার জন্য"" (because of coronavirus) as a reason for not being able to visit a doctor. This indicates that the mention of coronavirus is contextual and related to the current situation affecting the narrator's ability to seek medical help, not as a medical condition being discussed. However, it is still a relevant mention within the text.
+
+Given the above analysis, all the extracted entities are mentioned in the text and are relevant to the context provided. Therefore, none of the extracted entities are hallucinated.
+
+ANSWER: 0",0,"To determine whether the extracted medical entity is hallucinated with respect to the given text, we need to check if the entity is mentioned in the text and if it is relevant to the context.
+
+The extracted entity is ""পিরিয়ড"" (Period) and ""করোনার"" (Corona). 
+
+In the given text, ""পিরিয়ড"" is mentioned multiple times, referring to the menstrual period of the speaker's wife, which is the main topic of the text. Therefore, ""পিরিয়ড"" is not hallucinated.
+
+However, ""করোনার"" (Corona) is mentioned only once in the text, in the context of it being difficult to visit a doctor due to the Corona situation. Although it is mentioned, it is not the main medical entity being discussed, which is the irregular menstrual period. But since it is indeed mentioned in the text, it is not hallucinated either.
+
+Given that all extracted entities (""পিরিয়ড"" and ""করোনার"") are mentioned in the text and are relevant to the context, the extracted entity is not hallucinated.
+
+ANSWER: 0"
+"ওটস খাচ্ছি দুধ দিয়ে রোজ সকালে ৩০ গ্রাম করে । কিন্ত মনে হচ্ছে হাটু আর পায়ের হারিয়ে দুর্বলতা অনুভব করবি । এর কারন কি ? ওজন ৬০ কেজি উচ্চতা ৫ . ৯ "" ","ওজন ৬০ কেজি | উচ্চতা ৫ . ৯ ""","ওজন ৬০ কেজি | উচ্চতা ৫ . ৯ """,অপুষ্টি,ওটস খাচ্ছি দুধ দিয়ে রোজ সকালে ৩০ গ্রাম করে । কিন্ত মনে হচ্ছে হাটু আর পায়ের হারিয়ে দুর্বলতা অনুভব করবি । এর কারন কি ? অপুষ্টি,"ওজন ৬০ কেজি | উচ্চতা ৫ . ৯ """,0,"The extracted entity ""ওজন ৬০ কেজি | উচ্চতা ৫ . ৯ "" is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""ওজন ৬০ কেজি | উচ্চতা ৫ . ৯ """" is not mentioned in the given text. The text only talks about the person's daily consumption of oats with milk and their concern about weakness in their knees and legs, but it does not provide any information about their weight or height.
+
+ANSWER: 1"
+"৪ দিন যাবৎ টয়লেট হচ্ছে না । বেগ হয় , টয়লেট বসলে খুবই অল্প পরিমানে হচ্ছে . . উল্লেখঃ ২ মাসের প্রেগনেন্সি । পরামর্শ দিন প্লিজ । ",প্রেগনেন্সি,প্রেগনেন্সি,গর্ভকালীন কোষ্ঠকাঠিন্য,"৪ দিন যাবৎ টয়লেট হচ্ছে না । বেগ হয় , টয়লেট বসলে খুবই অল্প পরিমানে হচ্ছে . . উল্লেখঃ ২ মাসের গর্ভকালীন কোষ্ঠকাঠিন্য । পরামর্শ দিন প্লিজ ।",প্রেগনেন্সি,0,"The extracted entity ""প্রেগনেন্সি"" (which means ""pregnancy"" in English) is mentioned in the given text as ""২ মাসের প্রেগনেন্সি"", which translates to ""2 months of pregnancy"". 
+
+Therefore, the extracted entity is not hallucinated.
+
+ANSWER: 0",0,"The extracted entity ""প্রেগনেন্সি"" (which means ""pregnancy"" in English) is mentioned in the given text as ""২ মাসের গর্ভকালীন"" which translates to ""2 months pregnant"". Therefore, the entity is not hallucinated.
+
+ANSWER: 0"
+১ ) ডায়াবেটিস ২৪ . ৬ ২ ) দিনে এবং রাতে ঘুম আসেই না ৩ ) মাঝে মাঝে পিঠে ব্যাথা উঠে,ডায়াবেটিস,ডায়াবেটিস,উচ্চ রক্তচাপ,১ ) উচ্চ রক্তচাপ ২৪ . ৬ ২ ) দিনে এবং রাতে ঘুম আসেই না ৩ ) মাঝে মাঝে পিঠে ব্যাথা উঠে,ডায়াবেটিস,0,"The extracted entity ""ডায়াবেটিস"" is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",1,"The extracted entity ""ডায়াবেটিস"" (Diabetes) is not mentioned in the given text. The text mentions high blood pressure, sleeplessness, and back pain, but does not mention diabetes.
+
+ANSWER: 1"
+"আমি অনেক দিন যাবত গলার মদ্ধ্যে সাদা সাদা কফ জাতীয় কিছু অনুভব করছি । অনেক ডাক্তার দেখায়ছি তারা বলছে গ্যাস্ট্রিক এর সমস্যা । গ্যাস্ট্রিক ওষুধ খেতে খেতে আমার আলসার এর সমস্যা হয়ে গেছে । এটা আমার সাথে ৫ বৎসর যাবত চলছে , আপনারা পরামর্শ দিলে উপক্রিত হব । ",গ্যাস্ট্রিক এর সমস্যা | আলসার,গ্যাস্ট্রিক এর সমস্যা | আলসার,অ্যাসিড রিফ্লাক্সের সমস্যা,"আমি অনেক দিন যাবত গলার মদ্ধ্যে সাদা সাদা কফ জাতীয় কিছু অনুভব করছি । অনেক ডাক্তার দেখায়ছি তারা বলছে অ্যাসিড রিফ্লাক্সের সমস্যা । গ্যাস্ট্রিক ওষুধ খেতে খেতে আমার আলসার এর সমস্যা হয়ে গেছে । এটা আমার সাথে ৫ বৎসর যাবত চলছে , আপনারা পরামর্শ দিলে উপক্রিত হব ।",গ্যাস্ট্রিক এর সমস্যা | আলসার,0,"To determine whether the extracted medical entity is hallucinated, we need to check if the entity is mentioned in the given text and if it is relevant to the context.
+
+The extracted entity is ""গ্যাস্ট্রিক এর সমস্যা | আলসার"" which translates to ""Gastric problem | Ulcer"" in English.
+
+In the given text, the patient mentions that they have been experiencing a problem with white mucus-like substance in their throat for a long time and have been diagnosed with a gastric problem by multiple doctors. They also mention that they have been taking gastric medication, which has led to an ulcer problem.
+
+Since both ""গ্যাস্ট্রিক এর সমস্যা"" (Gastric problem) and ""আলসার"" (Ulcer) are mentioned in the text as part of the patient's medical history and current issues, the extracted entity is not hallucinated.
+
+ANSWER: 0",0,"প্রদত্ত টেক্সটে ""গ্যাস্ট্রিক ওষুধ"" এবং ""আলসার"" উল্লেখ করা হয়েছে, যা নির্দেশ করে যে রোগীর গ্যাস্ট্রিক সমস্যা এবং আলসার রয়েছে। তাই, এক্সট্র্যাক্টেড এন্টিটি হল ""গ্যাস্ট্রিক এর সমস্যা | আলসার"" হল হ্যালুসিনেটেড নয়।
+
+ANSWER: 0"
+আমার মিসেস গর্ভবতি থাকা অবস্থায় সারা গায়ে অসংখ্য কালো কালো দাগ হয়েছিলো । এখন আমার বাচ্চার বয়স ৬ মাস কিন্তু দাগগুলো আগের মতোই আছে । কি করবো পরামর্শ দিতে মজি হয় । ,গর্ভবতি,গর্ভবতি,হরমোনাল ভারসাম্যহীনতা,আমার মিসেস হরমোনাল ভারসাম্যহীনতা থাকা অবস্থায় সারা গায়ে অসংখ্য কালো কালো দাগ হয়েছিলো । এখন আমার বাচ্চার বয়স ৬ মাস কিন্তু দাগগুলো আগের মতোই আছে । কি করবো পরামর্শ দিতে মজি হয় ।,গর্ভবতি,0,"The extracted entity ""গর্ভবতি"" (which means ""pregnancy"" in English) is mentioned in the given text. Therefore, it is not hallucinated.
+
+ANSWER: 0",0,"To determine whether the extracted medical entity ""গর্ভবতি"" (which translates to ""pregnancy"" in English) is hallucinated with respect to the given text, we need to analyze the context provided.
+
+The text mentions ""আমার মিসেস"" which translates to ""my wife,"" indicating the subject of the discussion is the speaker's wife. It talks about hormonal imbalance (""হরমোনাল ভারসাম্যহীনতা"") and the appearance of numerous black spots (""কালো কালো দাগ"") all over her body during that time. It also mentions that their child is now 6 months old, but the spots have remained.
+
+The key information here is the mention of ""আমার বাচ্চার বয়স ৬ মাস"" which translates to ""my child is 6 months old."" This implies that the wife was indeed pregnant, as they now have a 6-month-old child.
+
+Given this context, the extracted entity ""গর্ভবতি"" (pregnancy) is not hallucinated because the text indirectly refers to a state of pregnancy due to the mention of a 6-month-old child, implying that the wife was pregnant prior to the child's birth.
+
+ANSWER: 0"
