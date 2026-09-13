@@ -1,0 +1,7 @@
+﻿Model,Substitute_Correct,Substitute_Wrong,Delete N=1_Correct,Delete N=1_Wrong,Delete N=2_Correct,Delete N=2_Wrong,Coarsen_Correct,Coarsen_Wrong,Delete N=3_Correct,Delete N=3_Wrong,Overall_Correct,Overall_Wrong
+GPT-4o-mini,93.53,80.17,93.64,77.63,93.33,91.28,93.0,42.67,92.95,93.29,93.6,77.99
+Gemini-3.1-flash-lite,89.22,93.97,89.91,97.37,88.46,100.0,87.0,71.67,86.58,100.0,89.34,93.45
+Grok-4.3,89.01,95.91,89.91,98.03,89.23,100.0,88.33,72.67,88.22,100.0,89.13,94.23
+Qwen 2.5 72B Instruct,89.44,84.27,89.47,90.57,89.74,99.23,88.67,62.33,88.59,99.66,89.55,87.79
+Llama 3.1 70B Instruct,78.45,72.2,77.63,85.31,77.95,92.05,76.67,59.33,78.52,95.97,78.04,81.08
+Deepseek V4 Flash,89.44,73.06,90.07,70.86,89.2,82.78,88.63,51.17,89.15,84.75,89.55,72.89
