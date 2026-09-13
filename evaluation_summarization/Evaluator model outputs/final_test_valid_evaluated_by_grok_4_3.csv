@@ -1,0 +1,2378 @@
+﻿item_id,doc_id,split,track,gold,variant,category,method,n,prediction,correct,reasoning_tokens
+A_13534,13534,valid,A,0,,,,0,0.0,1.0,374
+A_25069,25069,valid,A,0,,,,0,0.0,1.0,894
+A_13898,13898,valid,A,0,,,,0,0.0,1.0,689
+A_5273,5273,valid,A,0,,,,0,0.0,1.0,400
+A_25377,25377,valid,A,0,,,,0,1.0,0.0,1485
+A_20453,20453,valid,A,0,,,,0,0.0,1.0,625
+A_4954,4954,valid,A,0,,,,0,0.0,1.0,540
+A_11825,11825,valid,A,0,,,,0,0.0,1.0,580
+A_2174,2174,valid,A,0,,,,0,0.0,1.0,520
+A_18619,18619,valid,A,0,,,,0,0.0,1.0,580
+A_10931,10931,valid,A,0,,,,0,0.0,1.0,303
+A_17068,17068,valid,A,0,,,,0,0.0,1.0,628
+A_3931,3931,valid,A,0,,,,0,0.0,1.0,528
+A_2574,2574,valid,A,0,,,,0,0.0,1.0,744
+A_19145,19145,valid,A,0,,,,0,0.0,1.0,690
+A_5881,5881,valid,A,0,,,,0,0.0,1.0,583
+A_13748,13748,valid,A,0,,,,0,0.0,1.0,826
+A_19495,19495,valid,A,0,,,,0,0.0,1.0,444
+A_22350,22350,valid,A,0,,,,0,0.0,1.0,708
+A_22213,22213,valid,A,0,,,,0,0.0,1.0,733
+A_16880,16880,valid,A,0,,,,0,0.0,1.0,588
+A_25258,25258,valid,A,0,,,,0,0.0,1.0,534
+A_11533,11533,valid,A,0,,,,0,0.0,1.0,546
+A_8065,8065,valid,A,0,,,,0,0.0,1.0,651
+A_16180,16180,valid,A,0,,,,0,0.0,1.0,634
+A_21348,21348,valid,A,0,,,,0,0.0,1.0,834
+A_8244,8244,valid,A,0,,,,0,0.0,1.0,860
+A_23394,23394,valid,A,0,,,,0,0.0,1.0,536
+A_1749,1749,valid,A,0,,,,0,0.0,1.0,755
+A_6003,6003,valid,A,0,,,,0,0.0,1.0,681
+A_26445,26445,valid,A,0,,,,0,0.0,1.0,841
+A_4377,4377,valid,A,0,,,,0,0.0,1.0,577
+A_11993,11993,valid,A,0,,,,0,0.0,1.0,588
+A_14293,14293,valid,A,0,,,,0,1.0,0.0,735
+A_18219,18219,valid,A,0,,,,0,0.0,1.0,1010
+A_3965,3965,valid,A,0,,,,0,0.0,1.0,731
+A_17460,17460,valid,A,0,,,,0,1.0,0.0,727
+A_16509,16509,valid,A,0,,,,0,0.0,1.0,391
+A_19933,19933,valid,A,0,,,,0,0.0,1.0,800
+A_21985,21985,valid,A,0,,,,0,0.0,1.0,814
+A_24071,24071,valid,A,0,,,,0,0.0,1.0,516
+A_6117,6117,valid,A,0,,,,0,0.0,1.0,570
+A_4781,4781,valid,A,0,,,,0,0.0,1.0,511
+A_5330,5330,valid,A,0,,,,0,0.0,1.0,619
+A_19763,19763,valid,A,0,,,,0,0.0,1.0,482
+A_21567,21567,valid,A,0,,,,0,0.0,1.0,486
+A_22234,22234,valid,A,0,,,,0,0.0,1.0,726
+A_23862,23862,valid,A,0,,,,0,0.0,1.0,852
+A_13589,13589,valid,A,0,,,,0,0.0,1.0,1171
+A_4956,4956,valid,A,0,,,,0,0.0,1.0,646
+A_24804,24804,valid,A,0,,,,0,0.0,1.0,750
+A_5169,5169,valid,A,0,,,,0,0.0,1.0,380
+A_19533,19533,valid,A,0,,,,0,0.0,1.0,409
+A_16393,16393,valid,A,0,,,,0,0.0,1.0,573
+A_13143,13143,valid,A,0,,,,0,0.0,1.0,573
+A_3364,3364,valid,A,0,,,,0,0.0,1.0,551
+A_16515,16515,valid,A,0,,,,0,0.0,1.0,547
+A_24955,24955,valid,A,0,,,,0,0.0,1.0,615
+A_6475,6475,valid,A,0,,,,0,0.0,1.0,725
+A_23411,23411,valid,A,0,,,,0,0.0,1.0,718
+A_21746,21746,valid,A,0,,,,0,0.0,1.0,1282
+A_24192,24192,valid,A,0,,,,0,1.0,0.0,684
+A_539,539,valid,A,0,,,,0,0.0,1.0,593
+A_13140,13140,valid,A,0,,,,0,1.0,0.0,368
+A_25373,25373,valid,A,0,,,,0,0.0,1.0,383
+A_17236,17236,valid,A,0,,,,0,0.0,1.0,679
+A_2575,2575,valid,A,0,,,,0,0.0,1.0,586
+A_26145,26145,valid,A,0,,,,0,0.0,1.0,908
+A_13006,13006,valid,A,0,,,,0,0.0,1.0,947
+A_11454,11454,valid,A,0,,,,0,0.0,1.0,904
+A_13274,13274,valid,A,0,,,,0,0.0,1.0,612
+A_20394,20394,valid,A,0,,,,0,0.0,1.0,708
+A_18131,18131,valid,A,0,,,,0,0.0,1.0,494
+A_26144,26144,valid,A,0,,,,0,0.0,1.0,542
+A_19591,19591,valid,A,0,,,,0,0.0,1.0,598
+A_11187,11187,valid,A,0,,,,0,0.0,1.0,698
+A_6852,6852,valid,A,0,,,,0,1.0,0.0,760
+A_15565,15565,valid,A,0,,,,0,0.0,1.0,769
+A_21440,21440,valid,A,0,,,,0,0.0,1.0,732
+A_4772,4772,valid,A,0,,,,0,0.0,1.0,709
+A_18143,18143,valid,A,0,,,,0,0.0,1.0,698
+A_3161,3161,valid,A,0,,,,0,0.0,1.0,672
+A_12355,12355,valid,A,0,,,,0,0.0,1.0,507
+A_6919,6919,valid,A,0,,,,0,0.0,1.0,657
+A_16514,16514,valid,A,0,,,,0,0.0,1.0,855
+A_16131,16131,valid,A,0,,,,0,0.0,1.0,721
+A_15676,15676,valid,A,0,,,,0,0.0,1.0,543
+A_6908,6908,valid,A,0,,,,0,0.0,1.0,931
+A_4899,4899,valid,A,0,,,,0,1.0,0.0,793
+A_26225,26225,valid,A,0,,,,0,1.0,0.0,1112
+A_23844,23844,valid,A,0,,,,0,1.0,0.0,742
+A_23033,23033,valid,A,0,,,,0,1.0,0.0,1035
+A_11081,11081,valid,A,0,,,,0,0.0,1.0,616
+A_6677,6677,valid,A,0,,,,0,0.0,1.0,586
+A_13025,13025,valid,A,0,,,,0,1.0,0.0,670
+A_24741,24741,valid,A,0,,,,0,0.0,1.0,440
+A_2982,2982,valid,A,0,,,,0,0.0,1.0,644
+A_19871,19871,valid,A,0,,,,0,0.0,1.0,736
+A_23905,23905,valid,A,0,,,,0,0.0,1.0,557
+A_6863,6863,valid,A,0,,,,0,0.0,1.0,706
+A_14444,14444,valid,A,0,,,,0,0.0,1.0,833
+A_10555,10555,valid,A,0,,,,0,0.0,1.0,414
+A_15342,15342,valid,A,0,,,,0,0.0,1.0,731
+A_5197,5197,valid,A,0,,,,0,0.0,1.0,565
+A_6641,6641,valid,A,0,,,,0,1.0,0.0,791
+A_25917,25917,valid,A,0,,,,0,0.0,1.0,567
+A_4721,4721,valid,A,0,,,,0,0.0,1.0,350
+A_13272,13272,valid,A,0,,,,0,0.0,1.0,721
+A_4065,4065,valid,A,0,,,,0,0.0,1.0,494
+A_16228,16228,valid,A,0,,,,0,0.0,1.0,606
+A_16662,16662,valid,A,0,,,,0,1.0,0.0,626
+A_18945,18945,valid,A,0,,,,0,0.0,1.0,566
+A_1761,1761,valid,A,0,,,,0,0.0,1.0,792
+A_3419,3419,valid,A,0,,,,0,0.0,1.0,598
+A_23963,23963,valid,A,0,,,,0,0.0,1.0,529
+A_25866,25866,valid,A,0,,,,0,0.0,1.0,770
+A_3383,3383,valid,A,0,,,,0,0.0,1.0,732
+A_25339,25339,valid,A,0,,,,0,0.0,1.0,709
+A_23168,23168,valid,A,0,,,,0,0.0,1.0,692
+A_2845,2845,valid,A,0,,,,0,0.0,1.0,425
+A_16119,16119,valid,A,0,,,,0,0.0,1.0,724
+A_6093,6093,valid,A,0,,,,0,1.0,0.0,727
+A_5553,5553,valid,A,0,,,,0,0.0,1.0,693
+A_13337,13337,valid,A,0,,,,0,0.0,1.0,440
+A_20855,20855,valid,A,0,,,,0,0.0,1.0,450
+A_20755,20755,valid,A,0,,,,0,0.0,1.0,704
+A_20120,20120,valid,A,0,,,,0,0.0,1.0,709
+A_21513,21513,valid,A,0,,,,0,0.0,1.0,353
+A_7266,7266,valid,A,0,,,,0,0.0,1.0,900
+A_17259,17259,valid,A,0,,,,0,0.0,1.0,531
+A_17609,17609,valid,A,0,,,,0,0.0,1.0,283
+A_24420,24420,valid,A,0,,,,0,0.0,1.0,373
+A_6600,6600,valid,A,0,,,,0,0.0,1.0,703
+A_6289,6289,valid,A,0,,,,0,0.0,1.0,386
+A_6047,6047,valid,A,0,,,,0,0.0,1.0,417
+A_17245,17245,valid,A,0,,,,0,0.0,1.0,576
+A_10934,10934,valid,A,0,,,,0,1.0,0.0,1013
+A_6256,6256,valid,A,0,,,,0,0.0,1.0,422
+A_7283,7283,valid,A,0,,,,0,0.0,1.0,761
+A_8075,8075,valid,A,0,,,,0,0.0,1.0,803
+A_14114,14114,valid,A,0,,,,0,0.0,1.0,654
+A_26407,26407,valid,A,0,,,,0,0.0,1.0,539
+A_7740,7740,valid,A,0,,,,0,1.0,0.0,737
+A_14857,14857,valid,A,0,,,,0,0.0,1.0,860
+A_15259,15259,valid,A,0,,,,0,0.0,1.0,882
+A_5777,5777,valid,A,0,,,,0,0.0,1.0,684
+A_6798,6798,valid,A,0,,,,0,0.0,1.0,574
+A_18986,18986,valid,A,0,,,,0,0.0,1.0,465
+A_8048,8048,valid,A,0,,,,0,0.0,1.0,670
+A_5779,5779,valid,A,0,,,,0,0.0,1.0,430
+A_5551,5551,valid,A,0,,,,0,0.0,1.0,627
+A_11270,11270,valid,A,0,,,,0,0.0,1.0,768
+A_2908,2908,valid,A,0,,,,0,0.0,1.0,814
+A_6487,6487,valid,A,0,,,,0,0.0,1.0,721
+A_24875,24875,valid,A,0,,,,0,0.0,1.0,616
+A_3218,3218,valid,A,0,,,,0,0.0,1.0,869
+A_12066,12066,valid,A,0,,,,0,0.0,1.0,540
+A_2702,2702,valid,A,0,,,,0,0.0,1.0,460
+A_3041,3041,valid,A,0,,,,0,0.0,1.0,1019
+A_12017,12017,valid,A,0,,,,0,0.0,1.0,729
+A_22903,22903,valid,A,0,,,,0,0.0,1.0,757
+A_25325,25325,valid,A,0,,,,0,0.0,1.0,701
+A_11223,11223,valid,A,0,,,,0,0.0,1.0,564
+A_14072,14072,valid,A,0,,,,0,0.0,1.0,681
+A_5384,5384,valid,A,0,,,,0,0.0,1.0,698
+A_14382,14382,valid,A,0,,,,0,0.0,1.0,614
+A_5292,5292,valid,A,0,,,,0,0.0,1.0,611
+A_23170,23170,valid,A,0,,,,0,0.0,1.0,582
+A_1969,1969,valid,A,0,,,,0,1.0,0.0,450
+A_2641,2641,valid,A,0,,,,0,0.0,1.0,573
+A_10593,10593,valid,A,0,,,,0,0.0,1.0,998
+A_2037,2037,valid,A,0,,,,0,1.0,0.0,702
+A_3868,3868,valid,A,0,,,,0,0.0,1.0,798
+A_23488,23488,valid,A,0,,,,0,0.0,1.0,590
+A_17558,17558,valid,A,0,,,,0,0.0,1.0,567
+A_16208,16208,valid,A,0,,,,0,0.0,1.0,385
+A_22515,22515,valid,A,0,,,,0,0.0,1.0,553
+A_5179,5179,valid,A,0,,,,0,0.0,1.0,549
+A_16422,16422,valid,A,0,,,,0,0.0,1.0,527
+A_16468,16468,valid,A,0,,,,0,0.0,1.0,566
+A_13007,13007,valid,A,0,,,,0,1.0,0.0,794
+A_4560,4560,valid,A,0,,,,0,0.0,1.0,414
+A_13795,13795,valid,A,0,,,,0,1.0,0.0,518
+A_20585,20585,valid,A,0,,,,0,0.0,1.0,550
+A_12391,12391,valid,A,0,,,,0,0.0,1.0,623
+A_17410,17410,valid,A,0,,,,0,1.0,0.0,627
+A_22204,22204,valid,A,0,,,,0,0.0,1.0,618
+A_17317,17317,valid,A,0,,,,0,0.0,1.0,560
+A_22390,22390,valid,A,0,,,,0,0.0,1.0,251
+A_15815,15815,valid,A,0,,,,0,0.0,1.0,689
+A_25971,25971,valid,A,0,,,,0,0.0,1.0,1096
+A_16247,16247,valid,A,0,,,,0,0.0,1.0,610
+A_13806,13806,valid,A,0,,,,0,0.0,1.0,598
+A_15588,15588,valid,A,0,,,,0,0.0,1.0,646
+A_15127,15127,valid,A,0,,,,0,0.0,1.0,842
+A_3908,3908,valid,A,0,,,,0,0.0,1.0,583
+A_17539,17539,valid,A,0,,,,0,0.0,1.0,514
+A_1242,1242,valid,A,0,,,,0,0.0,1.0,601
+A_24263,24263,valid,A,0,,,,0,0.0,1.0,554
+A_12298,12298,valid,A,0,,,,0,0.0,1.0,742
+A_24810,24810,valid,A,0,,,,0,0.0,1.0,785
+A_2054,2054,valid,A,0,,,,0,0.0,1.0,723
+A_25304,25304,valid,A,0,,,,0,0.0,1.0,451
+A_18009,18009,valid,A,0,,,,0,0.0,1.0,605
+A_18112,18112,valid,A,0,,,,0,0.0,1.0,628
+A_19663,19663,valid,A,0,,,,0,0.0,1.0,529
+A_26095,26095,valid,A,0,,,,0,0.0,1.0,662
+A_7953,7953,valid,A,0,,,,0,0.0,1.0,965
+A_5245,5245,valid,A,0,,,,0,0.0,1.0,274
+A_12181,12181,valid,A,0,,,,0,0.0,1.0,733
+A_20896,20896,valid,A,0,,,,0,0.0,1.0,581
+A_8268,8268,valid,A,0,,,,0,0.0,1.0,474
+A_19896,19896,valid,A,0,,,,0,0.0,1.0,1061
+A_17096,17096,valid,A,0,,,,0,0.0,1.0,933
+A_20593,20593,valid,A,0,,,,0,0.0,1.0,679
+A_21009,21009,valid,A,0,,,,0,0.0,1.0,473
+A_13340,13340,valid,A,0,,,,0,0.0,1.0,662
+A_23086,23086,valid,A,0,,,,0,0.0,1.0,429
+A_19047,19047,valid,A,0,,,,0,1.0,0.0,682
+A_25364,25364,valid,A,0,,,,0,1.0,0.0,1118
+A_16045,16045,valid,A,0,,,,0,0.0,1.0,460
+A_1820,1820,valid,A,0,,,,0,0.0,1.0,782
+A_7366,7366,valid,A,0,,,,0,0.0,1.0,817
+A_18757,18757,valid,A,0,,,,0,0.0,1.0,624
+A_24649,24649,valid,A,0,,,,0,0.0,1.0,690
+A_3418,3418,valid,A,0,,,,0,0.0,1.0,584
+A_21259,21259,valid,A,0,,,,0,0.0,1.0,649
+A_24825,24825,valid,A,0,,,,0,1.0,0.0,965
+A_8114,8114,valid,A,0,,,,0,0.0,1.0,501
+A_17712,17712,valid,A,0,,,,0,0.0,1.0,499
+A_10696,10696,test,A,0,,,,0,0.0,1.0,473
+A_16760,16760,test,A,0,,,,0,0.0,1.0,899
+A_1483,1483,test,A,0,,,,0,0.0,1.0,499
+A_22486,22486,test,A,0,,,,0,0.0,1.0,526
+A_20110,20110,test,A,0,,,,0,0.0,1.0,922
+A_24780,24780,test,A,0,,,,0,0.0,1.0,529
+A_7282,7282,test,A,0,,,,0,0.0,1.0,448
+A_25080,25080,test,A,0,,,,0,0.0,1.0,688
+A_1774,1774,test,A,0,,,,0,0.0,1.0,805
+A_22981,22981,test,A,0,,,,0,0.0,1.0,552
+A_15433,15433,test,A,0,,,,0,0.0,1.0,434
+A_12559,12559,test,A,0,,,,0,0.0,1.0,759
+A_21785,21785,test,A,0,,,,0,0.0,1.0,469
+A_3065,3065,test,A,0,,,,0,0.0,1.0,807
+A_14138,14138,test,A,0,,,,0,0.0,1.0,750
+A_18129,18129,test,A,0,,,,0,0.0,1.0,455
+A_23712,23712,test,A,0,,,,0,0.0,1.0,1056
+A_1250,1250,test,A,0,,,,0,0.0,1.0,912
+A_21362,21362,test,A,0,,,,0,0.0,1.0,604
+A_18248,18248,test,A,0,,,,0,0.0,1.0,345
+A_24011,24011,test,A,0,,,,0,0.0,1.0,597
+A_13323,13323,test,A,0,,,,0,0.0,1.0,585
+A_13879,13879,test,A,0,,,,0,0.0,1.0,370
+A_15819,15819,test,A,0,,,,0,0.0,1.0,620
+A_12628,12628,test,A,0,,,,0,0.0,1.0,708
+A_8111,8111,test,A,0,,,,0,0.0,1.0,489
+A_19859,19859,test,A,0,,,,0,0.0,1.0,889
+A_7854,7854,test,A,0,,,,0,1.0,0.0,672
+A_4872,4872,test,A,0,,,,0,0.0,1.0,763
+A_11277,11277,test,A,0,,,,0,0.0,1.0,653
+A_26458,26458,test,A,0,,,,0,1.0,0.0,714
+A_26268,26268,test,A,0,,,,0,0.0,1.0,639
+A_8107,8107,test,A,0,,,,0,0.0,1.0,540
+A_15818,15818,test,A,0,,,,0,0.0,1.0,540
+A_1907,1907,test,A,0,,,,0,0.0,1.0,449
+A_22314,22314,test,A,0,,,,0,1.0,0.0,1065
+A_10553,10553,test,A,0,,,,0,0.0,1.0,710
+A_15688,15688,test,A,0,,,,0,0.0,1.0,310
+A_21855,21855,test,A,0,,,,0,0.0,1.0,418
+A_7664,7664,test,A,0,,,,0,0.0,1.0,981
+A_16344,16344,test,A,0,,,,0,0.0,1.0,467
+A_5061,5061,test,A,0,,,,0,0.0,1.0,302
+A_20770,20770,test,A,0,,,,0,0.0,1.0,264
+A_10592,10592,test,A,0,,,,0,0.0,1.0,469
+A_7476,7476,test,A,0,,,,0,0.0,1.0,656
+A_17727,17727,test,A,0,,,,0,0.0,1.0,460
+A_24392,24392,test,A,0,,,,0,0.0,1.0,448
+A_21042,21042,test,A,0,,,,0,0.0,1.0,829
+A_4376,4376,test,A,0,,,,0,0.0,1.0,658
+A_2742,2742,test,A,0,,,,0,1.0,0.0,473
+A_17228,17228,test,A,0,,,,0,0.0,1.0,593
+A_14434,14434,test,A,0,,,,0,0.0,1.0,859
+A_5574,5574,test,A,0,,,,0,0.0,1.0,694
+A_15012,15012,test,A,0,,,,0,0.0,1.0,796
+A_18655,18655,test,A,0,,,,0,0.0,1.0,376
+A_23143,23143,test,A,0,,,,0,0.0,1.0,532
+A_21767,21767,test,A,0,,,,0,0.0,1.0,757
+A_19914,19914,test,A,0,,,,0,0.0,1.0,605
+A_10524,10524,test,A,0,,,,0,1.0,0.0,1082
+A_17494,17494,test,A,0,,,,0,0.0,1.0,721
+A_3445,3445,test,A,0,,,,0,0.0,1.0,770
+A_12579,12579,test,A,0,,,,0,1.0,0.0,891
+A_8069,8069,test,A,0,,,,0,0.0,1.0,604
+A_6016,6016,test,A,0,,,,0,0.0,1.0,593
+A_23486,23486,test,A,0,,,,0,0.0,1.0,601
+A_2035,2035,test,A,0,,,,0,0.0,1.0,519
+A_14801,14801,test,A,0,,,,0,0.0,1.0,374
+A_2093,2093,test,A,0,,,,0,0.0,1.0,515
+A_5962,5962,test,A,0,,,,0,0.0,1.0,498
+A_7063,7063,test,A,0,,,,0,0.0,1.0,721
+A_15890,15890,test,A,0,,,,0,0.0,1.0,616
+A_12361,12361,test,A,0,,,,0,0.0,1.0,380
+A_21919,21919,test,A,0,,,,0,0.0,1.0,783
+A_23985,23985,test,A,0,,,,0,0.0,1.0,588
+A_24249,24249,test,A,0,,,,0,1.0,0.0,474
+A_12765,12765,test,A,0,,,,0,0.0,1.0,442
+A_22332,22332,test,A,0,,,,0,1.0,0.0,783
+A_19909,19909,test,A,0,,,,0,0.0,1.0,719
+A_16527,16527,test,A,0,,,,0,0.0,1.0,618
+A_17590,17590,test,A,0,,,,0,0.0,1.0,676
+A_7009,7009,test,A,0,,,,0,0.0,1.0,1049
+A_13966,13966,test,A,0,,,,0,0.0,1.0,755
+A_7646,7646,test,A,0,,,,0,0.0,1.0,832
+A_11250,11250,test,A,0,,,,0,0.0,1.0,875
+A_17685,17685,test,A,0,,,,0,0.0,1.0,511
+A_20388,20388,test,A,0,,,,0,0.0,1.0,472
+A_24346,24346,test,A,0,,,,0,0.0,1.0,633
+A_14187,14187,test,A,0,,,,0,0.0,1.0,754
+A_12917,12917,test,A,0,,,,0,0.0,1.0,580
+A_24880,24880,test,A,0,,,,0,0.0,1.0,584
+A_24712,24712,test,A,0,,,,0,0.0,1.0,752
+A_6870,6870,test,A,0,,,,0,0.0,1.0,447
+A_6310,6310,test,A,0,,,,0,0.0,1.0,484
+A_15632,15632,test,A,0,,,,0,0.0,1.0,657
+A_3046,3046,test,A,0,,,,0,0.0,1.0,703
+A_3337,3337,test,A,0,,,,0,0.0,1.0,541
+A_18794,18794,test,A,0,,,,0,0.0,1.0,398
+A_16932,16932,test,A,0,,,,0,0.0,1.0,577
+A_14736,14736,test,A,0,,,,0,0.0,1.0,502
+A_16160,16160,test,A,0,,,,0,0.0,1.0,560
+A_24627,24627,test,A,0,,,,0,1.0,0.0,411
+A_22894,22894,test,A,0,,,,0,0.0,1.0,695
+A_11330,11330,test,A,0,,,,0,0.0,1.0,807
+A_7514,7514,test,A,0,,,,0,0.0,1.0,777
+A_20867,20867,test,A,0,,,,0,0.0,1.0,289
+A_6086,6086,test,A,0,,,,0,0.0,1.0,488
+A_15806,15806,test,A,0,,,,0,0.0,1.0,454
+A_15649,15649,test,A,0,,,,0,0.0,1.0,566
+A_16381,16381,test,A,0,,,,0,0.0,1.0,339
+A_16999,16999,test,A,0,,,,0,0.0,1.0,833
+A_15031,15031,test,A,0,,,,0,0.0,1.0,381
+A_21454,21454,test,A,0,,,,0,0.0,1.0,524
+A_6254,6254,test,A,0,,,,0,0.0,1.0,463
+A_3981,3981,test,A,0,,,,0,0.0,1.0,523
+A_24976,24976,test,A,0,,,,0,1.0,0.0,604
+A_13095,13095,test,A,0,,,,0,0.0,1.0,696
+A_12906,12906,test,A,0,,,,0,0.0,1.0,389
+A_3910,3910,test,A,0,,,,0,0.0,1.0,466
+A_15376,15376,test,A,0,,,,0,0.0,1.0,447
+A_19568,19568,test,A,0,,,,0,0.0,1.0,963
+A_22033,22033,test,A,0,,,,0,0.0,1.0,494
+A_2427,2427,test,A,0,,,,0,0.0,1.0,810
+A_25211,25211,test,A,0,,,,0,0.0,1.0,409
+A_3460,3460,test,A,0,,,,0,0.0,1.0,346
+A_17152,17152,test,A,0,,,,0,0.0,1.0,578
+A_25713,25713,test,A,0,,,,0,0.0,1.0,677
+A_15752,15752,test,A,0,,,,0,0.0,1.0,623
+A_1363,1363,test,A,0,,,,0,0.0,1.0,694
+A_7368,7368,test,A,0,,,,0,0.0,1.0,735
+A_12970,12970,test,A,0,,,,0,0.0,1.0,487
+A_11194,11194,test,A,0,,,,0,1.0,0.0,812
+A_18694,18694,test,A,0,,,,0,0.0,1.0,306
+A_5623,5623,test,A,0,,,,0,0.0,1.0,633
+A_12383,12383,test,A,0,,,,0,0.0,1.0,608
+A_3306,3306,test,A,0,,,,0,0.0,1.0,497
+A_24487,24487,test,A,0,,,,0,0.0,1.0,816
+A_6807,6807,test,A,0,,,,0,0.0,1.0,797
+A_22123,22123,test,A,0,,,,0,0.0,1.0,356
+A_5977,5977,test,A,0,,,,0,0.0,1.0,431
+A_25747,25747,test,A,0,,,,0,0.0,1.0,429
+A_17851,17851,test,A,0,,,,0,0.0,1.0,330
+A_17640,17640,test,A,0,,,,0,0.0,1.0,448
+A_16382,16382,test,A,0,,,,0,0.0,1.0,302
+A_16078,16078,test,A,0,,,,0,0.0,1.0,655
+A_3842,3842,test,A,0,,,,0,0.0,1.0,544
+A_15894,15894,test,A,0,,,,0,0.0,1.0,607
+A_6271,6271,test,A,0,,,,0,0.0,1.0,653
+A_10653,10653,test,A,0,,,,0,0.0,1.0,433
+A_24803,24803,test,A,0,,,,0,0.0,1.0,396
+A_7685,7685,test,A,0,,,,0,1.0,0.0,841
+A_13921,13921,test,A,0,,,,0,0.0,1.0,326
+A_1493,1493,test,A,0,,,,0,0.0,1.0,720
+A_4788,4788,test,A,0,,,,0,1.0,0.0,597
+A_22428,22428,test,A,0,,,,0,0.0,1.0,692
+A_16396,16396,test,A,0,,,,0,0.0,1.0,797
+A_21340,21340,test,A,0,,,,0,0.0,1.0,639
+A_12149,12149,test,A,0,,,,0,0.0,1.0,402
+A_2544,2544,test,A,0,,,,0,1.0,0.0,418
+A_18831,18831,test,A,0,,,,0,0.0,1.0,883
+A_17877,17877,test,A,0,,,,0,0.0,1.0,711
+A_17021,17021,test,A,0,,,,0,0.0,1.0,677
+A_23555,23555,test,A,0,,,,0,1.0,0.0,840
+A_12537,12537,test,A,0,,,,0,0.0,1.0,797
+A_13667,13667,test,A,0,,,,0,0.0,1.0,351
+A_25096,25096,test,A,0,,,,0,0.0,1.0,536
+A_13383,13383,test,A,0,,,,0,0.0,1.0,547
+A_19597,19597,test,A,0,,,,0,0.0,1.0,688
+A_17222,17222,test,A,0,,,,0,0.0,1.0,590
+A_11456,11456,test,A,0,,,,0,0.0,1.0,364
+A_23151,23151,test,A,0,,,,0,0.0,1.0,354
+A_23474,23474,test,A,0,,,,0,0.0,1.0,787
+A_7258,7258,test,A,0,,,,0,1.0,0.0,638
+A_20850,20850,test,A,0,,,,0,0.0,1.0,485
+A_23540,23540,test,A,0,,,,0,0.0,1.0,511
+A_14131,14131,test,A,0,,,,0,1.0,0.0,760
+A_19975,19975,test,A,0,,,,0,0.0,1.0,850
+A_25827,25827,test,A,0,,,,0,0.0,1.0,655
+A_24166,24166,test,A,0,,,,0,1.0,0.0,398
+A_11971,11971,test,A,0,,,,0,0.0,1.0,436
+A_19228,19228,test,A,0,,,,0,1.0,0.0,711
+A_17572,17572,test,A,0,,,,0,0.0,1.0,418
+A_6082,6082,test,A,0,,,,0,0.0,1.0,472
+A_13753,13753,test,A,0,,,,0,0.0,1.0,549
+A_17783,17783,test,A,0,,,,0,0.0,1.0,772
+A_1275,1275,test,A,0,,,,0,0.0,1.0,703
+A_23831,23831,test,A,0,,,,0,0.0,1.0,602
+A_736,736,test,A,0,,,,0,0.0,1.0,343
+A_6524,6524,test,A,0,,,,0,0.0,1.0,588
+A_6340,6340,test,A,0,,,,0,0.0,1.0,866
+A_16581,16581,test,A,0,,,,0,0.0,1.0,371
+A_2166,2166,test,A,0,,,,0,0.0,1.0,255
+A_5531,5531,test,A,0,,,,0,0.0,1.0,298
+A_24351,24351,test,A,0,,,,0,0.0,1.0,368
+A_15347,15347,test,A,0,,,,0,1.0,0.0,1043
+A_17256,17256,test,A,0,,,,0,0.0,1.0,867
+A_19092,19092,test,A,0,,,,0,1.0,0.0,606
+A_12904,12904,test,A,0,,,,0,0.0,1.0,665
+A_22557,22557,test,A,0,,,,0,0.0,1.0,648
+A_13219,13219,test,A,0,,,,0,0.0,1.0,709
+A_18005,18005,test,A,0,,,,0,0.0,1.0,658
+A_1373,1373,test,A,0,,,,0,1.0,0.0,628
+A_20407,20407,test,A,0,,,,0,0.0,1.0,516
+A_17450,17450,test,A,0,,,,0,0.0,1.0,453
+A_26067,26067,test,A,0,,,,0,0.0,1.0,678
+A_15883,15883,test,A,0,,,,0,0.0,1.0,806
+A_3236,3236,test,A,0,,,,0,0.0,1.0,535
+A_13450,13450,test,A,0,,,,0,1.0,0.0,506
+A_12957,12957,test,A,0,,,,0,0.0,1.0,389
+A_6071,6071,test,A,0,,,,0,0.0,1.0,814
+A_16338,16338,test,A,0,,,,0,0.0,1.0,519
+A_4084,4084,test,A,0,,,,0,0.0,1.0,925
+A_8251,8251,test,A,0,,,,0,0.0,1.0,710
+A_17989,17989,test,A,0,,,,0,0.0,1.0,529
+A_12125,12125,test,A,0,,,,0,1.0,0.0,863
+A_3255,3255,test,A,0,,,,0,0.0,1.0,275
+A_18811,18811,test,A,0,,,,0,0.0,1.0,717
+A_13460,13460,test,A,0,,,,0,0.0,1.0,612
+A_26453,26453,test,A,0,,,,0,0.0,1.0,696
+A_1695,1695,test,A,0,,,,0,0.0,1.0,510
+A_20824,20824,test,A,0,,,,0,0.0,1.0,527
+A_15983,15983,test,A,0,,,,0,0.0,1.0,465
+A_19737,19737,test,A,0,,,,0,0.0,1.0,662
+A_14938,14938,test,A,0,,,,0,0.0,1.0,505
+A_2565,2565,test,A,0,,,,0,0.0,1.0,557
+A_4451,4451,test,A,0,,,,0,0.0,1.0,596
+A_16708,16708,test,A,0,,,,0,0.0,1.0,528
+A_12497,12497,test,A,0,,,,0,0.0,1.0,644
+A_20374,20374,test,A,0,,,,0,1.0,0.0,835
+A_12924,12924,test,A,0,,,,0,0.0,1.0,736
+A_14271,14271,test,A,0,,,,0,0.0,1.0,767
+A_7279,7279,test,A,0,,,,0,0.0,1.0,688
+A_1982,1982,valid,A,0,,,,0,1.0,0.0,1001
+A_18625,18625,valid,A,0,,,,0,0.0,1.0,462
+A_18873,18873,valid,A,0,,,,0,0.0,1.0,458
+A_23019,23019,valid,A,0,,,,0,0.0,1.0,783
+A_23240,23240,test,A,0,,,,0,0.0,1.0,789
+A_12056,12056,test,A,0,,,,0,1.0,0.0,695
+A_12428,12428,test,A,0,,,,0,0.0,1.0,714
+A_21467,21467,test,A,0,,,,0,0.0,1.0,490
+B_13534_Delete_1,13534,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,535
+B_13534_Delete_2,13534,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,575
+B_13534_Delete_3,13534,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,575
+B_25069_Delete_1,25069,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,779
+B_25069_Delete_2,25069,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,542
+B_25069_Delete_3,25069,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,441
+B_13898_Delete_1,13898,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,460
+B_13898_Delete_2,13898,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,488
+B_5273_Delete_1,5273,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,515
+B_5273_Delete_2,5273,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,401
+B_25377_Delete_1,25377,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,1013
+B_25377_Delete_2,25377,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,623
+B_25377_Delete_3,25377,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,348
+B_20453_Delete_1,20453,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,552
+B_20453_Delete_2,20453,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,555
+B_20453_Delete_3,20453,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,534
+B_4954_Delete_1,4954,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,339
+B_11825_Delete_1,11825,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,582
+B_11825_Delete_2,11825,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,515
+B_2174_Delete_1,2174,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,865
+B_2174_Delete_2,2174,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,584
+B_2174_Delete_3,2174,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,551
+B_18619_Delete_1,18619,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,432
+B_18619_Delete_2,18619,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,319
+B_10931_Delete_1,10931,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,461
+B_10931_Delete_2,10931,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,440
+B_17068_Delete_1,17068,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,565
+B_17068_Delete_2,17068,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,512
+B_17068_Delete_3,17068,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,434
+B_3931_Delete_1,3931,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,297
+B_3931_Delete_2,3931,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,304
+B_2574_Delete_1,2574,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,475
+B_2574_Delete_2,2574,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,414
+B_2574_Delete_3,2574,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,454
+B_19145_Delete_1,19145,valid,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,481
+B_19145_Delete_2,19145,valid,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,550
+B_19145_Delete_3,19145,valid,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,475
+B_5881_Delete_1,5881,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,408
+B_13748_Delete_1,13748,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,513
+B_19495_Delete_1,19495,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,781
+B_19495_Delete_2,19495,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,648
+B_19495_Delete_3,19495,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,1096
+B_22350_Delete_1,22350,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,588
+B_22350_Delete_2,22350,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,607
+B_22350_Delete_3,22350,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,365
+B_22213_Delete_1,22213,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,597
+B_22213_Delete_2,22213,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,625
+B_16880_Delete_1,16880,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,957
+B_16880_Delete_2,16880,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,619
+B_25258_Delete_1,25258,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,575
+B_25258_Delete_2,25258,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,240
+B_25258_Delete_3,25258,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,564
+B_11533_Delete_1,11533,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,584
+B_11533_Delete_2,11533,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,470
+B_11533_Delete_3,11533,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,786
+B_8065_Delete_1,8065,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,357
+B_8065_Delete_2,8065,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,395
+B_8065_Delete_3,8065,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,458
+B_16180_Delete_1,16180,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,390
+B_16180_Delete_2,16180,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,382
+B_16180_Delete_3,16180,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,549
+B_21348_Delete_1,21348,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,550
+B_21348_Delete_2,21348,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,580
+B_21348_Delete_3,21348,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,549
+B_8244_Delete_1,8244,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,502
+B_8244_Delete_2,8244,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,405
+B_8244_Delete_3,8244,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,536
+B_23394_Delete_1,23394,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,520
+B_23394_Delete_2,23394,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,673
+B_23394_Delete_3,23394,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,482
+B_1749_Delete_1,1749,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,676
+B_6003_Delete_2,6003,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,547
+B_6003_Delete_3,6003,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,341
+B_26445_Delete_1,26445,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,330
+B_26445_Delete_2,26445,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,412
+B_4377_Delete_1,4377,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,521
+B_4377_Delete_2,4377,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,485
+B_4377_Delete_3,4377,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,401
+B_11993_Delete_1,11993,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,427
+B_11993_Delete_2,11993,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,556
+B_11993_Delete_3,11993,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,393
+B_14293_Delete_1,14293,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,645
+B_14293_Delete_2,14293,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,631
+B_14293_Delete_3,14293,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,633
+B_18219_Delete_1,18219,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,686
+B_18219_Delete_2,18219,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,641
+B_18219_Delete_3,18219,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,770
+B_3965_Delete_1,3965,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,490
+B_3965_Delete_2,3965,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,403
+B_3965_Delete_3,3965,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,376
+B_17460_Delete_1,17460,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,564
+B_16509_Delete_2,16509,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,429
+B_16509_Delete_3,16509,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,483
+B_19933_Delete_1,19933,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,526
+B_19933_Delete_2,19933,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,500
+B_21985_Delete_1,21985,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,580
+B_21985_Delete_2,21985,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,361
+B_24071_Delete_1,24071,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,474
+B_24071_Delete_2,24071,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,254
+B_24071_Delete_3,24071,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,480
+B_6117_Delete_1,6117,valid,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,343
+B_6117_Delete_2,6117,valid,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,366
+B_6117_Delete_3,6117,valid,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,566
+B_4781_Delete_1,4781,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,427
+B_4781_Delete_2,4781,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,593
+B_4781_Delete_3,4781,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,558
+B_5330_Delete_1,5330,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,776
+B_5330_Delete_2,5330,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,511
+B_5330_Delete_3,5330,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,482
+B_19763_Delete_1,19763,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,611
+B_19763_Delete_2,19763,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,697
+B_19763_Delete_3,19763,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,616
+B_21567_Delete_1,21567,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,532
+B_21567_Delete_2,21567,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,416
+B_22234_Delete_1,22234,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,276
+B_22234_Delete_2,22234,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,367
+B_22234_Delete_3,22234,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,285
+B_23862_Delete_1,23862,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,535
+B_23862_Delete_2,23862,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,634
+B_23862_Delete_3,23862,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,433
+B_13589_Delete_1,13589,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,719
+B_13589_Delete_2,13589,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,813
+B_13589_Delete_3,13589,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,693
+B_4956_Delete_1,4956,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,630
+B_4956_Delete_2,4956,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,269
+B_24804_Delete_1,24804,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,394
+B_24804_Delete_2,24804,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,563
+B_24804_Delete_3,24804,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,429
+B_5169_Delete_1,5169,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,423
+B_5169_Delete_2,5169,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,729
+B_5169_Delete_3,5169,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,674
+B_19533_Delete_1,19533,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,471
+B_19533_Delete_2,19533,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,670
+B_16393_Delete_1,16393,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,610
+B_16393_Delete_2,16393,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,539
+B_16393_Delete_3,16393,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,524
+B_13143_Delete_1,13143,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,446
+B_13143_Delete_2,13143,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,461
+B_3364_Delete_1,3364,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,446
+B_3364_Delete_2,3364,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,415
+B_16515_Delete_1,16515,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,344
+B_16515_Delete_2,16515,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,312
+B_16515_Delete_3,16515,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,652
+B_24955_Delete_1,24955,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,505
+B_24955_Delete_2,24955,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,529
+B_24955_Delete_3,24955,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,537
+B_6475_Delete_1,6475,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,388
+B_6475_Delete_2,6475,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,536
+B_6475_Delete_3,6475,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,564
+B_23411_Delete_1,23411,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,667
+B_23411_Delete_2,23411,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,654
+B_21746_Delete_1,21746,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,518
+B_21746_Delete_2,21746,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,505
+B_21746_Delete_3,21746,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,517
+B_24192_Delete_1,24192,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,533
+B_539_Delete_1,539,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,541
+B_539_Delete_2,539,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,506
+B_13140_Delete_1,13140,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,611
+B_13140_Delete_2,13140,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,485
+B_13140_Delete_3,13140,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,498
+B_25373_Delete_1,25373,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,526
+B_25373_Delete_2,25373,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,497
+B_25373_Delete_3,25373,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,446
+B_17236_Delete_1,17236,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,482
+B_17236_Delete_2,17236,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,612
+B_17236_Delete_3,17236,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,599
+B_2575_Delete_1,2575,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,550
+B_2575_Delete_2,2575,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,545
+B_26145_Delete_1,26145,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,513
+B_26145_Delete_2,26145,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,551
+B_26145_Delete_3,26145,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,417
+B_13006_Delete_1,13006,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,501
+B_13006_Delete_2,13006,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,780
+B_13006_Delete_3,13006,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,469
+B_11454_Delete_1,11454,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,681
+B_11454_Delete_2,11454,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,409
+B_13274_Delete_1,13274,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,403
+B_13274_Delete_2,13274,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,786
+B_13274_Delete_3,13274,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,591
+B_20394_Delete_1,20394,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,483
+B_18131_Delete_1,18131,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,281
+B_18131_Delete_2,18131,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,393
+B_26144_Delete_1,26144,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,472
+B_19591_Delete_1,19591,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,451
+B_19591_Delete_2,19591,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,772
+B_11187_Delete_1,11187,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,462
+B_11187_Delete_2,11187,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,517
+B_6852_Delete_2,6852,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,552
+B_6852_Delete_3,6852,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,411
+B_15565_Delete_1,15565,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,572
+B_15565_Delete_2,15565,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,326
+B_15565_Delete_3,15565,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,589
+B_21440_Delete_1,21440,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,463
+B_21440_Delete_2,21440,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,731
+B_21440_Delete_3,21440,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,603
+B_4772_Delete_1,4772,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,588
+B_4772_Delete_2,4772,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,570
+B_4772_Delete_3,4772,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,461
+B_18143_Delete_1,18143,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,666
+B_18143_Delete_2,18143,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,551
+B_18143_Delete_3,18143,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,557
+B_3161_Delete_1,3161,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,547
+B_3161_Delete_2,3161,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,502
+B_3161_Delete_3,3161,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,419
+B_12355_Delete_1,12355,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,453
+B_12355_Delete_2,12355,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,493
+B_6919_Delete_1,6919,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,599
+B_6919_Delete_2,6919,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,546
+B_6919_Delete_3,6919,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,429
+B_16514_Delete_1,16514,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,601
+B_16514_Delete_2,16514,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,557
+B_16131_Delete_1,16131,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,644
+B_16131_Delete_2,16131,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,613
+B_16131_Delete_3,16131,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,551
+B_15676_Delete_1,15676,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,423
+B_15676_Delete_2,15676,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,438
+B_15676_Delete_3,15676,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,979
+B_6908_Delete_1,6908,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,854
+B_6908_Delete_2,6908,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,776
+B_6908_Delete_3,6908,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,661
+B_4899_Delete_1,4899,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,586
+B_26225_Delete_1,26225,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,545
+B_26225_Delete_2,26225,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,586
+B_26225_Delete_3,26225,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,448
+B_23844_Delete_1,23844,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,470
+B_23033_Delete_1,23033,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,373
+B_23033_Delete_2,23033,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,540
+B_11081_Delete_1,11081,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,618
+B_11081_Delete_2,11081,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,578
+B_6677_Delete_1,6677,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,586
+B_13025_Delete_1,13025,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,430
+B_13025_Delete_2,13025,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,357
+B_13025_Delete_3,13025,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,298
+B_24741_Delete_1,24741,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,432
+B_24741_Delete_2,24741,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,745
+B_2982_Delete_1,2982,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,510
+B_2982_Delete_2,2982,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,345
+B_2982_Delete_3,2982,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,341
+B_19871_Delete_1,19871,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,673
+B_19871_Delete_2,19871,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,561
+B_19871_Delete_3,19871,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,545
+B_23905_Delete_1,23905,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,428
+B_23905_Delete_2,23905,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,466
+B_6863_Delete_1,6863,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,649
+B_6863_Delete_2,6863,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,584
+B_6863_Delete_3,6863,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,471
+B_14444_Delete_1,14444,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,689
+B_14444_Delete_2,14444,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,379
+B_14444_Delete_3,14444,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,694
+B_10555_Delete_1,10555,valid,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,705
+B_10555_Delete_2,10555,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,439
+B_10555_Delete_3,10555,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,487
+B_15342_Delete_1,15342,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,475
+B_15342_Delete_2,15342,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,451
+B_15342_Delete_3,15342,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,446
+B_5197_Delete_1,5197,valid,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,569
+B_6641_Delete_2,6641,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,490
+B_6641_Delete_3,6641,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,598
+B_25917_Delete_1,25917,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,382
+B_25917_Delete_2,25917,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,391
+B_25917_Delete_3,25917,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,388
+B_4721_Delete_1,4721,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,320
+B_4721_Delete_2,4721,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,590
+B_4721_Delete_3,4721,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,596
+B_13272_Delete_1,13272,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,556
+B_13272_Delete_2,13272,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,541
+B_13272_Delete_3,13272,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,549
+B_4065_Delete_1,4065,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,391
+B_4065_Delete_2,4065,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,371
+B_4065_Delete_3,4065,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,585
+B_16228_Delete_1,16228,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,555
+B_16662_Delete_1,16662,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,634
+B_16662_Delete_2,16662,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,571
+B_16662_Delete_3,16662,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,589
+B_18945_Delete_1,18945,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,543
+B_18945_Delete_2,18945,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,573
+B_1761_Delete_1,1761,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,389
+B_1761_Delete_2,1761,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,442
+B_3419_Delete_1,3419,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,579
+B_3419_Delete_2,3419,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,275
+B_23963_Delete_1,23963,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,404
+B_25866_Delete_1,25866,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,739
+B_25866_Delete_2,25866,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,656
+B_3383_Delete_1,3383,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,811
+B_3383_Delete_2,3383,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,631
+B_3383_Delete_3,3383,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,596
+B_25339_Delete_1,25339,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,397
+B_25339_Delete_2,25339,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,600
+B_25339_Delete_3,25339,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,384
+B_23168_Delete_1,23168,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,667
+B_23168_Delete_2,23168,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,791
+B_2845_Delete_1,2845,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,399
+B_16119_Delete_1,16119,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,552
+B_16119_Delete_2,16119,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,584
+B_16119_Delete_3,16119,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,710
+B_6093_Delete_1,6093,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,660
+B_6093_Delete_2,6093,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,778
+B_6093_Delete_3,6093,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,404
+B_5553_Delete_1,5553,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,576
+B_5553_Delete_2,5553,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,532
+B_5553_Delete_3,5553,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,541
+B_13337_Delete_1,13337,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,290
+B_13337_Delete_2,13337,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,412
+B_13337_Delete_3,13337,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,624
+B_20855_Delete_1,20855,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,357
+B_20855_Delete_2,20855,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,364
+B_20855_Delete_3,20855,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,393
+B_20755_Delete_1,20755,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,564
+B_20755_Delete_2,20755,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,630
+B_20120_Delete_1,20120,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,470
+B_20120_Delete_2,20120,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,515
+B_20120_Delete_3,20120,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,380
+B_21513_Delete_1,21513,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,665
+B_21513_Delete_2,21513,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,365
+B_7266_Delete_1,7266,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,645
+B_17259_Delete_1,17259,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,530
+B_17259_Delete_2,17259,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,414
+B_17259_Delete_3,17259,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,437
+B_17609_Delete_1,17609,valid,B,1,Delete N=1,Other,Delete,1,0.0,0.0,313
+B_24420_Delete_1,24420,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,312
+B_24420_Delete_2,24420,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,280
+B_24420_Delete_3,24420,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,382
+B_6600_Delete_1,6600,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,628
+B_6600_Delete_2,6600,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,589
+B_6600_Delete_3,6600,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,605
+B_6289_Delete_1,6289,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,848
+B_6289_Delete_2,6289,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,312
+B_6289_Delete_3,6289,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,591
+B_6047_Delete_1,6047,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,444
+B_6047_Delete_2,6047,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,382
+B_6047_Delete_3,6047,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,390
+B_17245_Delete_1,17245,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,380
+B_17245_Delete_2,17245,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,291
+B_17245_Delete_3,17245,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,504
+B_10934_Delete_1,10934,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,825
+B_10934_Delete_2,10934,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,821
+B_10934_Delete_3,10934,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,635
+B_6256_Delete_1,6256,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,342
+B_7283_Delete_1,7283,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,492
+B_7283_Delete_2,7283,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,490
+B_7283_Delete_3,7283,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,504
+B_8075_Delete_1,8075,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,524
+B_8075_Delete_2,8075,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,511
+B_8075_Delete_3,8075,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,627
+B_14114_Delete_1,14114,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,470
+B_14114_Delete_2,14114,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,429
+B_14114_Delete_3,14114,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,455
+B_26407_Delete_1,26407,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,518
+B_26407_Delete_2,26407,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,418
+B_7740_Delete_2,7740,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,768
+B_7740_Delete_3,7740,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,700
+B_14857_Delete_1,14857,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,570
+B_14857_Delete_2,14857,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,789
+B_14857_Delete_3,14857,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,463
+B_15259_Delete_1,15259,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,898
+B_15259_Delete_2,15259,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,394
+B_15259_Delete_3,15259,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,539
+B_5777_Delete_1,5777,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,392
+B_5777_Delete_2,5777,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,393
+B_5777_Delete_3,5777,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,360
+B_6798_Delete_1,6798,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,377
+B_6798_Delete_2,6798,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,691
+B_18986_Delete_1,18986,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,319
+B_18986_Delete_2,18986,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,655
+B_18986_Delete_3,18986,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,424
+B_8048_Delete_1,8048,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,530
+B_8048_Delete_2,8048,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,649
+B_5779_Delete_1,5779,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,513
+B_5779_Delete_2,5779,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,399
+B_5779_Delete_3,5779,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,368
+B_5551_Delete_1,5551,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,580
+B_5551_Delete_2,5551,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,260
+B_5551_Delete_3,5551,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,703
+B_11270_Delete_1,11270,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,724
+B_11270_Delete_2,11270,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,643
+B_11270_Delete_3,11270,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,521
+B_2908_Delete_1,2908,valid,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,679
+B_2908_Delete_2,2908,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,540
+B_2908_Delete_3,2908,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,461
+B_6487_Delete_1,6487,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,249
+B_24875_Delete_1,24875,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,532
+B_24875_Delete_2,24875,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,507
+B_24875_Delete_3,24875,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,513
+B_3218_Delete_1,3218,valid,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,537
+B_3218_Delete_2,3218,valid,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,529
+B_3218_Delete_3,3218,valid,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,575
+B_12066_Delete_1,12066,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,390
+B_12066_Delete_2,12066,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,368
+B_12066_Delete_3,12066,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,466
+B_2702_Delete_1,2702,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,387
+B_2702_Delete_2,2702,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,569
+B_2702_Delete_3,2702,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,473
+B_3041_Delete_1,3041,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,448
+B_12017_Delete_1,12017,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,393
+B_12017_Delete_2,12017,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,485
+B_12017_Delete_3,12017,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,477
+B_22903_Delete_1,22903,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,475
+B_22903_Delete_2,22903,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,512
+B_22903_Delete_3,22903,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,655
+B_25325_Delete_1,25325,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,588
+B_25325_Delete_2,25325,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,540
+B_25325_Delete_3,25325,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,376
+B_11223_Delete_1,11223,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,471
+B_11223_Delete_2,11223,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,630
+B_11223_Delete_3,11223,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,438
+B_14072_Delete_1,14072,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,819
+B_14072_Delete_2,14072,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,655
+B_14072_Delete_3,14072,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,614
+B_5384_Delete_1,5384,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,504
+B_5384_Delete_2,5384,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,593
+B_14382_Delete_1,14382,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,510
+B_14382_Delete_2,14382,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,492
+B_14382_Delete_3,14382,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,458
+B_5292_Delete_1,5292,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,642
+B_5292_Delete_2,5292,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,575
+B_5292_Delete_3,5292,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,486
+B_23170_Delete_1,23170,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,437
+B_23170_Delete_2,23170,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,336
+B_23170_Delete_3,23170,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,752
+B_1969_Delete_1,1969,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,513
+B_2641_Delete_1,2641,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,521
+B_2641_Delete_2,2641,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,527
+B_2641_Delete_3,2641,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,548
+B_10593_Delete_1,10593,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,738
+B_10593_Delete_2,10593,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,391
+B_2037_Delete_1,2037,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,243
+B_2037_Delete_2,2037,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,381
+B_3868_Delete_1,3868,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,551
+B_3868_Delete_2,3868,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,463
+B_3868_Delete_3,3868,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,561
+B_23488_Delete_1,23488,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,505
+B_23488_Delete_2,23488,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,407
+B_23488_Delete_3,23488,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,547
+B_17558_Delete_1,17558,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,712
+B_17558_Delete_2,17558,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,679
+B_17558_Delete_3,17558,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,614
+B_16208_Delete_1,16208,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,342
+B_16208_Delete_2,16208,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,462
+B_16208_Delete_3,16208,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,423
+B_22515_Delete_1,22515,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,441
+B_22515_Delete_2,22515,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,490
+B_5179_Delete_1,5179,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,528
+B_5179_Delete_2,5179,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,473
+B_16422_Delete_1,16422,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,560
+B_16422_Delete_2,16422,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,554
+B_16468_Delete_1,16468,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,527
+B_16468_Delete_2,16468,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,733
+B_16468_Delete_3,16468,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,407
+B_13007_Delete_1,13007,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,591
+B_13007_Delete_2,13007,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,417
+B_13007_Delete_3,13007,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,441
+B_4560_Delete_1,4560,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,507
+B_4560_Delete_2,4560,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,529
+B_4560_Delete_3,4560,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,458
+B_13795_Delete_1,13795,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,405
+B_13795_Delete_2,13795,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,680
+B_13795_Delete_3,13795,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,575
+B_20585_Delete_1,20585,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,696
+B_20585_Delete_2,20585,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,700
+B_12391_Delete_1,12391,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,502
+B_12391_Delete_2,12391,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,478
+B_17410_Delete_1,17410,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,756
+B_17410_Delete_2,17410,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,649
+B_17410_Delete_3,17410,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,467
+B_22204_Delete_1,22204,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,650
+B_22204_Delete_2,22204,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,519
+B_17317_Delete_1,17317,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,424
+B_22390_Delete_1,22390,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,627
+B_22390_Delete_2,22390,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,565
+B_22390_Delete_3,22390,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,394
+B_15815_Delete_1,15815,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,671
+B_25971_Delete_1,25971,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,435
+B_25971_Delete_2,25971,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,372
+B_25971_Delete_3,25971,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,509
+B_16247_Delete_1,16247,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,270
+B_16247_Delete_2,16247,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,538
+B_16247_Delete_3,16247,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,464
+B_13806_Delete_1,13806,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,502
+B_13806_Delete_2,13806,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,535
+B_13806_Delete_3,13806,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,448
+B_15588_Delete_1,15588,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,475
+B_15588_Delete_2,15588,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,658
+B_15588_Delete_3,15588,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,429
+B_15127_Delete_1,15127,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,534
+B_15127_Delete_2,15127,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,441
+B_15127_Delete_3,15127,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,484
+B_3908_Delete_1,3908,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,438
+B_3908_Delete_2,3908,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,597
+B_3908_Delete_3,3908,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,392
+B_17539_Delete_1,17539,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,397
+B_17539_Delete_2,17539,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,372
+B_1242_Delete_1,1242,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,500
+B_1242_Delete_2,1242,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,391
+B_1242_Delete_3,1242,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,476
+B_24263_Delete_1,24263,valid,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,466
+B_24263_Delete_2,24263,valid,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,492
+B_24263_Delete_3,24263,valid,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,449
+B_12298_Delete_1,12298,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,485
+B_12298_Delete_2,12298,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,608
+B_12298_Delete_3,12298,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,676
+B_24810_Delete_1,24810,valid,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,524
+B_24810_Delete_2,24810,valid,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,390
+B_24810_Delete_3,24810,valid,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,431
+B_2054_Delete_1,2054,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,566
+B_2054_Delete_2,2054,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,420
+B_2054_Delete_3,2054,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,357
+B_25304_Delete_1,25304,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,484
+B_25304_Delete_2,25304,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,520
+B_25304_Delete_3,25304,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,520
+B_18009_Delete_1,18009,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,447
+B_18112_Delete_1,18112,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,486
+B_18112_Delete_2,18112,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,480
+B_18112_Delete_3,18112,valid,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,417
+B_19663_Delete_1,19663,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,510
+B_19663_Delete_2,19663,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,542
+B_26095_Delete_1,26095,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,690
+B_7953_Delete_1,7953,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,542
+B_7953_Delete_2,7953,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,734
+B_7953_Delete_3,7953,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,411
+B_5245_Delete_1,5245,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,277
+B_5245_Delete_2,5245,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,563
+B_5245_Delete_3,5245,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,473
+B_12181_Delete_1,12181,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,515
+B_12181_Delete_2,12181,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,518
+B_20896_Delete_1,20896,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,662
+B_20896_Delete_2,20896,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,429
+B_20896_Delete_3,20896,valid,B,1,Delete N=3,Other,Delete,3,1.0,1.0,513
+B_8268_Delete_1,8268,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,798
+B_8268_Delete_2,8268,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,633
+B_8268_Delete_3,8268,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,544
+B_19896_Delete_1,19896,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,575
+B_19896_Delete_2,19896,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,694
+B_19896_Delete_3,19896,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,491
+B_17096_Delete_1,17096,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,520
+B_20593_Delete_1,20593,valid,B,1,Delete N=1,Other,Delete,1,1.0,1.0,494
+B_20593_Delete_2,20593,valid,B,1,Delete N=2,Other,Delete,2,1.0,1.0,511
+B_21009_Delete_1,21009,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,439
+B_13340_Delete_1,13340,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,489
+B_13340_Delete_2,13340,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,549
+B_13340_Delete_3,13340,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,527
+B_23086_Delete_1,23086,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,483
+B_23086_Delete_2,23086,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,382
+B_23086_Delete_3,23086,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,693
+B_19047_Delete_1,19047,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,481
+B_19047_Delete_2,19047,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,560
+B_19047_Delete_3,19047,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,572
+B_25364_Delete_1,25364,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,420
+B_25364_Delete_2,25364,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,614
+B_25364_Delete_3,25364,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,596
+B_16045_Delete_1,16045,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,383
+B_16045_Delete_2,16045,valid,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,344
+B_1820_Delete_1,1820,valid,B,1,Delete N=1,Age,Delete,1,1.0,1.0,630
+B_1820_Delete_2,1820,valid,B,1,Delete N=2,Age,Delete,2,1.0,1.0,614
+B_1820_Delete_3,1820,valid,B,1,Delete N=3,Age,Delete,3,1.0,1.0,407
+B_7366_Delete_1,7366,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,457
+B_7366_Delete_2,7366,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,572
+B_7366_Delete_3,7366,valid,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,435
+B_18757_Delete_1,18757,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,470
+B_24649_Delete_1,24649,valid,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,486
+B_3418_Delete_1,3418,valid,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,487
+B_3418_Delete_2,3418,valid,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,516
+B_3418_Delete_3,3418,valid,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,655
+B_21259_Delete_1,21259,valid,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,490
+B_21259_Delete_2,21259,valid,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,529
+B_24825_Delete_1,24825,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,520
+B_24825_Delete_2,24825,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,566
+B_24825_Delete_3,24825,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,536
+B_8114_Delete_1,8114,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,308
+B_8114_Delete_2,8114,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,474
+B_8114_Delete_3,8114,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,369
+B_17712_Delete_1,17712,valid,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,374
+B_17712_Delete_2,17712,valid,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,465
+B_17712_Delete_3,17712,valid,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,365
+B_10696_Delete_1,10696,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,604
+B_10696_Delete_2,10696,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,549
+B_10696_Delete_3,10696,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,510
+B_16760_Delete_1,16760,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,591
+B_16760_Delete_2,16760,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,743
+B_16760_Delete_3,16760,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,646
+B_1483_Delete_1,1483,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,340
+B_1483_Delete_2,1483,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,478
+B_1483_Delete_3,1483,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,496
+B_22486_Delete_1,22486,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,351
+B_20110_Delete_1,20110,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,689
+B_20110_Delete_2,20110,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,598
+B_20110_Delete_3,20110,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,609
+B_24780_Delete_1,24780,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,327
+B_7282_Delete_1,7282,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,468
+B_7282_Delete_2,7282,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,392
+B_7282_Delete_3,7282,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,664
+B_25080_Delete_1,25080,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,378
+B_1774_Delete_1,1774,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,397
+B_1774_Delete_2,1774,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,361
+B_22981_Delete_1,22981,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,349
+B_22981_Delete_2,22981,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,231
+B_22981_Delete_3,22981,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,458
+B_15433_Delete_1,15433,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,606
+B_15433_Delete_2,15433,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,603
+B_12559_Delete_1,12559,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,616
+B_12559_Delete_2,12559,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,577
+B_12559_Delete_3,12559,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,577
+B_21785_Delete_1,21785,test,B,1,Delete N=1,Temporal,Delete,1,0.0,0.0,878
+B_21785_Delete_2,21785,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,476
+B_21785_Delete_3,21785,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,421
+B_3065_Delete_1,3065,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,581
+B_3065_Delete_2,3065,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,449
+B_3065_Delete_3,3065,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,508
+B_14138_Delete_1,14138,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,718
+B_14138_Delete_2,14138,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,622
+B_14138_Delete_3,14138,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,490
+B_18129_Delete_1,18129,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,852
+B_18129_Delete_2,18129,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,345
+B_18129_Delete_3,18129,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,804
+B_23712_Delete_1,23712,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,489
+B_23712_Delete_2,23712,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,374
+B_23712_Delete_3,23712,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,588
+B_1250_Delete_1,1250,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,596
+B_1250_Delete_2,1250,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,517
+B_1250_Delete_3,1250,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,562
+B_21362_Delete_1,21362,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,482
+B_21362_Delete_2,21362,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,402
+B_18248_Delete_1,18248,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,330
+B_18248_Delete_2,18248,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,331
+B_18248_Delete_3,18248,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,701
+B_24011_Delete_1,24011,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,408
+B_24011_Delete_2,24011,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,477
+B_13323_Delete_1,13323,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,556
+B_13323_Delete_2,13323,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,579
+B_13323_Delete_3,13323,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,568
+B_13879_Delete_1,13879,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,634
+B_13879_Delete_2,13879,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,671
+B_13879_Delete_3,13879,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,547
+B_15819_Delete_1,15819,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,914
+B_15819_Delete_2,15819,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,814
+B_15819_Delete_3,15819,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,882
+B_12628_Delete_1,12628,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,511
+B_12628_Delete_2,12628,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,621
+B_12628_Delete_3,12628,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,421
+B_8111_Delete_1,8111,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,550
+B_8111_Delete_2,8111,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,476
+B_8111_Delete_3,8111,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,542
+B_19859_Delete_1,19859,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,635
+B_19859_Delete_2,19859,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,609
+B_19859_Delete_3,19859,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,526
+B_7854_Delete_1,7854,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,575
+B_7854_Delete_2,7854,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,745
+B_7854_Delete_3,7854,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,421
+B_4872_Delete_1,4872,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,749
+B_4872_Delete_2,4872,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,687
+B_4872_Delete_3,4872,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,529
+B_11277_Delete_1,11277,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,487
+B_11277_Delete_2,11277,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,607
+B_11277_Delete_3,11277,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,523
+B_26458_Delete_1,26458,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,454
+B_26268_Delete_1,26268,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,563
+B_8107_Delete_1,8107,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,522
+B_15818_Delete_1,15818,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,369
+B_1907_Delete_1,1907,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,431
+B_22314_Delete_1,22314,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,1063
+B_22314_Delete_2,22314,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,807
+B_22314_Delete_3,22314,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,707
+B_10553_Delete_1,10553,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,497
+B_10553_Delete_2,10553,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,570
+B_10553_Delete_3,10553,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,501
+B_15688_Delete_1,15688,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,255
+B_21855_Delete_1,21855,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,518
+B_21855_Delete_2,21855,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,545
+B_21855_Delete_3,21855,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,544
+B_7664_Delete_1,7664,test,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,885
+B_7664_Delete_2,7664,test,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,757
+B_7664_Delete_3,7664,test,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,840
+B_16344_Delete_1,16344,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,245
+B_16344_Delete_2,16344,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,398
+B_16344_Delete_3,16344,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,307
+B_5061_Delete_1,5061,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,231
+B_5061_Delete_2,5061,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,489
+B_5061_Delete_3,5061,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,434
+B_20770_Delete_1,20770,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,350
+B_20770_Delete_2,20770,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,368
+B_20770_Delete_3,20770,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,570
+B_10592_Delete_1,10592,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,367
+B_10592_Delete_2,10592,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,743
+B_10592_Delete_3,10592,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,626
+B_7476_Delete_1,7476,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,792
+B_17727_Delete_1,17727,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,714
+B_17727_Delete_2,17727,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,796
+B_17727_Delete_3,17727,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,668
+B_24392_Delete_1,24392,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,621
+B_24392_Delete_2,24392,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,580
+B_21042_Delete_1,21042,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,488
+B_4376_Delete_1,4376,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,399
+B_4376_Delete_2,4376,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,435
+B_2742_Delete_1,2742,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,692
+B_2742_Delete_2,2742,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,364
+B_2742_Delete_3,2742,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,616
+B_17228_Delete_1,17228,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,484
+B_14434_Delete_1,14434,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,888
+B_5574_Delete_1,5574,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,357
+B_5574_Delete_2,5574,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,536
+B_5574_Delete_3,5574,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,392
+B_15012_Delete_1,15012,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,617
+B_15012_Delete_2,15012,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,377
+B_18655_Delete_1,18655,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,332
+B_18655_Delete_2,18655,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,402
+B_18655_Delete_3,18655,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,405
+B_23143_Delete_1,23143,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,437
+B_23143_Delete_2,23143,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,392
+B_23143_Delete_3,23143,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,444
+B_21767_Delete_1,21767,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,531
+B_21767_Delete_2,21767,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,686
+B_19914_Delete_1,19914,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,543
+B_19914_Delete_2,19914,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,671
+B_19914_Delete_3,19914,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,408
+B_10524_Delete_1,10524,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,600
+B_10524_Delete_2,10524,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,385
+B_10524_Delete_3,10524,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,416
+B_17494_Delete_1,17494,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,658
+B_17494_Delete_2,17494,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,630
+B_17494_Delete_3,17494,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,637
+B_3445_Delete_1,3445,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,682
+B_3445_Delete_2,3445,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,653
+B_12579_Delete_1,12579,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,517
+B_12579_Delete_2,12579,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,892
+B_12579_Delete_3,12579,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,801
+B_8069_Delete_1,8069,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,610
+B_8069_Delete_2,8069,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,534
+B_8069_Delete_3,8069,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,536
+B_6016_Delete_1,6016,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,427
+B_6016_Delete_2,6016,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,533
+B_23486_Delete_1,23486,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,553
+B_23486_Delete_2,23486,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,432
+B_23486_Delete_3,23486,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,390
+B_2035_Delete_1,2035,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,471
+B_2035_Delete_2,2035,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,528
+B_2035_Delete_3,2035,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,425
+B_14801_Delete_1,14801,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,808
+B_14801_Delete_2,14801,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,743
+B_2093_Delete_1,2093,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,840
+B_2093_Delete_2,2093,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,1032
+B_2093_Delete_3,2093,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,774
+B_5962_Delete_1,5962,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,478
+B_7063_Delete_1,7063,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,844
+B_7063_Delete_2,7063,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,505
+B_7063_Delete_3,7063,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,513
+B_15890_Delete_1,15890,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,670
+B_15890_Delete_2,15890,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,555
+B_12361_Delete_1,12361,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,444
+B_12361_Delete_2,12361,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,517
+B_12361_Delete_3,12361,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,352
+B_21919_Delete_1,21919,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,367
+B_21919_Delete_2,21919,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,786
+B_21919_Delete_3,21919,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,684
+B_23985_Delete_1,23985,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,554
+B_24249_Delete_1,24249,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,602
+B_24249_Delete_2,24249,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,473
+B_12765_Delete_1,12765,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,1069
+B_12765_Delete_2,12765,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,992
+B_12765_Delete_3,12765,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,932
+B_22332_Delete_1,22332,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,461
+B_19909_Delete_1,19909,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,314
+B_19909_Delete_2,19909,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,316
+B_16527_Delete_1,16527,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,466
+B_17590_Delete_1,17590,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,705
+B_17590_Delete_2,17590,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,619
+B_17590_Delete_3,17590,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,673
+B_7009_Delete_1,7009,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,608
+B_7009_Delete_2,7009,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,589
+B_7009_Delete_3,7009,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,664
+B_13966_Delete_1,13966,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,359
+B_13966_Delete_2,13966,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,877
+B_13966_Delete_3,13966,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,865
+B_7646_Delete_1,7646,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,368
+B_7646_Delete_2,7646,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,377
+B_7646_Delete_3,7646,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,365
+B_11250_Delete_1,11250,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,706
+B_11250_Delete_2,11250,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,703
+B_11250_Delete_3,11250,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,566
+B_17685_Delete_1,17685,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,450
+B_20388_Delete_1,20388,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,371
+B_20388_Delete_2,20388,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,347
+B_24346_Delete_1,24346,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,463
+B_24346_Delete_2,24346,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,464
+B_24346_Delete_3,24346,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,653
+B_14187_Delete_1,14187,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,438
+B_14187_Delete_2,14187,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,460
+B_14187_Delete_3,14187,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,474
+B_12917_Delete_1,12917,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,498
+B_12917_Delete_2,12917,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,339
+B_12917_Delete_3,12917,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,585
+B_24880_Delete_1,24880,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,347
+B_24712_Delete_1,24712,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,665
+B_24712_Delete_2,24712,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,698
+B_24712_Delete_3,24712,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,572
+B_6870_Delete_1,6870,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,688
+B_6870_Delete_2,6870,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,663
+B_6870_Delete_3,6870,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,390
+B_6310_Delete_1,6310,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,458
+B_15632_Delete_1,15632,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,418
+B_15632_Delete_2,15632,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,615
+B_15632_Delete_3,15632,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,571
+B_3046_Delete_1,3046,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,637
+B_3046_Delete_2,3046,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,489
+B_3046_Delete_3,3046,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,541
+B_3337_Delete_1,3337,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,499
+B_3337_Delete_2,3337,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,534
+B_18794_Delete_1,18794,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,470
+B_16932_Delete_1,16932,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,544
+B_16932_Delete_2,16932,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,576
+B_16932_Delete_3,16932,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,415
+B_14736_Delete_1,14736,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,459
+B_14736_Delete_2,14736,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,424
+B_16160_Delete_1,16160,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,494
+B_16160_Delete_2,16160,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,461
+B_16160_Delete_3,16160,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,476
+B_24627_Delete_1,24627,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,347
+B_24627_Delete_2,24627,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,663
+B_24627_Delete_3,24627,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,632
+B_22894_Delete_1,22894,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,550
+B_22894_Delete_2,22894,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,575
+B_11330_Delete_1,11330,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,571
+B_11330_Delete_2,11330,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,480
+B_11330_Delete_3,11330,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,428
+B_7514_Delete_1,7514,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,546
+B_7514_Delete_2,7514,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,637
+B_7514_Delete_3,7514,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,607
+B_20867_Delete_1,20867,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,403
+B_6086_Delete_1,6086,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,307
+B_15806_Delete_1,15806,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,401
+B_15806_Delete_2,15806,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,566
+B_15649_Delete_1,15649,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,308
+B_15649_Delete_2,15649,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,448
+B_15649_Delete_3,15649,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,319
+B_16381_Delete_1,16381,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,368
+B_16381_Delete_2,16381,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,336
+B_16381_Delete_3,16381,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,356
+B_16999_Delete_1,16999,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,610
+B_16999_Delete_2,16999,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,286
+B_16999_Delete_3,16999,test,B,1,Delete N=3,Other,Delete,3,1.0,1.0,647
+B_15031_Delete_1,15031,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,658
+B_15031_Delete_2,15031,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,556
+B_15031_Delete_3,15031,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,344
+B_21454_Delete_1,21454,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,334
+B_21454_Delete_2,21454,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,496
+B_6254_Delete_1,6254,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,327
+B_6254_Delete_2,6254,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,455
+B_6254_Delete_3,6254,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,472
+B_3981_Delete_1,3981,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,474
+B_3981_Delete_2,3981,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,421
+B_3981_Delete_3,3981,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,445
+B_24976_Delete_1,24976,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,363
+B_24976_Delete_2,24976,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,466
+B_24976_Delete_3,24976,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,509
+B_13095_Delete_1,13095,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,319
+B_13095_Delete_2,13095,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,314
+B_13095_Delete_3,13095,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,274
+B_12906_Delete_1,12906,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,349
+B_12906_Delete_2,12906,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,737
+B_12906_Delete_3,12906,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,401
+B_3910_Delete_1,3910,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,567
+B_3910_Delete_2,3910,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,473
+B_3910_Delete_3,3910,test,B,1,Delete N=3,Other,Delete,3,1.0,1.0,409
+B_15376_Delete_1,15376,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,805
+B_15376_Delete_2,15376,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,334
+B_15376_Delete_3,15376,test,B,1,Delete N=3,Other,Delete,3,1.0,1.0,366
+B_19568_Delete_1,19568,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,520
+B_19568_Delete_2,19568,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,748
+B_19568_Delete_3,19568,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,571
+B_22033_Delete_1,22033,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,497
+B_2427_Delete_1,2427,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,683
+B_2427_Delete_2,2427,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,513
+B_2427_Delete_3,2427,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,539
+B_25211_Delete_1,25211,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,673
+B_25211_Delete_2,25211,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,314
+B_25211_Delete_3,25211,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,267
+B_3460_Delete_1,3460,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,530
+B_17152_Delete_1,17152,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,530
+B_25713_Delete_1,25713,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,590
+B_25713_Delete_2,25713,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,421
+B_25713_Delete_3,25713,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,554
+B_15752_Delete_1,15752,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,445
+B_15752_Delete_2,15752,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,663
+B_15752_Delete_3,15752,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,727
+B_1363_Delete_1,1363,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,637
+B_1363_Delete_2,1363,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,583
+B_1363_Delete_3,1363,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,506
+B_7368_Delete_1,7368,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,526
+B_7368_Delete_2,7368,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,437
+B_12970_Delete_1,12970,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,643
+B_12970_Delete_2,12970,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,591
+B_11194_Delete_1,11194,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,675
+B_11194_Delete_2,11194,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,519
+B_11194_Delete_3,11194,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,525
+B_18694_Delete_1,18694,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,510
+B_18694_Delete_2,18694,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,505
+B_18694_Delete_3,18694,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,517
+B_5623_Delete_1,5623,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,279
+B_12383_Delete_1,12383,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,418
+B_12383_Delete_2,12383,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,466
+B_3306_Delete_1,3306,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,463
+B_3306_Delete_2,3306,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,423
+B_3306_Delete_3,3306,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,431
+B_24487_Delete_1,24487,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,507
+B_24487_Delete_2,24487,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,536
+B_24487_Delete_3,24487,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,416
+B_6807_Delete_1,6807,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,562
+B_6807_Delete_2,6807,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,328
+B_6807_Delete_3,6807,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,541
+B_22123_Delete_1,22123,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,302
+B_22123_Delete_2,22123,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,279
+B_22123_Delete_3,22123,test,B,1,Delete N=3,Symptom,Delete,3,,,0
+B_5977_Delete_1,5977,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,265
+B_5977_Delete_2,5977,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,545
+B_5977_Delete_3,5977,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,477
+B_25747_Delete_1,25747,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,327
+B_25747_Delete_2,25747,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,576
+B_25747_Delete_3,25747,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,525
+B_17851_Delete_1,17851,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,264
+B_17851_Delete_2,17851,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,480
+B_17851_Delete_3,17851,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,388
+B_17640_Delete_1,17640,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,367
+B_17640_Delete_2,17640,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,429
+B_17640_Delete_3,17640,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,370
+B_16382_Delete_1,16382,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,512
+B_16078_Delete_1,16078,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,867
+B_16078_Delete_2,16078,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,473
+B_16078_Delete_3,16078,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,509
+B_3842_Delete_1,3842,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,399
+B_3842_Delete_2,3842,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,465
+B_3842_Delete_3,3842,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,394
+B_15894_Delete_1,15894,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,494
+B_15894_Delete_2,15894,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,316
+B_15894_Delete_3,15894,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,558
+B_6271_Delete_1,6271,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,764
+B_6271_Delete_2,6271,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,657
+B_6271_Delete_3,6271,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,720
+B_10653_Delete_1,10653,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,735
+B_10653_Delete_2,10653,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,555
+B_10653_Delete_3,10653,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,641
+B_24803_Delete_1,24803,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,422
+B_24803_Delete_2,24803,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,363
+B_24803_Delete_3,24803,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,386
+B_7685_Delete_1,7685,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,452
+B_7685_Delete_2,7685,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,734
+B_7685_Delete_3,7685,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,384
+B_13921_Delete_1,13921,test,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,350
+B_1493_Delete_1,1493,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,684
+B_1493_Delete_2,1493,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,332
+B_1493_Delete_3,1493,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,415
+B_4788_Delete_1,4788,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,375
+B_4788_Delete_2,4788,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,463
+B_4788_Delete_3,4788,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,444
+B_22428_Delete_1,22428,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,700
+B_22428_Delete_2,22428,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,575
+B_22428_Delete_3,22428,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,432
+B_16396_Delete_1,16396,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,360
+B_16396_Delete_2,16396,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,370
+B_21340_Delete_1,21340,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,218
+B_21340_Delete_2,21340,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,431
+B_21340_Delete_3,21340,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,371
+B_12149_Delete_1,12149,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,395
+B_12149_Delete_2,12149,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,390
+B_12149_Delete_3,12149,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,395
+B_2544_Delete_1,2544,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,352
+B_2544_Delete_2,2544,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,314
+B_18831_Delete_1,18831,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,376
+B_18831_Delete_2,18831,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,377
+B_17877_Delete_1,17877,test,B,1,Delete N=1,Health Condition,Delete,1,0.0,0.0,659
+B_17877_Delete_2,17877,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,496
+B_17877_Delete_3,17877,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,507
+B_17021_Delete_1,17021,test,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,528
+B_17021_Delete_2,17021,test,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,548
+B_17021_Delete_3,17021,test,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,472
+B_23555_Delete_1,23555,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,710
+B_23555_Delete_2,23555,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,688
+B_23555_Delete_3,23555,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,463
+B_12537_Delete_1,12537,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,612
+B_12537_Delete_2,12537,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,503
+B_12537_Delete_3,12537,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,457
+B_13667_Delete_1,13667,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,315
+B_13667_Delete_2,13667,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,441
+B_13667_Delete_3,13667,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,566
+B_25096_Delete_1,25096,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,529
+B_25096_Delete_2,25096,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,488
+B_13383_Delete_1,13383,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,564
+B_13383_Delete_2,13383,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,509
+B_13383_Delete_3,13383,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,688
+B_19597_Delete_1,19597,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,529
+B_19597_Delete_2,19597,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,518
+B_19597_Delete_3,19597,test,B,1,Delete N=3,Other,Delete,3,1.0,1.0,557
+B_17222_Delete_1,17222,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,475
+B_11456_Delete_1,11456,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,279
+B_23151_Delete_1,23151,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,650
+B_23151_Delete_2,23151,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,663
+B_23151_Delete_3,23151,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,659
+B_23474_Delete_1,23474,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,440
+B_7258_Delete_1,7258,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,562
+B_7258_Delete_2,7258,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,612
+B_7258_Delete_3,7258,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,629
+B_20850_Delete_1,20850,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,280
+B_20850_Delete_2,20850,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,536
+B_20850_Delete_3,20850,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,484
+B_23540_Delete_1,23540,test,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,359
+B_23540_Delete_2,23540,test,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,371
+B_23540_Delete_3,23540,test,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,432
+B_14131_Delete_1,14131,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,452
+B_14131_Delete_2,14131,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,341
+B_14131_Delete_3,14131,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,347
+B_19975_Delete_1,19975,test,B,1,Delete N=1,Dosage,Delete,1,1.0,1.0,401
+B_19975_Delete_2,19975,test,B,1,Delete N=2,Dosage,Delete,2,1.0,1.0,577
+B_19975_Delete_3,19975,test,B,1,Delete N=3,Dosage,Delete,3,1.0,1.0,298
+B_25827_Delete_1,25827,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,604
+B_24166_Delete_1,24166,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,658
+B_24166_Delete_2,24166,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,501
+B_11971_Delete_1,11971,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,734
+B_11971_Delete_2,11971,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,476
+B_11971_Delete_3,11971,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,711
+B_19228_Delete_1,19228,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,715
+B_19228_Delete_2,19228,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,694
+B_17572_Delete_1,17572,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,246
+B_17572_Delete_2,17572,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,439
+B_17572_Delete_3,17572,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,437
+B_6082_Delete_1,6082,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,547
+B_13753_Delete_1,13753,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,380
+B_17783_Delete_1,17783,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,486
+B_1275_Delete_1,1275,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,571
+B_1275_Delete_2,1275,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,618
+B_1275_Delete_3,1275,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,667
+B_23831_Delete_1,23831,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,705
+B_736_Delete_1,736,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,580
+B_6524_Delete_1,6524,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,445
+B_6524_Delete_2,6524,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,389
+B_6524_Delete_3,6524,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,823
+B_6340_Delete_1,6340,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,521
+B_6340_Delete_2,6340,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,483
+B_6340_Delete_3,6340,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,558
+B_16581_Delete_1,16581,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,304
+B_16581_Delete_2,16581,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,537
+B_16581_Delete_3,16581,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,522
+B_2166_Delete_1,2166,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,498
+B_5531_Delete_1,5531,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,506
+B_24351_Delete_1,24351,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,366
+B_24351_Delete_2,24351,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,240
+B_24351_Delete_3,24351,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,599
+B_15347_Delete_1,15347,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,348
+B_15347_Delete_2,15347,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,342
+B_15347_Delete_3,15347,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,302
+B_17256_Delete_1,17256,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,516
+B_17256_Delete_2,17256,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,407
+B_19092_Delete_1,19092,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,558
+B_19092_Delete_2,19092,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,514
+B_19092_Delete_3,19092,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,516
+B_12904_Delete_1,12904,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,492
+B_12904_Delete_2,12904,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,247
+B_12904_Delete_3,12904,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,249
+B_22557_Delete_1,22557,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,538
+B_22557_Delete_2,22557,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,556
+B_22557_Delete_3,22557,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,325
+B_13219_Delete_1,13219,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,531
+B_13219_Delete_2,13219,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,620
+B_13219_Delete_3,13219,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,476
+B_18005_Delete_1,18005,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,707
+B_18005_Delete_2,18005,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,587
+B_18005_Delete_3,18005,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,584
+B_1373_Delete_1,1373,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,478
+B_1373_Delete_2,1373,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,692
+B_1373_Delete_3,1373,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,709
+B_20407_Delete_1,20407,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,274
+B_20407_Delete_2,20407,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,359
+B_20407_Delete_3,20407,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,379
+B_17450_Delete_1,17450,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,773
+B_17450_Delete_2,17450,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,963
+B_26067_Delete_1,26067,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,532
+B_26067_Delete_2,26067,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,849
+B_26067_Delete_3,26067,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,724
+B_15883_Delete_1,15883,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,372
+B_15883_Delete_2,15883,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,367
+B_15883_Delete_3,15883,test,B,1,Delete N=3,Test Result,Delete,3,1.0,1.0,305
+B_3236_Delete_1,3236,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,405
+B_3236_Delete_2,3236,test,B,1,Delete N=2,Other,Delete,2,1.0,1.0,401
+B_3236_Delete_3,3236,test,B,1,Delete N=3,Other,Delete,3,1.0,1.0,395
+B_13450_Delete_1,13450,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,593
+B_13450_Delete_2,13450,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,695
+B_13450_Delete_3,13450,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,502
+B_12957_Delete_1,12957,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,596
+B_12957_Delete_2,12957,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,588
+B_12957_Delete_3,12957,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,582
+B_6071_Delete_1,6071,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,561
+B_6071_Delete_2,6071,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,544
+B_16338_Delete_1,16338,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,312
+B_16338_Delete_2,16338,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,343
+B_16338_Delete_3,16338,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,417
+B_4084_Delete_1,4084,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,716
+B_4084_Delete_2,4084,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,818
+B_4084_Delete_3,4084,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,750
+B_8251_Delete_1,8251,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,638
+B_8251_Delete_2,8251,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,624
+B_8251_Delete_3,8251,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,616
+B_17989_Delete_1,17989,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,399
+B_17989_Delete_2,17989,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,497
+B_17989_Delete_3,17989,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,380
+B_12125_Delete_1,12125,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,770
+B_12125_Delete_2,12125,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,742
+B_12125_Delete_3,12125,test,B,1,Delete N=3,Health Condition,Delete,3,1.0,1.0,782
+B_3255_Delete_1,3255,test,B,1,Delete N=1,Test Result,Delete,1,1.0,1.0,482
+B_3255_Delete_2,3255,test,B,1,Delete N=2,Test Result,Delete,2,1.0,1.0,565
+B_18811_Delete_1,18811,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,397
+B_18811_Delete_2,18811,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,435
+B_13460_Delete_1,13460,test,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,741
+B_13460_Delete_2,13460,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,669
+B_13460_Delete_3,13460,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,649
+B_26453_Delete_1,26453,test,B,1,Delete N=1,Other,Delete,1,1.0,1.0,413
+B_1695_Delete_1,1695,test,B,1,Delete N=1,Health Condition,Delete,1,1.0,1.0,222
+B_1695_Delete_2,1695,test,B,1,Delete N=2,Health Condition,Delete,2,1.0,1.0,223
+B_20824_Delete_1,20824,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,401
+B_15983_Delete_1,15983,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,383
+B_15983_Delete_2,15983,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,711
+B_19737_Delete_1,19737,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,804
+B_19737_Delete_2,19737,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,584
+B_19737_Delete_3,19737,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,579
+B_14938_Delete_1,14938,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,451
+B_14938_Delete_2,14938,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,505
+B_14938_Delete_3,14938,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,388
+B_2565_Delete_1,2565,test,B,1,Delete N=1,Medicine,Delete,1,1.0,1.0,528
+B_2565_Delete_2,2565,test,B,1,Delete N=2,Medicine,Delete,2,1.0,1.0,439
+B_2565_Delete_3,2565,test,B,1,Delete N=3,Medicine,Delete,3,1.0,1.0,504
+B_4451_Delete_1,4451,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,467
+B_4451_Delete_2,4451,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,455
+B_16708_Delete_1,16708,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,575
+B_16708_Delete_2,16708,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,445
+B_16708_Delete_3,16708,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,446
+B_12497_Delete_1,12497,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,289
+B_12497_Delete_2,12497,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,309
+B_12497_Delete_3,12497,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,465
+B_20374_Delete_1,20374,test,B,1,Delete N=1,Symptom,Delete,1,0.0,0.0,683
+B_20374_Delete_2,20374,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,639
+B_12924_Delete_1,12924,test,B,1,Delete N=1,Age,Delete,1,1.0,1.0,636
+B_12924_Delete_2,12924,test,B,1,Delete N=2,Age,Delete,2,1.0,1.0,494
+B_12924_Delete_3,12924,test,B,1,Delete N=3,Age,Delete,3,1.0,1.0,436
+B_14271_Delete_1,14271,test,B,1,Delete N=1,Symptom,Delete,1,1.0,1.0,365
+B_14271_Delete_2,14271,test,B,1,Delete N=2,Symptom,Delete,2,1.0,1.0,475
+B_14271_Delete_3,14271,test,B,1,Delete N=3,Symptom,Delete,3,1.0,1.0,480
+B_7279_Delete_1,7279,test,B,1,Delete N=1,Temporal,Delete,1,1.0,1.0,882
+B_7279_Delete_2,7279,test,B,1,Delete N=2,Temporal,Delete,2,1.0,1.0,900
+B_7279_Delete_3,7279,test,B,1,Delete N=3,Temporal,Delete,3,1.0,1.0,786
+B_13534_Substitute_1,13534,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,841
+B_13534_Coarsen_1,13534,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,744
+B_25069_Substitute_1,25069,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,676
+B_25069_Coarsen_1,25069,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,673
+B_13898_Substitute_1,13898,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,663
+B_5273_Substitute_1,5273,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,302
+B_25377_Substitute_1,25377,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,1148
+B_20453_Substitute_1,20453,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,823
+B_4954_Substitute_1,4954,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,553
+B_11825_Substitute_1,11825,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,466
+B_11825_Coarsen_1,11825,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,482
+B_2174_Substitute_1,2174,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,921
+B_2174_Coarsen_1,2174,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,662
+B_18619_Substitute_1,18619,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,407
+B_18619_Coarsen_1,18619,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,543
+B_10931_Substitute_1,10931,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,514
+B_10931_Coarsen_1,10931,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,563
+B_17068_Substitute_1,17068,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,564
+B_17068_Coarsen_1,17068,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,382
+B_3931_Substitute_1,3931,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,330
+B_3931_Coarsen_1,3931,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,353
+B_2574_Substitute_1,2574,valid,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,573
+B_2574_Coarsen_1,2574,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,760
+B_19145_Substitute_1,19145,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,557
+B_19145_Coarsen_1,19145,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,704
+B_5881_Substitute_1,5881,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,482
+B_5881_Coarsen_1,5881,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,956
+B_13748_Substitute_1,13748,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,541
+B_13748_Coarsen_1,13748,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,643
+B_19495_Substitute_1,19495,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,1090
+B_19495_Coarsen_1,19495,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,989
+B_22350_Substitute_1,22350,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,717
+B_22350_Coarsen_1,22350,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,781
+B_22213_Substitute_1,22213,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,1048
+B_22213_Coarsen_1,22213,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,632
+B_16880_Substitute_1,16880,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,439
+B_25258_Substitute_1,25258,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,607
+B_11533_Substitute_1,11533,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,387
+B_8065_Substitute_1,8065,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,495
+B_8065_Coarsen_1,8065,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,385
+B_16180_Substitute_1,16180,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,510
+B_16180_Coarsen_1,16180,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,601
+B_21348_Substitute_1,21348,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,684
+B_8244_Substitute_1,8244,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,446
+B_8244_Coarsen_1,8244,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,786
+B_23394_Substitute_1,23394,valid,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,438
+B_23394_Coarsen_1,23394,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,741
+B_1749_Substitute_1,1749,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,975
+B_6003_Substitute_1,6003,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,395
+B_6003_Coarsen_1,6003,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,330
+B_26445_Substitute_1,26445,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,518
+B_26445_Coarsen_1,26445,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,429
+B_4377_Substitute_1,4377,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,314
+B_4377_Coarsen_1,4377,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,525
+B_11993_Substitute_1,11993,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,712
+B_11993_Coarsen_1,11993,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,684
+B_14293_Substitute_1,14293,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,720
+B_14293_Coarsen_1,14293,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,723
+B_18219_Substitute_1,18219,valid,B,1,Substitute,Medicine,Substitute,1,0.0,0.0,640
+B_3965_Substitute_1,3965,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,391
+B_3965_Coarsen_1,3965,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,564
+B_17460_Substitute_1,17460,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,436
+B_16509_Substitute_1,16509,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,392
+B_16509_Coarsen_1,16509,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,409
+B_19933_Substitute_1,19933,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,1120
+B_19933_Coarsen_1,19933,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,627
+B_21985_Substitute_1,21985,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,419
+B_24071_Substitute_1,24071,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,340
+B_24071_Coarsen_1,24071,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,344
+B_6117_Substitute_1,6117,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,422
+B_6117_Coarsen_1,6117,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,583
+B_4781_Substitute_1,4781,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,661
+B_5330_Substitute_1,5330,valid,B,1,Substitute,Temporal,Substitute,1,0.0,0.0,673
+B_5330_Coarsen_1,5330,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,626
+B_19763_Substitute_1,19763,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,653
+B_21567_Substitute_1,21567,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,421
+B_21567_Coarsen_1,21567,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,554
+B_22234_Substitute_1,22234,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,270
+B_22234_Coarsen_1,22234,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,379
+B_23862_Substitute_1,23862,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,782
+B_13589_Substitute_1,13589,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,418
+B_13589_Coarsen_1,13589,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,881
+B_4956_Substitute_1,4956,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,488
+B_4956_Coarsen_1,4956,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,327
+B_24804_Substitute_1,24804,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,373
+B_24804_Coarsen_1,24804,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,499
+B_5169_Substitute_1,5169,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,695
+B_5169_Coarsen_1,5169,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,846
+B_1982_Substitute_1,1982,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,214
+B_19533_Substitute_1,19533,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,322
+B_19533_Coarsen_1,19533,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,601
+B_16393_Substitute_1,16393,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,590
+B_16393_Coarsen_1,16393,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,721
+B_13143_Substitute_1,13143,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,451
+B_13143_Coarsen_1,13143,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,564
+B_3364_Substitute_1,3364,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,244
+B_16515_Substitute_1,16515,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,345
+B_16515_Coarsen_1,16515,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,958
+B_24955_Substitute_1,24955,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,568
+B_24955_Coarsen_1,24955,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,622
+B_6475_Substitute_1,6475,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,535
+B_23411_Substitute_1,23411,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,384
+B_21746_Substitute_1,21746,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,643
+B_21746_Coarsen_1,21746,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,465
+B_24192_Substitute_1,24192,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,494
+B_24192_Coarsen_1,24192,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,563
+B_539_Substitute_1,539,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,567
+B_13140_Substitute_1,13140,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,621
+B_13140_Coarsen_1,13140,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,823
+B_25373_Substitute_1,25373,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,331
+B_17236_Substitute_1,17236,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,679
+B_17236_Coarsen_1,17236,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,835
+B_2575_Substitute_1,2575,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,613
+B_26145_Substitute_1,26145,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,854
+B_26145_Coarsen_1,26145,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,698
+B_13006_Substitute_1,13006,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,949
+B_13006_Coarsen_1,13006,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,349
+B_11454_Substitute_1,11454,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,594
+B_11454_Coarsen_1,11454,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,682
+B_13274_Substitute_1,13274,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,446
+B_13274_Coarsen_1,13274,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,537
+B_20394_Substitute_1,20394,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,620
+B_18131_Substitute_1,18131,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,450
+B_19591_Substitute_1,19591,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,540
+B_11187_Substitute_1,11187,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,572
+B_6852_Substitute_1,6852,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,527
+B_6852_Coarsen_1,6852,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,602
+B_15565_Substitute_1,15565,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,958
+B_15565_Coarsen_1,15565,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,692
+B_21440_Substitute_1,21440,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,416
+B_21440_Coarsen_1,21440,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,429
+B_4772_Substitute_1,4772,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,559
+B_4772_Coarsen_1,4772,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,657
+B_18143_Substitute_1,18143,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,569
+B_3161_Substitute_1,3161,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,1046
+B_3161_Coarsen_1,3161,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,323
+B_12355_Substitute_1,12355,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,655
+B_6919_Substitute_1,6919,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,603
+B_6919_Coarsen_1,6919,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,770
+B_16514_Substitute_1,16514,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,890
+B_16131_Substitute_1,16131,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,460
+B_16131_Coarsen_1,16131,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,841
+B_15676_Substitute_1,15676,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,563
+B_15676_Coarsen_1,15676,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,573
+B_6908_Substitute_1,6908,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,645
+B_6908_Coarsen_1,6908,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,493
+B_4899_Substitute_1,4899,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,899
+B_26225_Substitute_1,26225,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,884
+B_26225_Coarsen_1,26225,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,670
+B_23844_Substitute_1,23844,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,541
+B_23033_Substitute_1,23033,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,630
+B_11081_Substitute_1,11081,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,768
+B_6677_Substitute_1,6677,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,542
+B_6677_Coarsen_1,6677,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,622
+B_13025_Substitute_1,13025,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,445
+B_13025_Coarsen_1,13025,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,470
+B_24741_Substitute_1,24741,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,468
+B_24741_Coarsen_1,24741,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,493
+B_2982_Substitute_1,2982,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,749
+B_2982_Coarsen_1,2982,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,726
+B_19871_Substitute_1,19871,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,615
+B_19871_Coarsen_1,19871,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,744
+B_23905_Substitute_1,23905,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,429
+B_6863_Substitute_1,6863,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,1074
+B_6863_Coarsen_1,6863,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,704
+B_14444_Substitute_1,14444,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,639
+B_14444_Coarsen_1,14444,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,436
+B_10555_Substitute_1,10555,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,432
+B_10555_Coarsen_1,10555,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,1033
+B_15342_Substitute_1,15342,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,801
+B_15342_Coarsen_1,15342,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,694
+B_5197_Substitute_1,5197,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,524
+B_6641_Substitute_1,6641,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,591
+B_25917_Substitute_1,25917,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,571
+B_4721_Substitute_1,4721,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,382
+B_13272_Substitute_1,13272,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,738
+B_13272_Coarsen_1,13272,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,551
+B_4065_Substitute_1,4065,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,618
+B_16228_Substitute_1,16228,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,600
+B_16662_Substitute_1,16662,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,394
+B_16662_Coarsen_1,16662,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,278
+B_18945_Substitute_1,18945,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,767
+B_1761_Substitute_1,1761,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,501
+B_3419_Substitute_1,3419,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,677
+B_23963_Substitute_1,23963,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,578
+B_25866_Substitute_1,25866,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,659
+B_3383_Substitute_1,3383,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,346
+B_3383_Coarsen_1,3383,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,599
+B_25339_Substitute_1,25339,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,604
+B_25339_Coarsen_1,25339,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,609
+B_23168_Substitute_1,23168,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,329
+B_23168_Coarsen_1,23168,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,774
+B_2845_Substitute_1,2845,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,611
+B_16119_Substitute_1,16119,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,650
+B_6093_Substitute_1,6093,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,584
+B_6093_Coarsen_1,6093,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,818
+B_5553_Substitute_1,5553,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,614
+B_5553_Coarsen_1,5553,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,764
+B_13337_Substitute_1,13337,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,471
+B_13337_Coarsen_1,13337,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,422
+B_20855_Substitute_1,20855,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,417
+B_20755_Substitute_1,20755,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,679
+B_20120_Substitute_1,20120,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,634
+B_20120_Coarsen_1,20120,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,704
+B_21513_Substitute_1,21513,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,331
+B_7266_Substitute_1,7266,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,764
+B_17259_Substitute_1,17259,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,656
+B_17259_Coarsen_1,17259,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,695
+B_17609_Substitute_1,17609,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,262
+B_24420_Substitute_1,24420,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,499
+B_24420_Coarsen_1,24420,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,640
+B_6600_Substitute_1,6600,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,665
+B_6600_Coarsen_1,6600,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1128
+B_6289_Substitute_1,6289,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,668
+B_6289_Coarsen_1,6289,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,493
+B_6047_Substitute_1,6047,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,430
+B_6047_Coarsen_1,6047,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,382
+B_17245_Substitute_1,17245,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,418
+B_17245_Coarsen_1,17245,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,339
+B_10934_Substitute_1,10934,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,477
+B_10934_Coarsen_1,10934,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,882
+B_6256_Substitute_1,6256,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,456
+B_7283_Substitute_1,7283,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,584
+B_7283_Coarsen_1,7283,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,909
+B_8075_Substitute_1,8075,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,632
+B_8075_Coarsen_1,8075,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,1085
+B_14114_Substitute_1,14114,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,827
+B_14114_Coarsen_1,14114,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,1185
+B_26407_Substitute_1,26407,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,441
+B_7740_Substitute_1,7740,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,563
+B_7740_Coarsen_1,7740,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,751
+B_14857_Substitute_1,14857,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,478
+B_14857_Coarsen_1,14857,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,327
+B_15259_Substitute_1,15259,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,396
+B_15259_Coarsen_1,15259,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,429
+B_5777_Substitute_1,5777,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,587
+B_5777_Coarsen_1,5777,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,848
+B_6798_Substitute_1,6798,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,371
+B_18986_Substitute_1,18986,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,443
+B_18986_Coarsen_1,18986,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,600
+B_8048_Substitute_1,8048,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,802
+B_5779_Substitute_1,5779,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,362
+B_5779_Coarsen_1,5779,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,769
+B_5551_Substitute_1,5551,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,294
+B_5551_Coarsen_1,5551,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,617
+B_11270_Substitute_1,11270,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,831
+B_2908_Substitute_1,2908,valid,B,1,Substitute,Test Result,Substitute,1,0.0,0.0,1158
+B_2908_Coarsen_1,2908,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,564
+B_6487_Substitute_1,6487,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,859
+B_24875_Substitute_1,24875,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,524
+B_24875_Coarsen_1,24875,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,441
+B_3218_Substitute_1,3218,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,609
+B_3218_Coarsen_1,3218,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,724
+B_12066_Substitute_1,12066,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,784
+B_12066_Coarsen_1,12066,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,730
+B_2702_Substitute_1,2702,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,463
+B_2702_Coarsen_1,2702,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,459
+B_3041_Substitute_1,3041,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,332
+B_12017_Substitute_1,12017,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,635
+B_22903_Substitute_1,22903,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,697
+B_22903_Coarsen_1,22903,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,880
+B_25325_Substitute_1,25325,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,585
+B_25325_Coarsen_1,25325,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,831
+B_11223_Substitute_1,11223,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,565
+B_11223_Coarsen_1,11223,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,620
+B_14072_Substitute_1,14072,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,619
+B_5384_Substitute_1,5384,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,570
+B_5384_Coarsen_1,5384,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,648
+B_14382_Substitute_1,14382,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,608
+B_5292_Substitute_1,5292,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,606
+B_23170_Substitute_1,23170,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,356
+B_23170_Coarsen_1,23170,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,766
+B_1969_Substitute_1,1969,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,482
+B_2641_Substitute_1,2641,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,738
+B_2641_Coarsen_1,2641,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,609
+B_10593_Substitute_1,10593,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,619
+B_10593_Coarsen_1,10593,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,927
+B_2037_Substitute_1,2037,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,1006
+B_3868_Substitute_1,3868,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,410
+B_3868_Coarsen_1,3868,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,714
+B_23488_Substitute_1,23488,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,771
+B_23488_Coarsen_1,23488,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1184
+B_17558_Substitute_1,17558,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,501
+B_17558_Coarsen_1,17558,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,649
+B_16208_Substitute_1,16208,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,714
+B_16208_Coarsen_1,16208,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,391
+B_22515_Substitute_1,22515,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,695
+B_5179_Substitute_1,5179,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,494
+B_16468_Substitute_1,16468,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,441
+B_16468_Coarsen_1,16468,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,476
+B_13007_Substitute_1,13007,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,372
+B_13007_Coarsen_1,13007,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,766
+B_4560_Substitute_1,4560,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,289
+B_4560_Coarsen_1,4560,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,422
+B_13795_Substitute_1,13795,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,441
+B_13795_Coarsen_1,13795,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,572
+B_20585_Substitute_1,20585,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,552
+B_12391_Substitute_1,12391,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,711
+B_12391_Coarsen_1,12391,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,791
+B_17410_Substitute_1,17410,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,695
+B_17410_Coarsen_1,17410,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,575
+B_22204_Substitute_1,22204,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,426
+B_22204_Coarsen_1,22204,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,662
+B_17317_Substitute_1,17317,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,401
+B_22390_Substitute_1,22390,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,344
+B_22390_Coarsen_1,22390,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,748
+B_25971_Substitute_1,25971,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,633
+B_25971_Coarsen_1,25971,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,749
+B_16247_Substitute_1,16247,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,466
+B_16247_Coarsen_1,16247,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,977
+B_13806_Substitute_1,13806,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,612
+B_15588_Substitute_1,15588,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,301
+B_15127_Substitute_1,15127,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,604
+B_15127_Coarsen_1,15127,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,681
+B_3908_Substitute_1,3908,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,447
+B_3908_Coarsen_1,3908,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,598
+B_18625_Substitute_1,18625,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,261
+B_17539_Substitute_1,17539,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,383
+B_1242_Substitute_1,1242,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,542
+B_1242_Coarsen_1,1242,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,540
+B_24263_Substitute_1,24263,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,304
+B_24263_Coarsen_1,24263,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,455
+B_12298_Substitute_1,12298,valid,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,455
+B_12298_Coarsen_1,12298,valid,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,526
+B_24810_Substitute_1,24810,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,613
+B_24810_Coarsen_1,24810,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,581
+B_18873_Substitute_1,18873,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,430
+B_2054_Substitute_1,2054,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,712
+B_2054_Coarsen_1,2054,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,723
+B_25304_Substitute_1,25304,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,336
+B_25304_Coarsen_1,25304,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,516
+B_18009_Substitute_1,18009,valid,B,1,Substitute,Health Condition,Substitute,1,0.0,0.0,663
+B_18112_Substitute_1,18112,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,694
+B_18112_Coarsen_1,18112,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,858
+B_19663_Substitute_1,19663,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,366
+B_26095_Substitute_1,26095,valid,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,892
+B_7953_Substitute_1,7953,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,372
+B_5245_Substitute_1,5245,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,249
+B_5245_Coarsen_1,5245,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,334
+B_12181_Substitute_1,12181,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,617
+B_12181_Coarsen_1,12181,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,664
+B_20896_Substitute_1,20896,valid,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,380
+B_20896_Coarsen_1,20896,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,764
+B_8268_Substitute_1,8268,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,584
+B_19896_Substitute_1,19896,valid,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,441
+B_19896_Coarsen_1,19896,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,458
+B_20593_Substitute_1,20593,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,745
+B_21009_Substitute_1,21009,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,452
+B_21009_Coarsen_1,21009,valid,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,593
+B_13340_Substitute_1,13340,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,742
+B_23086_Substitute_1,23086,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,386
+B_19047_Substitute_1,19047,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,452
+B_19047_Coarsen_1,19047,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,560
+B_25364_Substitute_1,25364,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,469
+B_25364_Coarsen_1,25364,valid,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,860
+B_16045_Substitute_1,16045,valid,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,556
+B_1820_Substitute_1,1820,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,724
+B_1820_Coarsen_1,1820,valid,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,852
+B_7366_Substitute_1,7366,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,389
+B_7366_Coarsen_1,7366,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,649
+B_18757_Substitute_1,18757,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,637
+B_24649_Substitute_1,24649,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,591
+B_3418_Substitute_1,3418,valid,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,685
+B_3418_Coarsen_1,3418,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,914
+B_21259_Substitute_1,21259,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,865
+B_21259_Coarsen_1,21259,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,734
+B_24825_Substitute_1,24825,valid,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,798
+B_24825_Coarsen_1,24825,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,537
+B_23019_Substitute_1,23019,valid,B,1,Substitute,Age,Substitute,1,1.0,1.0,273
+B_8114_Substitute_1,8114,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,442
+B_17712_Substitute_1,17712,valid,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,381
+B_17712_Coarsen_1,17712,valid,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,386
+B_10696_Substitute_1,10696,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,564
+B_10696_Coarsen_1,10696,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,778
+B_16760_Substitute_1,16760,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,742
+B_16760_Coarsen_1,16760,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,756
+B_1483_Substitute_1,1483,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,622
+B_1483_Coarsen_1,1483,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,505
+B_22486_Substitute_1,22486,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,546
+B_20110_Substitute_1,20110,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,745
+B_24780_Substitute_1,24780,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,462
+B_7282_Substitute_1,7282,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,812
+B_7282_Coarsen_1,7282,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,615
+B_25080_Substitute_1,25080,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,559
+B_25080_Coarsen_1,25080,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,649
+B_1774_Substitute_1,1774,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,344
+B_22981_Substitute_1,22981,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,506
+B_22981_Coarsen_1,22981,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,454
+B_15433_Substitute_1,15433,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,652
+B_12559_Substitute_1,12559,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,614
+B_12559_Coarsen_1,12559,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,665
+B_21785_Substitute_1,21785,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,351
+B_21785_Coarsen_1,21785,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,623
+B_3065_Substitute_1,3065,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,584
+B_3065_Coarsen_1,3065,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,730
+B_14138_Substitute_1,14138,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,605
+B_14138_Coarsen_1,14138,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,747
+B_18129_Substitute_1,18129,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,600
+B_18129_Coarsen_1,18129,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,380
+B_23712_Substitute_1,23712,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,499
+B_23712_Coarsen_1,23712,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,913
+B_1250_Substitute_1,1250,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,881
+B_1250_Coarsen_1,1250,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,1208
+B_21362_Substitute_1,21362,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,609
+B_21362_Coarsen_1,21362,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,581
+B_18248_Substitute_1,18248,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,367
+B_18248_Coarsen_1,18248,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,474
+B_24011_Substitute_1,24011,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,847
+B_13323_Substitute_1,13323,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,720
+B_13323_Coarsen_1,13323,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,629
+B_13879_Substitute_1,13879,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,619
+B_13879_Coarsen_1,13879,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,756
+B_15819_Substitute_1,15819,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,333
+B_15819_Coarsen_1,15819,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,849
+B_12628_Substitute_1,12628,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,1136
+B_12628_Coarsen_1,12628,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,724
+B_8111_Substitute_1,8111,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,505
+B_8111_Coarsen_1,8111,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,495
+B_19859_Substitute_1,19859,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,1241
+B_19859_Coarsen_1,19859,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,859
+B_7854_Substitute_1,7854,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,1057
+B_4872_Substitute_1,4872,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,379
+B_4872_Coarsen_1,4872,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,748
+B_11277_Substitute_1,11277,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,482
+B_26458_Substitute_1,26458,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,323
+B_26268_Substitute_1,26268,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,538
+B_8107_Substitute_1,8107,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,531
+B_15818_Substitute_1,15818,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,503
+B_1907_Substitute_1,1907,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,276
+B_1907_Coarsen_1,1907,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,394
+B_22314_Substitute_1,22314,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,823
+B_22314_Coarsen_1,22314,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,968
+B_23240_Substitute_1,23240,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,498
+B_10553_Substitute_1,10553,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,538
+B_10553_Coarsen_1,10553,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,690
+B_15688_Substitute_1,15688,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,311
+B_21855_Substitute_1,21855,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,488
+B_21855_Coarsen_1,21855,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,375
+B_7664_Substitute_1,7664,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,1066
+B_7664_Coarsen_1,7664,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,897
+B_16344_Substitute_1,16344,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,340
+B_5061_Substitute_1,5061,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,325
+B_5061_Coarsen_1,5061,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,412
+B_20770_Substitute_1,20770,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,399
+B_20770_Coarsen_1,20770,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,600
+B_10592_Substitute_1,10592,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,397
+B_10592_Coarsen_1,10592,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,836
+B_7476_Substitute_1,7476,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,514
+B_7476_Coarsen_1,7476,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,533
+B_17727_Substitute_1,17727,test,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,693
+B_17727_Coarsen_1,17727,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,691
+B_24392_Substitute_1,24392,test,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,693
+B_24392_Coarsen_1,24392,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,371
+B_21042_Substitute_1,21042,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,528
+B_4376_Substitute_1,4376,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,763
+B_2742_Substitute_1,2742,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,509
+B_2742_Coarsen_1,2742,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,505
+B_17228_Substitute_1,17228,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,547
+B_14434_Substitute_1,14434,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,492
+B_5574_Substitute_1,5574,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,528
+B_5574_Coarsen_1,5574,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,571
+B_15012_Substitute_1,15012,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,487
+B_15012_Coarsen_1,15012,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,839
+B_18655_Substitute_1,18655,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,428
+B_18655_Coarsen_1,18655,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,395
+B_23143_Substitute_1,23143,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,710
+B_23143_Coarsen_1,23143,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,381
+B_21767_Substitute_1,21767,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,854
+B_21767_Coarsen_1,21767,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,894
+B_19914_Substitute_1,19914,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,643
+B_19914_Coarsen_1,19914,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,587
+B_10524_Substitute_1,10524,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,563
+B_10524_Coarsen_1,10524,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1229
+B_17494_Substitute_1,17494,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,715
+B_17494_Coarsen_1,17494,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,742
+B_3445_Substitute_1,3445,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,812
+B_3445_Coarsen_1,3445,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,734
+B_12579_Substitute_1,12579,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,536
+B_12579_Coarsen_1,12579,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,924
+B_8069_Substitute_1,8069,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,1020
+B_6016_Substitute_1,6016,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,675
+B_23486_Substitute_1,23486,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,630
+B_23486_Coarsen_1,23486,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,789
+B_2035_Substitute_1,2035,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,580
+B_2035_Coarsen_1,2035,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,574
+B_14801_Substitute_1,14801,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,609
+B_14801_Coarsen_1,14801,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,717
+B_2093_Substitute_1,2093,test,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,616
+B_2093_Coarsen_1,2093,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,491
+B_5962_Substitute_1,5962,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,301
+B_7063_Substitute_1,7063,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,567
+B_7063_Coarsen_1,7063,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,738
+B_15890_Substitute_1,15890,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,547
+B_15890_Coarsen_1,15890,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,686
+B_12361_Substitute_1,12361,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,666
+B_12361_Coarsen_1,12361,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1100
+B_21919_Substitute_1,21919,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,628
+B_21919_Coarsen_1,21919,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,688
+B_23985_Substitute_1,23985,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,530
+B_23985_Coarsen_1,23985,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,530
+B_24249_Substitute_1,24249,test,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,705
+B_12765_Substitute_1,12765,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,606
+B_12765_Coarsen_1,12765,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,436
+B_22332_Substitute_1,22332,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,939
+B_19909_Substitute_1,19909,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,642
+B_16527_Substitute_1,16527,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,771
+B_17590_Substitute_1,17590,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,758
+B_17590_Coarsen_1,17590,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,728
+B_7009_Substitute_1,7009,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,744
+B_7009_Coarsen_1,7009,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,792
+B_13966_Substitute_1,13966,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,1015
+B_13966_Coarsen_1,13966,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,1137
+B_7646_Substitute_1,7646,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,645
+B_11250_Substitute_1,11250,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,401
+B_11250_Coarsen_1,11250,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,702
+B_17685_Substitute_1,17685,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,533
+B_20388_Substitute_1,20388,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,355
+B_20388_Coarsen_1,20388,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,317
+B_24346_Substitute_1,24346,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,315
+B_24346_Coarsen_1,24346,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,544
+B_14187_Substitute_1,14187,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,541
+B_14187_Coarsen_1,14187,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,660
+B_12917_Substitute_1,12917,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,392
+B_12917_Coarsen_1,12917,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,470
+B_24880_Substitute_1,24880,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,578
+B_24712_Substitute_1,24712,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,675
+B_24712_Coarsen_1,24712,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,609
+B_6870_Substitute_1,6870,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,352
+B_6870_Coarsen_1,6870,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,524
+B_6310_Substitute_1,6310,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,673
+B_15632_Substitute_1,15632,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,815
+B_15632_Coarsen_1,15632,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,714
+B_3046_Substitute_1,3046,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,707
+B_3337_Substitute_1,3337,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,381
+B_18794_Substitute_1,18794,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,257
+B_16932_Substitute_1,16932,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,534
+B_16932_Coarsen_1,16932,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,543
+B_14736_Substitute_1,14736,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,467
+B_14736_Coarsen_1,14736,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,248
+B_16160_Substitute_1,16160,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,529
+B_24627_Substitute_1,24627,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,687
+B_24627_Coarsen_1,24627,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,838
+B_22894_Substitute_1,22894,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,570
+B_11330_Substitute_1,11330,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,673
+B_11330_Coarsen_1,11330,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,982
+B_7514_Substitute_1,7514,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,742
+B_20867_Substitute_1,20867,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,290
+B_12056_Substitute_1,12056,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,571
+B_6086_Substitute_1,6086,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,408
+B_6086_Coarsen_1,6086,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,452
+B_15806_Substitute_1,15806,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,618
+B_15649_Substitute_1,15649,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,668
+B_16381_Substitute_1,16381,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,353
+B_16999_Substitute_1,16999,test,B,1,Substitute,Test Result,Substitute,1,0.0,0.0,477
+B_16999_Coarsen_1,16999,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,566
+B_15031_Substitute_1,15031,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,478
+B_21454_Substitute_1,21454,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,462
+B_6254_Substitute_1,6254,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,486
+B_6254_Coarsen_1,6254,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1193
+B_3981_Substitute_1,3981,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,527
+B_3981_Coarsen_1,3981,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,562
+B_24976_Substitute_1,24976,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,430
+B_24976_Coarsen_1,24976,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,682
+B_13095_Substitute_1,13095,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,253
+B_13095_Coarsen_1,13095,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,657
+B_12906_Substitute_1,12906,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,381
+B_12906_Coarsen_1,12906,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,427
+B_3910_Substitute_1,3910,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,319
+B_3910_Coarsen_1,3910,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,468
+B_15376_Substitute_1,15376,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,940
+B_15376_Coarsen_1,15376,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,561
+B_19568_Substitute_1,19568,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,608
+B_19568_Coarsen_1,19568,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,579
+B_22033_Substitute_1,22033,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,339
+B_2427_Substitute_1,2427,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,598
+B_2427_Coarsen_1,2427,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,1067
+B_25211_Substitute_1,25211,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,676
+B_25211_Coarsen_1,25211,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,779
+B_3460_Substitute_1,3460,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,416
+B_17152_Substitute_1,17152,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,701
+B_12428_Substitute_1,12428,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,761
+B_25713_Substitute_1,25713,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,604
+B_25713_Coarsen_1,25713,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,726
+B_15752_Substitute_1,15752,test,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,398
+B_15752_Coarsen_1,15752,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,602
+B_1363_Substitute_1,1363,test,B,1,Substitute,Dosage,Substitute,1,1.0,1.0,625
+B_1363_Coarsen_1,1363,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,767
+B_7368_Substitute_1,7368,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,523
+B_7368_Coarsen_1,7368,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,668
+B_12970_Substitute_1,12970,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,322
+B_11194_Substitute_1,11194,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,786
+B_11194_Coarsen_1,11194,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,906
+B_21467_Substitute_1,21467,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,217
+B_18694_Substitute_1,18694,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,471
+B_5623_Substitute_1,5623,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,600
+B_12383_Substitute_1,12383,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,672
+B_12383_Coarsen_1,12383,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,851
+B_3306_Substitute_1,3306,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,683
+B_3306_Coarsen_1,3306,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,433
+B_24487_Substitute_1,24487,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,541
+B_24487_Coarsen_1,24487,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,728
+B_6807_Substitute_1,6807,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,610
+B_6807_Coarsen_1,6807,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,903
+B_22123_Substitute_1,22123,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,277
+B_22123_Coarsen_1,22123,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,314
+B_5977_Substitute_1,5977,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,281
+B_5977_Coarsen_1,5977,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,408
+B_25747_Substitute_1,25747,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,364
+B_25747_Coarsen_1,25747,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,704
+B_17851_Substitute_1,17851,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,459
+B_17851_Coarsen_1,17851,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,539
+B_17640_Substitute_1,17640,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,486
+B_17640_Coarsen_1,17640,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,429
+B_16382_Substitute_1,16382,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,717
+B_16078_Substitute_1,16078,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,421
+B_16078_Coarsen_1,16078,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,498
+B_3842_Substitute_1,3842,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,628
+B_3842_Coarsen_1,3842,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,501
+B_15894_Substitute_1,15894,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,284
+B_15894_Coarsen_1,15894,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,378
+B_6271_Substitute_1,6271,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,581
+B_10653_Substitute_1,10653,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,345
+B_10653_Coarsen_1,10653,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,369
+B_24803_Substitute_1,24803,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,421
+B_24803_Coarsen_1,24803,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,463
+B_7685_Substitute_1,7685,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,501
+B_7685_Coarsen_1,7685,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1038
+B_13921_Substitute_1,13921,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,408
+B_1493_Substitute_1,1493,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,427
+B_4788_Substitute_1,4788,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,310
+B_4788_Coarsen_1,4788,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,574
+B_22428_Substitute_1,22428,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,692
+B_22428_Coarsen_1,22428,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,632
+B_16396_Substitute_1,16396,test,B,1,Substitute,Medicine,Substitute,1,0.0,0.0,659
+B_21340_Substitute_1,21340,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,399
+B_21340_Coarsen_1,21340,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,828
+B_12149_Substitute_1,12149,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,554
+B_12149_Coarsen_1,12149,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,377
+B_2544_Substitute_1,2544,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,384
+B_2544_Coarsen_1,2544,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,371
+B_18831_Substitute_1,18831,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,574
+B_18831_Coarsen_1,18831,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,687
+B_17877_Substitute_1,17877,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,369
+B_17877_Coarsen_1,17877,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,614
+B_17021_Substitute_1,17021,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,662
+B_17021_Coarsen_1,17021,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,724
+B_23555_Substitute_1,23555,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,602
+B_12537_Substitute_1,12537,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,815
+B_12537_Coarsen_1,12537,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,698
+B_13667_Substitute_1,13667,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,382
+B_13667_Coarsen_1,13667,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,677
+B_25096_Substitute_1,25096,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,212
+B_13383_Substitute_1,13383,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,589
+B_13383_Coarsen_1,13383,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,594
+B_19597_Substitute_1,19597,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,571
+B_17222_Substitute_1,17222,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,310
+B_17222_Coarsen_1,17222,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,603
+B_11456_Substitute_1,11456,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,333
+B_23151_Substitute_1,23151,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,351
+B_23151_Coarsen_1,23151,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,681
+B_23474_Substitute_1,23474,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,427
+B_7258_Substitute_1,7258,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,726
+B_7258_Coarsen_1,7258,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,679
+B_20850_Substitute_1,20850,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,518
+B_23540_Substitute_1,23540,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,454
+B_23540_Coarsen_1,23540,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,571
+B_14131_Substitute_1,14131,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,525
+B_14131_Coarsen_1,14131,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,503
+B_19975_Substitute_1,19975,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,314
+B_19975_Coarsen_1,19975,test,B,1,Coarsen,Dosage,Coarsen,1,1.0,1.0,604
+B_25827_Substitute_1,25827,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,515
+B_24166_Substitute_1,24166,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,338
+B_24166_Coarsen_1,24166,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,506
+B_11971_Substitute_1,11971,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,894
+B_11971_Coarsen_1,11971,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,638
+B_19228_Substitute_1,19228,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,650
+B_17572_Substitute_1,17572,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,380
+B_17572_Coarsen_1,17572,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,366
+B_6082_Substitute_1,6082,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,494
+B_6082_Coarsen_1,6082,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,471
+B_13753_Substitute_1,13753,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,462
+B_13753_Coarsen_1,13753,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,571
+B_17783_Substitute_1,17783,test,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,1058
+B_1275_Substitute_1,1275,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,559
+B_1275_Coarsen_1,1275,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,923
+B_23831_Substitute_1,23831,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,449
+B_736_Substitute_1,736,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,457
+B_6524_Substitute_1,6524,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,454
+B_6524_Coarsen_1,6524,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,425
+B_6340_Substitute_1,6340,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,748
+B_6340_Coarsen_1,6340,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,776
+B_16581_Substitute_1,16581,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,426
+B_2166_Substitute_1,2166,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,188
+B_2166_Coarsen_1,2166,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,850
+B_5531_Substitute_1,5531,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,582
+B_24351_Substitute_1,24351,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,678
+B_24351_Coarsen_1,24351,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,606
+B_15347_Substitute_1,15347,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,600
+B_15347_Coarsen_1,15347,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,459
+B_17256_Substitute_1,17256,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,416
+B_17256_Coarsen_1,17256,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,566
+B_19092_Substitute_1,19092,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,859
+B_19092_Coarsen_1,19092,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,856
+B_12904_Substitute_1,12904,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,738
+B_12904_Coarsen_1,12904,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,801
+B_22557_Substitute_1,22557,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,607
+B_13219_Substitute_1,13219,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,632
+B_13219_Coarsen_1,13219,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,892
+B_18005_Substitute_1,18005,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,367
+B_18005_Coarsen_1,18005,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,707
+B_1373_Substitute_1,1373,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,418
+B_1373_Coarsen_1,1373,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,534
+B_20407_Substitute_1,20407,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,530
+B_20407_Coarsen_1,20407,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,1257
+B_17450_Substitute_1,17450,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,289
+B_26067_Substitute_1,26067,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,531
+B_26067_Coarsen_1,26067,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,735
+B_15883_Substitute_1,15883,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,841
+B_15883_Coarsen_1,15883,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,652
+B_3236_Substitute_1,3236,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,386
+B_13450_Substitute_1,13450,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,572
+B_13450_Coarsen_1,13450,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,603
+B_12957_Substitute_1,12957,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,629
+B_12957_Coarsen_1,12957,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,920
+B_6071_Substitute_1,6071,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,764
+B_6071_Coarsen_1,6071,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,776
+B_16338_Substitute_1,16338,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,387
+B_16338_Coarsen_1,16338,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,487
+B_4084_Substitute_1,4084,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,875
+B_8251_Substitute_1,8251,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,544
+B_8251_Coarsen_1,8251,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,717
+B_17989_Substitute_1,17989,test,B,1,Substitute,Medicine,Substitute,1,0.0,0.0,568
+B_17989_Coarsen_1,17989,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,603
+B_12125_Substitute_1,12125,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,393
+B_12125_Coarsen_1,12125,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,562
+B_3255_Substitute_1,3255,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,358
+B_3255_Coarsen_1,3255,test,B,1,Coarsen,Test Result,Coarsen,1,0.0,0.0,276
+B_18811_Substitute_1,18811,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,275
+B_18811_Coarsen_1,18811,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,687
+B_13460_Substitute_1,13460,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,297
+B_13460_Coarsen_1,13460,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,690
+B_1695_Substitute_1,1695,test,B,1,Substitute,Symptom,Substitute,1,0.0,0.0,545
+B_20824_Substitute_1,20824,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,262
+B_15983_Substitute_1,15983,test,B,1,Substitute,Health Condition,Substitute,1,0.0,0.0,450
+B_19737_Substitute_1,19737,test,B,1,Substitute,Medicine,Substitute,1,1.0,1.0,667
+B_19737_Coarsen_1,19737,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,1129
+B_14938_Substitute_1,14938,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,491
+B_14938_Coarsen_1,14938,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,559
+B_2565_Substitute_1,2565,test,B,1,Substitute,Health Condition,Substitute,1,1.0,1.0,602
+B_2565_Coarsen_1,2565,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,501
+B_4451_Substitute_1,4451,test,B,1,Substitute,Symptom,Substitute,1,1.0,1.0,611
+B_4451_Coarsen_1,4451,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,806
+B_16708_Substitute_1,16708,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,591
+B_16708_Coarsen_1,16708,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,592
+B_12497_Substitute_1,12497,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,459
+B_12497_Coarsen_1,12497,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,534
+B_20374_Substitute_1,20374,test,B,1,Substitute,Temporal,Substitute,1,1.0,1.0,412
+B_20374_Coarsen_1,20374,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,451
+B_12924_Substitute_1,12924,test,B,1,Substitute,Medicine,Substitute,1,0.0,0.0,1003
+B_12924_Coarsen_1,12924,test,B,1,Coarsen,Temporal,Coarsen,1,1.0,1.0,675
+B_14271_Substitute_1,14271,test,B,1,Substitute,Test Result,Substitute,1,1.0,1.0,492
+B_14271_Coarsen_1,14271,test,B,1,Coarsen,Test Result,Coarsen,1,1.0,1.0,732
+B_7279_Substitute_1,7279,test,B,1,Substitute,Age,Substitute,1,1.0,1.0,613
+B_7279_Coarsen_1,7279,test,B,1,Coarsen,Temporal,Coarsen,1,0.0,0.0,724
