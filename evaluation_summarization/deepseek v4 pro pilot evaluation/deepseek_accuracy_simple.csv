@@ -1,0 +1,7 @@
+﻿Model,Correct,Wrong,Overall,n_correct,n_wrong
+GPT-4o-mini,94.0,69.5,74.4,50,200
+Gemini-3.1-flash-lite,90.0,92.0,91.6,50,200
+Grok-4.3,92.0,92.5,92.4,50,200
+Qwen 2.5 72B Instruct,90.0,84.0,85.2,50,200
+Llama 3.1 70B Instruct,96.0,46.7,56.68,50,197
+Deepseek V4 Flash,94.0,87.88,89.11,50,198

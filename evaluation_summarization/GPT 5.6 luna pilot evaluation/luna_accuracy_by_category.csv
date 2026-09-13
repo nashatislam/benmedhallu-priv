@@ -1,0 +1,7 @@
+﻿Model,Temporal_Correct,Temporal_Wrong,Symptom_Correct,Symptom_Wrong,Age_Correct,Age_Wrong,Medicine_Correct,Medicine_Wrong,Test Result_Correct,Test Result_Wrong,Dosage_Correct,Dosage_Wrong,Health Condition_Correct,Health Condition_Wrong,Other_Correct,Other_Wrong,Overall_Correct,Overall_Wrong
+GPT-4o-mini,100.0,56.45,96.43,75.56,87.5,70.37,88.89,72.73,100.0,93.75,100.0,58.33,71.43,90.0,100.0,83.33,94.0,70.0
+Gemini-3.1-flash-lite,92.0,88.71,89.29,91.11,87.5,100.0,88.89,95.45,100.0,93.75,80.0,91.67,85.71,100.0,100.0,100.0,90.0,93.0
+Grok-4.3,92.0,88.71,96.43,91.11,100.0,100.0,88.89,100.0,100.0,93.75,100.0,91.67,71.43,100.0,100.0,100.0,94.0,93.5
+Qwen 2.5 72B Instruct,92.0,77.42,96.43,82.22,87.5,96.3,77.78,95.45,80.0,93.75,100.0,91.67,71.43,100.0,100.0,100.0,90.0,87.0
+Llama 3.1 70B Instruct,100.0,34.48,95.83,27.91,100.0,39.13,100.0,52.63,100.0,50.0,100.0,50.0,83.33,37.5,100.0,16.67,97.83,36.87
+Deepseek V4 Flash,95.83,83.87,96.43,88.89,86.67,84.62,77.78,100.0,100.0,93.75,75.0,81.82,71.43,100.0,100.0,83.33,89.8,88.38

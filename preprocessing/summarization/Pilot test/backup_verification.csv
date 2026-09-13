@@ -1,0 +1,2400 @@
+﻿job_key,gen,pipeline,doc_id,method,n,target_categories,accepted,reason,target_verdicts,raw
+luna|deletion|10696|Delete|1,luna,deletion,10696,Delete,1,Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|10696|Delete|2,luna,deletion,10696,Delete,2,Medicine | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|10696|Delete|3,luna,deletion,10696,Delete,3,Medicine | Medicine | Other,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+luna|deletion|16760|Delete|1,luna,deletion,16760,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|16760|Delete|2,luna,deletion,16760,Delete,2,Temporal | Symptom,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | SUPPORTED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|16760|Delete|3,luna,deletion,16760,Delete,3,Temporal | Symptom | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|1483|Delete|1,luna,deletion,1483,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+luna|deletion|1483|Delete|2,luna,deletion,1483,Delete,2,Age | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+luna|deletion|1483|Delete|3,luna,deletion,1483,Delete,3,Age | Temporal | Medicine,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+luna|deletion|22486|Delete|1,luna,deletion,22486,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+luna|deletion|22486|Delete|2,luna,deletion,22486,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+luna|deletion|20110|Delete|1,luna,deletion,20110,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+luna|deletion|20110|Delete|2,luna,deletion,20110,Delete,2,Symptom | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+luna|deletion|20110|Delete|3,luna,deletion,20110,Delete,3,Symptom | Age | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+luna|deletion|24780|Delete|1,luna,deletion,24780,Delete,1,Other,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|24780|Delete|2,luna,deletion,24780,Delete,2,Other | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+luna|deletion|7282|Delete|1,luna,deletion,7282,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|7282|Delete|2,luna,deletion,7282,Delete,2,Medicine | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|7282|Delete|3,luna,deletion,7282,Delete,3,Medicine | Symptom | Medicine,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|25080|Delete|2,luna,deletion,25080,Delete,2,Symptom | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|25080|Delete|3,luna,deletion,25080,Delete,3,Symptom | Medicine | Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|1774|Delete|1,luna,deletion,1774,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+luna|deletion|22981|Delete|1,luna,deletion,22981,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|deletion|22981|Delete|2,luna,deletion,22981,Delete,2,Temporal | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|deletion|22981|Delete|3,luna,deletion,22981,Delete,3,Temporal | Symptom | Age,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | SUPPORTED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|deletion|15433|Delete|1,luna,deletion,15433,Delete,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED"
+luna|deletion|15433|Delete|2,luna,deletion,15433,Delete,2,Symptom | Age,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED"
+luna|deletion|12559|Delete|1,luna,deletion,12559,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+luna|deletion|12559|Delete|2,luna,deletion,12559,Delete,2,Temporal | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+luna|deletion|12559|Delete|3,luna,deletion,12559,Delete,3,Temporal | Temporal | Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED | NOT_MENTIONED | CONTRADICTED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: CONTRADICTED"
+luna|deletion|21785|Delete|1,luna,deletion,21785,Delete,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+luna|deletion|21785|Delete|2,luna,deletion,21785,Delete,2,Temporal | Medicine,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+luna|deletion|21785|Delete|3,luna,deletion,21785,Delete,3,Temporal | Medicine | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+luna|deletion|3065|Delete|1,luna,deletion,3065,Delete,1,Test Result,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|3065|Delete|2,luna,deletion,3065,Delete,2,Test Result | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+luna|deletion|3065|Delete|3,luna,deletion,3065,Delete,3,Test Result | Health Condition | Test Result,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED"
+luna|deletion|14138|Delete|1,luna,deletion,14138,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|14138|Delete|2,luna,deletion,14138,Delete,2,Age | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|18129|Delete|1,luna,deletion,18129,Delete,1,Test Result,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+luna|deletion|18129|Delete|2,luna,deletion,18129,Delete,2,Test Result | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|18129|Delete|3,luna,deletion,18129,Delete,3,Test Result | Medicine | Test Result,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|23712|Delete|1,luna,deletion,23712,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+luna|deletion|23712|Delete|2,luna,deletion,23712,Delete,2,Temporal | Test Result,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+luna|deletion|23712|Delete|3,luna,deletion,23712,Delete,3,Temporal | Test Result | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+luna|deletion|1250|Delete|1,luna,deletion,1250,Delete,1,Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|1250|Delete|2,luna,deletion,1250,Delete,2,Medicine | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+luna|deletion|1250|Delete|3,luna,deletion,1250,Delete,3,Medicine | Age | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+luna|deletion|21362|Delete|1,luna,deletion,21362,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+luna|deletion|21362|Delete|2,luna,deletion,21362,Delete,2,Symptom | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+luna|deletion|18248|Delete|1,luna,deletion,18248,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|18248|Delete|2,luna,deletion,18248,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+luna|deletion|18248|Delete|3,luna,deletion,18248,Delete,3,Symptom | Age | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+luna|deletion|24011|Delete|1,luna,deletion,24011,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED"
+luna|deletion|24011|Delete|2,luna,deletion,24011,Delete,2,Age | Health Condition,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED"
+luna|deletion|13323|Delete|1,luna,deletion,13323,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+luna|deletion|13323|Delete|2,luna,deletion,13323,Delete,2,Age | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|deletion|13879|Delete|1,luna,deletion,13879,Delete,1,Test Result,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|13879|Delete|2,luna,deletion,13879,Delete,2,Test Result | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+luna|deletion|13879|Delete|3,luna,deletion,13879,Delete,3,Test Result | Health Condition | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED"
+luna|deletion|15819|Delete|1,luna,deletion,15819,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|deletion|15819|Delete|2,luna,deletion,15819,Delete,2,Temporal | Medicine,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+luna|deletion|15819|Delete|3,luna,deletion,15819,Delete,3,Temporal | Medicine | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|12628|Delete|1,luna,deletion,12628,Delete,1,Dosage,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|12628|Delete|2,luna,deletion,12628,Delete,2,Dosage | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|12628|Delete|3,luna,deletion,12628,Delete,3,Dosage | Age | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|8111|Delete|1,luna,deletion,8111,Delete,1,Other,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+luna|deletion|8111|Delete|2,luna,deletion,8111,Delete,2,Other | Test Result,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+luna|deletion|8111|Delete|3,luna,deletion,8111,Delete,3,Other | Test Result | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+luna|deletion|19859|Delete|1,luna,deletion,19859,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|deletion|19859|Delete|2,luna,deletion,19859,Delete,2,Temporal | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED"
+luna|deletion|7854|Delete|1,luna,deletion,7854,Delete,1,Health Condition,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|7854|Delete|2,luna,deletion,7854,Delete,2,Health Condition | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|7854|Delete|3,luna,deletion,7854,Delete,3,Health Condition | Symptom | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|4872|Delete|1,luna,deletion,4872,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|4872|Delete|2,luna,deletion,4872,Delete,2,Temporal | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|4872|Delete|3,luna,deletion,4872,Delete,3,Temporal | Symptom | Age,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|11277|Delete|1,luna,deletion,11277,Delete,1,Age,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|deletion|11277|Delete|2,luna,deletion,11277,Delete,2,Age | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+luna|deletion|11277|Delete|3,luna,deletion,11277,Delete,3,Age | Symptom | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+luna|deletion|26458|Delete|1,luna,deletion,26458,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+luna|deletion|26268|Delete|1,luna,deletion,26268,Delete,1,Other,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+luna|deletion|8107|Delete|1,luna,deletion,8107,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|deletion|15818|Delete|1,luna,deletion,15818,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+luna|deletion|22314|Delete|1,luna,deletion,22314,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+luna|deletion|22314|Delete|2,luna,deletion,22314,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+luna|deletion|22314|Delete|3,luna,deletion,22314,Delete,3,Symptom | Age | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+luna|deletion|23240|Delete|1,luna,deletion,23240,Delete,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED"
+luna|deletion|10553|Delete|1,luna,deletion,10553,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|10553|Delete|2,luna,deletion,10553,Delete,2,Symptom | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+luna|deletion|10553|Delete|3,luna,deletion,10553,Delete,3,Symptom | Temporal | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+luna|deletion|15688|Delete|1,luna,deletion,15688,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+luna|deletion|21855|Delete|1,luna,deletion,21855,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|deletion|21855|Delete|2,luna,deletion,21855,Delete,2,Temporal | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|21855|Delete|3,luna,deletion,21855,Delete,3,Temporal | Health Condition | Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+luna|deletion|7664|Delete|1,luna,deletion,7664,Delete,1,Dosage,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+luna|deletion|7664|Delete|2,luna,deletion,7664,Delete,2,Dosage | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+luna|deletion|7664|Delete|3,luna,deletion,7664,Delete,3,Dosage | Dosage | Other,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+luna|deletion|16344|Delete|1,luna,deletion,16344,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+luna|deletion|16344|Delete|2,luna,deletion,16344,Delete,2,Symptom | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+luna|deletion|16344|Delete|3,luna,deletion,16344,Delete,3,Symptom | Health Condition | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED"
+luna|deletion|5061|Delete|1,luna,deletion,5061,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+luna|deletion|5061|Delete|2,luna,deletion,5061,Delete,2,Age | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+luna|deletion|5061|Delete|3,luna,deletion,5061,Delete,3,Age | Health Condition | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED"
+luna|deletion|20770|Delete|1,luna,deletion,20770,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|deletion|20770|Delete|2,luna,deletion,20770,Delete,2,Age | Medicine,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|deletion|20770|Delete|3,luna,deletion,20770,Delete,3,Age | Medicine | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|deletion|10592|Delete|1,luna,deletion,10592,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+luna|deletion|10592|Delete|2,luna,deletion,10592,Delete,2,Medicine | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: NOT_MENTIONED
+FACT 10: NOT_MENTIONED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|deletion|10592|Delete|3,luna,deletion,10592,Delete,3,Medicine | Health Condition | Age,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | NOT_MENTIONED | SUPPORTED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: NOT_MENTIONED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|deletion|7476|Delete|1,luna,deletion,7476,Delete,1,Symptom,False,"wrong operation applied, item belongs in the other pool",CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED"
+luna|deletion|17727|Delete|1,luna,deletion,17727,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|deletion|17727|Delete|2,luna,deletion,17727,Delete,2,Medicine | Dosage,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|deletion|17727|Delete|3,luna,deletion,17727,Delete,3,Medicine | Dosage | Dosage,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|deletion|24392|Delete|1,luna,deletion,24392,Delete,1,Health Condition,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+luna|deletion|24392|Delete|2,luna,deletion,24392,Delete,2,Health Condition | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+luna|deletion|21042|Delete|1,luna,deletion,21042,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+luna|deletion|4376|Delete|1,luna,deletion,4376,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+luna|deletion|4376|Delete|2,luna,deletion,4376,Delete,2,Temporal | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|alteration|10696|Substitute|1,luna,alteration,10696,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|16760|Substitute|1,luna,alteration,16760,Substitute,1,Medicine,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|16760|Coarsen|1,luna,alteration,16760,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|1483|Substitute|1,luna,alteration,1483,Substitute,1,Dosage,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: CONTRADICTED
+FACT 10: SUPPORTED"
+luna|alteration|1483|Coarsen|1,luna,alteration,1483,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+luna|alteration|22486|Substitute|1,luna,alteration,22486,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED"
+luna|alteration|22486|Coarsen|1,luna,alteration,22486,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+luna|alteration|20110|Substitute|1,luna,alteration,20110,Substitute,1,Health Condition,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED"
+luna|alteration|24780|Substitute|1,luna,alteration,24780,Substitute,1,Symptom,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|alteration|7282|Substitute|1,luna,alteration,7282,Substitute,1,Medicine,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|25080|Substitute|1,luna,alteration,25080,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|25080|Coarsen|1,luna,alteration,25080,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|1774|Substitute|1,luna,alteration,1774,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+luna|alteration|22981|Substitute|1,luna,alteration,22981,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED"
+luna|alteration|22981|Coarsen|1,luna,alteration,22981,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+luna|alteration|15433|Substitute|1,luna,alteration,15433,Substitute,1,Age,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED"
+luna|alteration|12559|Substitute|1,luna,alteration,12559,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+luna|alteration|12559|Coarsen|1,luna,alteration,12559,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+luna|alteration|21785|Substitute|1,luna,alteration,21785,Substitute,1,Age,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+luna|alteration|21785|Coarsen|1,luna,alteration,21785,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+luna|alteration|3065|Substitute|1,luna,alteration,3065,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|3065|Coarsen|1,luna,alteration,3065,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|14138|Substitute|1,luna,alteration,14138,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|alteration|14138|Coarsen|1,luna,alteration,14138,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|18129|Substitute|1,luna,alteration,18129,Substitute,1,Temporal,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED"
+luna|alteration|18129|Coarsen|1,luna,alteration,18129,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+luna|alteration|23712|Substitute|1,luna,alteration,23712,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+luna|alteration|23712|Coarsen|1,luna,alteration,23712,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED"
+luna|alteration|1250|Substitute|1,luna,alteration,1250,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|1250|Coarsen|1,luna,alteration,1250,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|21362|Substitute|1,luna,alteration,21362,Substitute,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+luna|alteration|21362|Coarsen|1,luna,alteration,21362,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+luna|alteration|18248|Substitute|1,luna,alteration,18248,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED"
+luna|alteration|18248|Coarsen|1,luna,alteration,18248,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+luna|alteration|24011|Substitute|1,luna,alteration,24011,Substitute,1,Medicine,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED"
+luna|alteration|13323|Substitute|1,luna,alteration,13323,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+luna|alteration|13879|Substitute|1,luna,alteration,13879,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|13879|Coarsen|1,luna,alteration,13879,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|15819|Substitute|1,luna,alteration,15819,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|alteration|15819|Coarsen|1,luna,alteration,15819,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|alteration|12628|Substitute|1,luna,alteration,12628,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|12628|Coarsen|1,luna,alteration,12628,Coarsen,1,Dosage,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|8111|Substitute|1,luna,alteration,8111,Substitute,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: CONTRADICTED
+FACT 10: SUPPORTED"
+luna|alteration|8111|Coarsen|1,luna,alteration,8111,Coarsen,1,Test Result,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+luna|alteration|19859|Substitute|1,luna,alteration,19859,Substitute,1,Symptom,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: NOT_MENTIONED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|19859|Coarsen|1,luna,alteration,19859,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+luna|alteration|7854|Substitute|1,luna,alteration,7854,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|7854|Coarsen|1,luna,alteration,7854,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|4872|Substitute|1,luna,alteration,4872,Substitute,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+luna|alteration|4872|Coarsen|1,luna,alteration,4872,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+luna|alteration|11277|Substitute|1,luna,alteration,11277,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|alteration|26458|Substitute|1,luna,alteration,26458,Substitute,1,Medicine,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+luna|alteration|26268|Substitute|1,luna,alteration,26268,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+luna|alteration|8107|Substitute|1,luna,alteration,8107,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED"
+luna|alteration|15818|Substitute|1,luna,alteration,15818,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED"
+luna|alteration|1907|Substitute|1,luna,alteration,1907,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+luna|alteration|1907|Coarsen|1,luna,alteration,1907,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+luna|alteration|22314|Substitute|1,luna,alteration,22314,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+luna|alteration|23240|Substitute|1,luna,alteration,23240,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+luna|alteration|23240|Coarsen|1,luna,alteration,23240,Coarsen,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+luna|alteration|10553|Substitute|1,luna,alteration,10553,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|10553|Coarsen|1,luna,alteration,10553,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|15688|Substitute|1,luna,alteration,15688,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+luna|alteration|21855|Substitute|1,luna,alteration,21855,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|alteration|21855|Coarsen|1,luna,alteration,21855,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+luna|alteration|7664|Substitute|1,luna,alteration,7664,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+luna|alteration|7664|Coarsen|1,luna,alteration,7664,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+luna|alteration|16344|Substitute|1,luna,alteration,16344,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+luna|alteration|5061|Substitute|1,luna,alteration,5061,Substitute,1,Test Result,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+luna|alteration|5061|Coarsen|1,luna,alteration,5061,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+luna|alteration|20770|Substitute|1,luna,alteration,20770,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|20770|Coarsen|1,luna,alteration,20770,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+luna|alteration|10592|Substitute|1,luna,alteration,10592,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: CONTRADICTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+luna|alteration|10592|Coarsen|1,luna,alteration,10592,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+luna|alteration|7476|Substitute|1,luna,alteration,7476,Substitute,1,Temporal,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: CONTRADICTED"
+luna|alteration|7476|Coarsen|1,luna,alteration,7476,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+luna|alteration|17727|Substitute|1,luna,alteration,17727,Substitute,1,Dosage,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: CONTRADICTED"
+luna|alteration|17727|Coarsen|1,luna,alteration,17727,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+luna|alteration|24392|Substitute|1,luna,alteration,24392,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+luna|alteration|21042|Substitute|1,luna,alteration,21042,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+luna|alteration|4376|Substitute|1,luna,alteration,4376,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+luna|alteration|4376|Coarsen|1,luna,alteration,4376,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|10696|Delete|1,deepseek,deletion,10696,Delete,1,Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|10696|Delete|2,deepseek,deletion,10696,Delete,2,Medicine | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|10696|Delete|3,deepseek,deletion,10696,Delete,3,Medicine | Medicine | Other,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|16760|Delete|1,deepseek,deletion,16760,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|16760|Delete|2,deepseek,deletion,16760,Delete,2,Temporal | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|16760|Delete|3,deepseek,deletion,16760,Delete,3,Temporal | Symptom | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|1483|Delete|1,deepseek,deletion,1483,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|deletion|1483|Delete|2,deepseek,deletion,1483,Delete,2,Age | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|deletion|1483|Delete|3,deepseek,deletion,1483,Delete,3,Age | Temporal | Medicine,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|deletion|22486|Delete|1,deepseek,deletion,22486,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|22486|Delete|2,deepseek,deletion,22486,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|20110|Delete|1,deepseek,deletion,20110,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+deepseek|deletion|20110|Delete|2,deepseek,deletion,20110,Delete,2,Symptom | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+deepseek|deletion|20110|Delete|3,deepseek,deletion,20110,Delete,3,Symptom | Age | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+deepseek|deletion|24780|Delete|1,deepseek,deletion,24780,Delete,1,Other,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|24780|Delete|2,deepseek,deletion,24780,Delete,2,Other | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|7282|Delete|1,deepseek,deletion,7282,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|7282|Delete|2,deepseek,deletion,7282,Delete,2,Medicine | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|7282|Delete|3,deepseek,deletion,7282,Delete,3,Medicine | Symptom | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|25080|Delete|1,deepseek,deletion,25080,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|25080|Delete|2,deepseek,deletion,25080,Delete,2,Symptom | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|25080|Delete|3,deepseek,deletion,25080,Delete,3,Symptom | Medicine | Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED"
+deepseek|deletion|1774|Delete|1,deepseek,deletion,1774,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+deepseek|deletion|22981|Delete|1,deepseek,deletion,22981,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+deepseek|deletion|22981|Delete|2,deepseek,deletion,22981,Delete,2,Temporal | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+deepseek|deletion|15433|Delete|1,deepseek,deletion,15433,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|15433|Delete|2,deepseek,deletion,15433,Delete,2,Symptom | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|12559|Delete|1,deepseek,deletion,12559,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+deepseek|deletion|12559|Delete|2,deepseek,deletion,12559,Delete,2,Temporal | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|deletion|12559|Delete|3,deepseek,deletion,12559,Delete,3,Temporal | Temporal | Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED | NOT_MENTIONED | CONTRADICTED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: CONTRADICTED"
+deepseek|deletion|21785|Delete|1,deepseek,deletion,21785,Delete,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED"
+deepseek|deletion|21785|Delete|2,deepseek,deletion,21785,Delete,2,Temporal | Medicine,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+deepseek|deletion|21785|Delete|3,deepseek,deletion,21785,Delete,3,Temporal | Medicine | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+deepseek|deletion|3065|Delete|1,deepseek,deletion,3065,Delete,1,Test Result,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|3065|Delete|2,deepseek,deletion,3065,Delete,2,Test Result | Health Condition,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | SUPPORTED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|14138|Delete|1,deepseek,deletion,14138,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|14138|Delete|2,deepseek,deletion,14138,Delete,2,Age | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|14138|Delete|3,deepseek,deletion,14138,Delete,3,Age | Temporal | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|18129|Delete|1,deepseek,deletion,18129,Delete,1,Test Result,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+deepseek|deletion|18129|Delete|2,deepseek,deletion,18129,Delete,2,Test Result | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|18129|Delete|3,deepseek,deletion,18129,Delete,3,Test Result | Medicine | Test Result,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|23712|Delete|1,deepseek,deletion,23712,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+deepseek|deletion|23712|Delete|2,deepseek,deletion,23712,Delete,2,Temporal | Test Result,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED"
+deepseek|deletion|23712|Delete|3,deepseek,deletion,23712,Delete,3,Temporal | Test Result | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED"
+deepseek|deletion|1250|Delete|1,deepseek,deletion,1250,Delete,1,Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|1250|Delete|2,deepseek,deletion,1250,Delete,2,Medicine | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|1250|Delete|3,deepseek,deletion,1250,Delete,3,Medicine | Age | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|21362|Delete|1,deepseek,deletion,21362,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|21362|Delete|2,deepseek,deletion,21362,Delete,2,Symptom | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|18248|Delete|1,deepseek,deletion,18248,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|18248|Delete|2,deepseek,deletion,18248,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|18248|Delete|3,deepseek,deletion,18248,Delete,3,Symptom | Age | Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED | NOT_MENTIONED | CONTRADICTED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: CONTRADICTED"
+deepseek|deletion|24011|Delete|1,deepseek,deletion,24011,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED"
+deepseek|deletion|24011|Delete|2,deepseek,deletion,24011,Delete,2,Age | Health Condition,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED"
+deepseek|deletion|13323|Delete|1,deepseek,deletion,13323,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+deepseek|deletion|13323|Delete|2,deepseek,deletion,13323,Delete,2,Age | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+deepseek|deletion|13879|Delete|1,deepseek,deletion,13879,Delete,1,Test Result,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|13879|Delete|2,deepseek,deletion,13879,Delete,2,Test Result | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|13879|Delete|3,deepseek,deletion,13879,Delete,3,Test Result | Health Condition | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED"
+deepseek|deletion|15819|Delete|1,deepseek,deletion,15819,Delete,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|deletion|15819|Delete|2,deepseek,deletion,15819,Delete,2,Temporal | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+deepseek|deletion|15819|Delete|3,deepseek,deletion,15819,Delete,3,Temporal | Medicine | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|12628|Delete|1,deepseek,deletion,12628,Delete,1,Dosage,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|12628|Delete|2,deepseek,deletion,12628,Delete,2,Dosage | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|12628|Delete|3,deepseek,deletion,12628,Delete,3,Dosage | Age | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|8111|Delete|1,deepseek,deletion,8111,Delete,1,Other,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+deepseek|deletion|8111|Delete|2,deepseek,deletion,8111,Delete,2,Other | Test Result,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|deletion|8111|Delete|3,deepseek,deletion,8111,Delete,3,Other | Test Result | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|deletion|19859|Delete|1,deepseek,deletion,19859,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|deletion|19859|Delete|2,deepseek,deletion,19859,Delete,2,Temporal | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED"
+deepseek|deletion|7854|Delete|1,deepseek,deletion,7854,Delete,1,Health Condition,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|7854|Delete|2,deepseek,deletion,7854,Delete,2,Health Condition | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|7854|Delete|3,deepseek,deletion,7854,Delete,3,Health Condition | Symptom | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|4872|Delete|1,deepseek,deletion,4872,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|4872|Delete|2,deepseek,deletion,4872,Delete,2,Temporal | Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|4872|Delete|3,deepseek,deletion,4872,Delete,3,Temporal | Symptom | Age,False,"targeted fact still supported, the edit did not take",SUPPORTED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|11277|Delete|1,deepseek,deletion,11277,Delete,1,Age,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|deletion|11277|Delete|2,deepseek,deletion,11277,Delete,2,Age | Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED | CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED"
+deepseek|deletion|11277|Delete|3,deepseek,deletion,11277,Delete,3,Age | Symptom | Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED | NOT_MENTIONED | CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED"
+deepseek|deletion|26458|Delete|1,deepseek,deletion,26458,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+deepseek|deletion|26268|Delete|1,deepseek,deletion,26268,Delete,1,Other,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+deepseek|deletion|8107|Delete|1,deepseek,deletion,8107,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+deepseek|deletion|15818|Delete|1,deepseek,deletion,15818,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+deepseek|deletion|1907|Delete|1,deepseek,deletion,1907,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED"
+deepseek|deletion|22314|Delete|1,deepseek,deletion,22314,Delete,1,Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+deepseek|deletion|22314|Delete|2,deepseek,deletion,22314,Delete,2,Symptom | Age,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+deepseek|deletion|22314|Delete|3,deepseek,deletion,22314,Delete,3,Symptom | Age | Medicine,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: NOT_MENTIONED
+FACT 11: NOT_MENTIONED"
+deepseek|deletion|23240|Delete|1,deepseek,deletion,23240,Delete,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED"
+deepseek|deletion|10553|Delete|1,deepseek,deletion,10553,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|10553|Delete|2,deepseek,deletion,10553,Delete,2,Symptom | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|10553|Delete|3,deepseek,deletion,10553,Delete,3,Symptom | Temporal | Age,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|15688|Delete|1,deepseek,deletion,15688,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+deepseek|deletion|21855|Delete|1,deepseek,deletion,21855,Delete,1,Temporal,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|deletion|21855|Delete|2,deepseek,deletion,21855,Delete,2,Temporal | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|21855|Delete|3,deepseek,deletion,21855,Delete,3,Temporal | Health Condition | Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED"
+deepseek|deletion|7664|Delete|1,deepseek,deletion,7664,Delete,1,Dosage,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+deepseek|deletion|7664|Delete|2,deepseek,deletion,7664,Delete,2,Dosage | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+deepseek|deletion|7664|Delete|3,deepseek,deletion,7664,Delete,3,Dosage | Dosage | Other,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+deepseek|deletion|16344|Delete|1,deepseek,deletion,16344,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|deletion|16344|Delete|2,deepseek,deletion,16344,Delete,2,Symptom | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|deletion|16344|Delete|3,deepseek,deletion,16344,Delete,3,Symptom | Health Condition | Health Condition,False,"targeted fact still supported, the edit did not take",NOT_MENTIONED | NOT_MENTIONED | SUPPORTED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|deletion|5061|Delete|1,deepseek,deletion,5061,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+deepseek|deletion|5061|Delete|2,deepseek,deletion,5061,Delete,2,Age | Health Condition,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+deepseek|deletion|5061|Delete|3,deepseek,deletion,5061,Delete,3,Age | Health Condition | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED"
+deepseek|deletion|20770|Delete|1,deepseek,deletion,20770,Delete,1,Age,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|deletion|20770|Delete|2,deepseek,deletion,20770,Delete,2,Age | Medicine,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|deletion|20770|Delete|3,deepseek,deletion,20770,Delete,3,Age | Medicine | Temporal,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|10592|Delete|1,deepseek,deletion,10592,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+deepseek|deletion|10592|Delete|2,deepseek,deletion,10592,Delete,2,Medicine | Health Condition,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED
+FACT 6: NOT_MENTIONED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: NOT_MENTIONED
+FACT 10: NOT_MENTIONED
+FACT 11: NOT_MENTIONED
+FACT 12: NOT_MENTIONED"
+deepseek|deletion|7476|Delete|1,deepseek,deletion,7476,Delete,1,Symptom,False,"wrong operation applied, item belongs in the other pool",CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED"
+deepseek|deletion|17727|Delete|1,deepseek,deletion,17727,Delete,1,Medicine,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+deepseek|deletion|17727|Delete|2,deepseek,deletion,17727,Delete,2,Medicine | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+deepseek|deletion|17727|Delete|3,deepseek,deletion,17727,Delete,3,Medicine | Dosage | Dosage,True,ok,NOT_MENTIONED | NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+deepseek|deletion|24392|Delete|1,deepseek,deletion,24392,Delete,1,Health Condition,True,ok,NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|24392|Delete|2,deepseek,deletion,24392,Delete,2,Health Condition | Symptom,True,ok,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED"
+deepseek|deletion|21042|Delete|1,deepseek,deletion,21042,Delete,1,Symptom,True,ok,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+deepseek|deletion|4376|Delete|1,deepseek,deletion,4376,Delete,1,Temporal,False,collateral damage to an untargeted fact,NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: NOT_MENTIONED
+FACT 3: NOT_MENTIONED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|deletion|4376|Delete|2,deepseek,deletion,4376,Delete,2,Temporal | Symptom,False,collateral damage to an untargeted fact,NOT_MENTIONED | NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: NOT_MENTIONED"
+deepseek|alteration|10696|Substitute|1,deepseek,alteration,10696,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|16760|Substitute|1,deepseek,alteration,16760,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|16760|Coarsen|1,deepseek,alteration,16760,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|1483|Substitute|1,deepseek,alteration,1483,Substitute,1,Dosage,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: CONTRADICTED
+FACT 10: SUPPORTED"
+deepseek|alteration|1483|Coarsen|1,deepseek,alteration,1483,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: NOT_MENTIONED
+FACT 10: SUPPORTED"
+deepseek|alteration|22486|Substitute|1,deepseek,alteration,22486,Substitute,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|alteration|22486|Coarsen|1,deepseek,alteration,22486,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|alteration|20110|Substitute|1,deepseek,alteration,20110,Substitute,1,Health Condition,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: NOT_MENTIONED"
+deepseek|alteration|24780|Substitute|1,deepseek,alteration,24780,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|7282|Substitute|1,deepseek,alteration,7282,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|25080|Substitute|1,deepseek,alteration,25080,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|25080|Coarsen|1,deepseek,alteration,25080,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|1774|Substitute|1,deepseek,alteration,1774,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+deepseek|alteration|22981|Substitute|1,deepseek,alteration,22981,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED"
+deepseek|alteration|22981|Coarsen|1,deepseek,alteration,22981,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED"
+deepseek|alteration|15433|Substitute|1,deepseek,alteration,15433,Substitute,1,Age,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED"
+deepseek|alteration|12559|Substitute|1,deepseek,alteration,12559,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|alteration|12559|Coarsen|1,deepseek,alteration,12559,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+deepseek|alteration|21785|Substitute|1,deepseek,alteration,21785,Substitute,1,Age,False,collateral damage to an untargeted fact,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+deepseek|alteration|21785|Coarsen|1,deepseek,alteration,21785,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+deepseek|alteration|3065|Substitute|1,deepseek,alteration,3065,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|3065|Coarsen|1,deepseek,alteration,3065,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|14138|Substitute|1,deepseek,alteration,14138,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|14138|Coarsen|1,deepseek,alteration,14138,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|18129|Substitute|1,deepseek,alteration,18129,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: CONTRADICTED
+FACT 6: SUPPORTED"
+deepseek|alteration|18129|Coarsen|1,deepseek,alteration,18129,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED"
+deepseek|alteration|23712|Substitute|1,deepseek,alteration,23712,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: CONTRADICTED
+FACT 8: SUPPORTED"
+deepseek|alteration|23712|Coarsen|1,deepseek,alteration,23712,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: NOT_MENTIONED
+FACT 8: NOT_MENTIONED"
+deepseek|alteration|1250|Substitute|1,deepseek,alteration,1250,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|1250|Coarsen|1,deepseek,alteration,1250,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|21362|Substitute|1,deepseek,alteration,21362,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: CONTRADICTED"
+deepseek|alteration|21362|Coarsen|1,deepseek,alteration,21362,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+deepseek|alteration|18248|Substitute|1,deepseek,alteration,18248,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED"
+deepseek|alteration|18248|Coarsen|1,deepseek,alteration,18248,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED"
+deepseek|alteration|24011|Substitute|1,deepseek,alteration,24011,Substitute,1,Medicine,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+deepseek|alteration|13323|Substitute|1,deepseek,alteration,13323,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED"
+deepseek|alteration|13879|Substitute|1,deepseek,alteration,13879,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|13879|Coarsen|1,deepseek,alteration,13879,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|15819|Substitute|1,deepseek,alteration,15819,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|alteration|15819|Coarsen|1,deepseek,alteration,15819,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|alteration|12628|Substitute|1,deepseek,alteration,12628,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|alteration|12628|Coarsen|1,deepseek,alteration,12628,Coarsen,1,Dosage,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|8111|Substitute|1,deepseek,alteration,8111,Substitute,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: NOT_MENTIONED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: CONTRADICTED
+FACT 10: SUPPORTED"
+deepseek|alteration|8111|Coarsen|1,deepseek,alteration,8111,Coarsen,1,Test Result,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED"
+deepseek|alteration|19859|Substitute|1,deepseek,alteration,19859,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|19859|Coarsen|1,deepseek,alteration,19859,Coarsen,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED"
+deepseek|alteration|7854|Substitute|1,deepseek,alteration,7854,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|7854|Coarsen|1,deepseek,alteration,7854,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|4872|Substitute|1,deepseek,alteration,4872,Substitute,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|alteration|4872|Coarsen|1,deepseek,alteration,4872,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED"
+deepseek|alteration|11277|Substitute|1,deepseek,alteration,11277,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|alteration|26458|Substitute|1,deepseek,alteration,26458,Substitute,1,Medicine,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+deepseek|alteration|26268|Substitute|1,deepseek,alteration,26268,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+deepseek|alteration|8107|Substitute|1,deepseek,alteration,8107,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: CONTRADICTED"
+deepseek|alteration|15818|Substitute|1,deepseek,alteration,15818,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+deepseek|alteration|1907|Substitute|1,deepseek,alteration,1907,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+deepseek|alteration|1907|Coarsen|1,deepseek,alteration,1907,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED"
+deepseek|alteration|22314|Substitute|1,deepseek,alteration,22314,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: CONTRADICTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: NOT_MENTIONED"
+deepseek|alteration|23240|Substitute|1,deepseek,alteration,23240,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+deepseek|alteration|23240|Coarsen|1,deepseek,alteration,23240,Coarsen,1,Temporal,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED"
+deepseek|alteration|10553|Substitute|1,deepseek,alteration,10553,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|10553|Coarsen|1,deepseek,alteration,10553,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|15688|Substitute|1,deepseek,alteration,15688,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+deepseek|alteration|21855|Substitute|1,deepseek,alteration,21855,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|alteration|21855|Coarsen|1,deepseek,alteration,21855,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: NOT_MENTIONED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED"
+deepseek|alteration|7664|Substitute|1,deepseek,alteration,7664,Substitute,1,Age,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED"
+deepseek|alteration|7664|Coarsen|1,deepseek,alteration,7664,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: NOT_MENTIONED
+FACT 11: SUPPORTED"
+deepseek|alteration|16344|Substitute|1,deepseek,alteration,16344,Substitute,1,Health Condition,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED
+FACT 4: SUPPORTED"
+deepseek|alteration|5061|Substitute|1,deepseek,alteration,5061,Substitute,1,Test Result,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+deepseek|alteration|5061|Coarsen|1,deepseek,alteration,5061,Coarsen,1,Test Result,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: NOT_MENTIONED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED"
+deepseek|alteration|20770|Substitute|1,deepseek,alteration,20770,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|20770|Coarsen|1,deepseek,alteration,20770,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|10592|Substitute|1,deepseek,alteration,10592,Substitute,1,Medicine,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+deepseek|alteration|10592|Coarsen|1,deepseek,alteration,10592,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: NOT_MENTIONED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: SUPPORTED"
+deepseek|alteration|7476|Substitute|1,deepseek,alteration,7476,Substitute,1,Temporal,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: CONTRADICTED"
+deepseek|alteration|7476|Coarsen|1,deepseek,alteration,7476,Coarsen,1,Temporal,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: NOT_MENTIONED"
+deepseek|alteration|17727|Substitute|1,deepseek,alteration,17727,Substitute,1,Dosage,True,ok,CONTRADICTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: CONTRADICTED"
+deepseek|alteration|17727|Coarsen|1,deepseek,alteration,17727,Coarsen,1,Dosage,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED
+FACT 6: SUPPORTED
+FACT 7: SUPPORTED
+FACT 8: SUPPORTED
+FACT 9: SUPPORTED
+FACT 10: SUPPORTED
+FACT 11: SUPPORTED
+FACT 12: NOT_MENTIONED"
+deepseek|alteration|24392|Substitute|1,deepseek,alteration,24392,Substitute,1,Symptom,False,"wrong operation applied, item belongs in the other pool",NOT_MENTIONED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: NOT_MENTIONED"
+deepseek|alteration|21042|Substitute|1,deepseek,alteration,21042,Substitute,1,Symptom,True,ok,CONTRADICTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED"
+deepseek|alteration|4376|Substitute|1,deepseek,alteration,4376,Substitute,1,Symptom,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: CONTRADICTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"
+deepseek|alteration|4376|Coarsen|1,deepseek,alteration,4376,Coarsen,1,Temporal,False,"targeted fact still supported, the edit did not take",SUPPORTED,"FACT 1: SUPPORTED
+FACT 2: SUPPORTED
+FACT 3: SUPPORTED
+FACT 4: SUPPORTED
+FACT 5: SUPPORTED"

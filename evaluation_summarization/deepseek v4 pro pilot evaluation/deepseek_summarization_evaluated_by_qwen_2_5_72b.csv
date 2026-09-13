@@ -1,0 +1,1006 @@
+﻿doc_id,item_id,track,gold,method,n,target_categories,prediction,correct,reasoning_tokens,finish_reason,raw_response
+1250,A_1250,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+1483,A_1483,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+1774,A_1774,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+1907,A_1907,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported details. The summary states that the right side of the face has been swelling every 1-2 months for the past 2 years, which is consistent with the source document."
+3065,A_3065,A,0,,0,,1.0,0.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains a discrepancy in the platelet count. The source document states ""সর্বশেষ আজকের রিপোর্টে ১৫০০০০ আসছে"" (the latest report today shows 1,500,000), whereas the summary states ""আজকের রিপোর্টে ১৫০০০০ আসছে"" (today's report shows 1,500,000). The summary incorrectly states the platelet count as 1,500,000 instead of 1,500,000, which is a significant difference. Therefore, the summary contains hallucinated information."
+4376,A_4376,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points mentioned in the source document, such as the ongoing cough, the sensation of something being stuck in the throat, the swollen tonsils, and the current absence of throat pain despite the cough."
+4872,A_4872,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the source, including the baby's age and weight, the two different dates given by different doctors for a possible cesarean, and the fact that labor pains have not yet started."
+5061,A_5061,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+7282,A_7282,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that contradicts or is not supported by the source document. It accurately reflects the key points mentioned in the source, such as the timing of the pain, the relief from defecation, and the use of specific syrups. The summary is a concise and accurate representation of the source document."
+7476,A_7476,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points about the intermittent abdominal pain experienced over 3-4 days and the request for advice."
+7664,A_7664,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+7854,A_7854,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the symptoms and conditions mentioned in the source document."
+8107,A_8107,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported details. It mentions the location of the lump, its visibility when opening the mouth, its mobility, and the pain upon light pressure. The question about the treatment is also present in the source document."
+8111,A_8111,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points mentioned in the source, such as the slight fever, no throat pain, drinking hot water, gargling, weakness, lack of appetite, red tonsils, and discomfort in the throat after eating."
+10553,A_10553,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+10592,A_10592,A,0,,0,,1.0,0.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains a small hallucination. The source document states that the acne got worse after 2 months of using Clinface Gel, but it does not mention that the acne had decreased before getting worse. The summary incorrectly states, ""২ মাস ক্লিনফেস জেল ব্যবহার করার পরে কমেছিল কিন্তু পরে বেশি হয়েছে"" (After 2 months of using Clinface Gel, it decreased but then got worse). This is not supported by the source document."
+10696,A_10696,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the source, including the age, duration of throat pain, the incident with the salt water, and the ineffectiveness of the medications taken."
+11277,A_11277,A,0,,0,,1.0,0.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""হার্টের রোগী"" (heart patient), but the source document mentions ""হাটের রোগি"" (diabetes patient). This is a contradiction."
+12559,A_12559,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+12628,A_12628,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+13323,A_13323,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+13879,A_13879,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+14138,A_14138,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the original text, including the age, the ongoing issue with cold, the discomfort in the chest after taking medicine, the presence of cough, and the request for advice."
+15433,A_15433,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the following points from the source:
+
+1. The person's age is 26.
+2. They forget things very quickly.
+3. They have trouble sleeping at night.
+
+The summary is a concise version of the source document and does not include any hallucinated information."
+15688,A_15688,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+15818,A_15818,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The source document mentions that the doctor has advised to do a root canal and that the person is experiencing significant tooth pain. The summary accurately reflects these points."
+15819,A_15819,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+16344,A_16344,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+16760,A_16760,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+17727,A_17727,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory information."
+18129,A_18129,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the original text, including the duration of the pain, the test result, the doctor's advice, and the recent increase in pain."
+18248,A_18248,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+19859,A_19859,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+20110,A_20110,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+20770,A_20770,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+21042,A_21042,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the content of the source document, including the mention of jaundice, liver and kidney function tests, the recent weakness, dark yellow urine, and pain above the back and chest."
+21362,A_21362,A,0,,0,,0.0,1.0,0,stop,ANSWER: 0
+21785,A_21785,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points mentioned in the source, such as the age of the mother, her high blood pressure, continuous medication, excessive talking, sleep issues, difficulty understanding new information, and forgetting where things are placed."
+21855,A_21855,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+22314,A_22314,A,0,,0,,1.0,0.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the phrase ""এনার্জি বেশি"" (high energy), which is not supported by the source document. The source document mentions ""এলর্জির পরমান খুব বেশি"" (allergy symptoms are very high), which is different from high energy."
+22486,A_22486,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points from the source, including the age, the location and nature of the pain, and the question about initial treatment to reduce the pain."
+22981,A_22981,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported details. It mentions the age (22), the duration of the pain (5 days), the location of the pain (মাড়ি, which refers to the jaw or cheek), and the request for advice on what to do. The summary does not include any hallucinated information."
+23240,A_23240,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The summary accurately reflects that the husband has not had a bowel movement for 4-5 days, which is consistent with the information provided in the source document."
+23712,A_23712,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any hallucinated information. It accurately reflects the information provided in the source document, including the details about the baby's movements and the mother's observations. The only minor difference is the use of ""রিপোর্ট নরমাল"" (report is normal) instead of specifying the details of the ultrasound report, but this does not introduce any unsupported or contradictory information."
+24011,A_24011,A,0,,0,,1.0,0.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""কম ঘুম হবে এবং কিডনির ক্ষতি করবে না এমন ওষুধ দেন"" (Give a medicine that will reduce sleep and not damage the kidneys). This is not supported by the source document. The source document mentions that the patient is concerned about the potential kidney damage from the medication, but it does not state that the patient is asking for a medicine that reduces sleep and does not damage the kidneys."
+24392,A_24392,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points mentioned in the source, including the pregnancy duration, vaginal dryness, pelvic pain, and the question about intercourse."
+24780,A_24780,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the source, including the development and persistence of the bump, the attempt to pop it with a nail, the foul-smelling discharge, and the remaining swelling."
+25080,A_25080,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported details or contradictions."
+26268,A_26268,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points from the original text, including the age, the desire to not have a baby for the next 2-3 years, the question about which contraceptive pill can be taken, and the inquiry about starting the pill during a period."
+26458,A_26458,A,0,,0,,0.0,1.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+1250,B_0,B,1,Coarsen,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""নেক্সিটাল ১০ মি খেয়েও কাজ হচ্ছে না"" - The source document mentions that the person is taking Nexital but not getting results, but it does not specify the dosage (10 mg). Therefore, this information is not supported by the source document."
+1250,B_1,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""নেক্সিটাল ১০ মি খেয়েও কাজ হচ্ছে না"" - This information is not present in the source document."
+1250,B_2,B,1,Delete,2,Medicine | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the patient's age, but the summary states ""বয়স ৩০"" (age 30).
+- The source document does not mention any medication, but the summary states ""নেক্সিটাল ১০ মি খেয়েও কাজ হচ্ছে না"" (Nexital 10 mg is not working).
+
+These details are not supported by the source document and thus are hallucinations."
+1250,B_3,B,1,Delete,3,Medicine | Age | Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the patient's age, but the summary states ""বয়স ৩০"" (age 30).
+- The source document does not mention any medication, but the summary states ""নেক্সিটাল ১০ মি খেয়েও কাজ হচ্ছে না"" (Nexital 10 mg is not working)."
+1250,B_4,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+1483,B_5,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the medications and cream were taken for 15 days, but the source document does not specify the duration of 15 days. It only mentions ""কিছুদিন"" (a few days).
+- The summary also asks ""কি করনীয়?"" (What should be done?), but the source document asks ""কি করলে স্থাই ভাবে সুস্থ হবো সমাধান দিবেন"" (What should be done to be permanently cured?).
+
+These discrepancies indicate that the summary contains information not supported by the source document."
+1483,B_6,B,1,Delete,1,Age,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. All the details mentioned in the summary are accurately reflected in the source text."
+1483,B_7,B,1,Delete,2,Age | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the medications (ফ্লুকনাজল, আইসোক্লোক্স, ট্রইজিন, and ইকনাজল ক্রিম) were taken for 15 days, which is not mentioned in the source document.
+- The source document does not specify the duration of the medication intake.
+- The summary also mentions ""বয়স ২৩"" (age 23), which is not provided in the source document."
+1483,B_8,B,1,Delete,3,Age | Temporal | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the medications (Fluconazole, Isoxlocline, Trizine, and Econazole cream) were taken for 15 days, which is not mentioned in the source document.
+- The summary mentions ""সাফি সিরাপ"" (Safi syrup), which is not mentioned in the source document."
+1483,B_9,B,1,Substitute,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the doctor has prescribed 5 tablets of Fluconazole, whereas the source document mentions that the doctor has prescribed 10 tablets of Fluconazole. This is a contradiction."
+1774,B_10,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary states ""গরমে কাজ করলে ঠান্ডা পানি খেলে মাথা ও ঘাড়ের ডান পাশে ব্যাথা করে"" (When working in the heat, drinking cold water causes pain in the head and right side of the neck). This information is not present in the source document. The source document only mentions that the person has diabetes and is working in a hot environment, and asks for advice on what to do."
+1774,B_11,B,1,Substitute,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states that the person has diabetes, which is not mentioned in the source document. The source document mentions high blood pressure, not diabetes."
+1907,B_12,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document does not specify the duration of 2 years or the frequency of 1/2 month for the swelling. It only mentions that the swelling has been occurring for ""অনেক দিন ধরে"" (many days) and ""মাঝে মাঝে"" (occasionally)."
+1907,B_13,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document does not mention anything about the swelling of the right side of the face occurring every 1-2 months for the past 2 years. The source document only mentions that various doctors (skin doctor, dental doctor) have been consulted, but the illness has not been cured."
+1907,B_14,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains hallucinated information. The source document states that the swelling occurs every 3/4 months over the past 5 years, while the summary states that the swelling occurs every 1/2 month over the past 2 years. This is a clear contradiction."
+3065,B_15,B,1,Coarsen,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""এনএস ১ পজিটিভ আসছে"" (NS1 is positive), whereas the source document says ""এনএস১ পরীক্ষার ফল স্বাভাবিকের চেয়ে একটু বেশি আসছে"" (NS1 test result is slightly higher than normal). This is a contradiction.
+- The summary states ""আজকের রিপোর্টে ১৫০০০০ আসছে"" (Today's report shows 1,500,000), whereas the source document says ""সর্বশেষ আজকের রিপোর্টে ১৫০০০০ আসছে"" (The latest report today shows 1,500,000). The number is correct, but the summary omits the word ""সর্বশেষ"" (latest), which is a minor detail but still a difference. 
+
+These discrepancies indicate that the summary contains information that is not supported by the source document."
+3065,B_16,B,1,Delete,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the statement ""এনএস ১ পজিটিভ আসছে"" (NS1 positive), which is not mentioned in the source document. This is unsupported information and thus hallucinated."
+3065,B_17,B,1,Delete,2,Test Result | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains information that is not supported by the source document. Specifically, the summary mentions details such as the date of onset of dengue fever (১০ . ০৯ . ১৯), the NS1 test result, the platelet count changes, and the current platelet count (১৫০০০০). These details are not present in the source document. The source document only mentions that the person feels weak and asks about when they will know if their dengue fever has improved and whether they need a CVS test."
+3065,B_18,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states the fever started on ২৫ . ০৮ . ১৯ and it has been ২৫ days, while the summary states it started on ১০ . ০৯ . ১৯ and it has been ১০ days. This is a contradiction.
+- The source document mentions the platelet count as ১৫০০০০, while the summary mentions ১৫০০০০. This is a minor discrepancy, but still a contradiction. 
+
+These discrepancies indicate that the summary contains information that is not supported by the source document."
+4376,B_19,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points mentioned in the source, such as the ongoing cough, the sensation of something being stuck in the throat, the swollen tonsils, and the current absence of throat pain despite the cough."
+4376,B_20,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document does not mention anything about coughing, throat pain, feeling something stuck in the throat, or swollen tonsils. The source document only mentions that the person had a similar issue before which resolved on its own and asks for advice on what to do now."
+4376,B_21,B,1,Delete,2,Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""গত কয়েকদিন যাবৎ বেশ কাশি"" (I have been coughing for the past few days), but the source document only mentions that the person started coughing recently, not that it has been happening for several days.
+- The summary also states ""এখন গলা ব্যথা নেই"" (There is no throat pain now), but the source document does not mention the absence of throat pain. It only mentions that the tonsils are swollen and there is a sensation of something being stuck in the throat."
+4376,B_22,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states ""এখন গলা ব্যথা নেই তবে কাশি হচ্ছে"" which contradicts the source document. The source document mentions ""এখন ও হালকা ফোলা আছে তবে গলা ব্যথা আছে"" indicating that there is still some throat pain."
+4872,B_23,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains a date (২৫ তারিখে) that is not mentioned in the source document. The source document only mentions that the first gynecologist advised a cesarean if pain does not start in a few days, but does not specify a date. The second gynecologist gave a date of ১৩ এপ্রিল. Therefore, the date ২৫ তারিখে in the summary is hallucinated."
+4872,B_24,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""এবং অন্য একজন গাইনী বিশেষজ্ঞ ১৩ এপ্রিলে ডেট দিসে"" (and another gynecologist specialist gave a date on April 13), which is not mentioned in the source document. The source document only mentions one gynecologist giving a date of the 25th."
+4872,B_25,B,1,Delete,2,Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""অন্য একজন গাইনী বিশেষজ্ঞ ১৩ এপ্রিলে ডেট দিসে"" (another gynecologist specialist gave a date of April 13), which is not present in the source document. The source document only mentions one gynecologist giving a date of the 25th."
+4872,B_26,B,1,Delete,3,Temporal | Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the baby's age (36 months) in the womb. This is hallucinated information.
+- The source document does not mention a specific date (13th April) given by the second gynecologist. This is also hallucinated information.
+- The source document does not state that the pain has not started yet. It only mentions that if the pain does not start by the 25th, a C-section will be required. This is a slight misinterpretation but can be considered hallucinated."
+4872,B_27,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains hallucinated information. The source document mentions that the first gynecologist advised to perform a C-section by the 10th if there is no pain, but the summary states that the first gynecologist gave a date of the 25th. This is not supported by the source document."
+5061,B_28,B,1,Coarsen,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""ডায়াবেটিস এর মাত্রা ১৪ - ১৫ পর্যন্ত থাকে"" which is not supported by the source document. The source document only mentions that the diabetes level is a bit high, but does not specify any numerical range."
+5061,B_29,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the information ""বয়স ৫০"" (age 50), which is not mentioned in the source document. The source document does not provide any information about the patient's age. Therefore, this information is hallucinated."
+5061,B_30,B,1,Delete,2,Age | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary includes ""বয়স ৫০"" (age 50), which is not mentioned in the source document.
+- The summary also states ""হার্টে সমস্যা রয়েছে"" (heart problems), which is not mentioned in the source document. The source document only mentions ""শ্বাসকষ্ট"" (shortness of breath).
+
+These additions are not supported by the source document and thus are hallucinations."
+5061,B_31,B,1,Delete,3,Age | Health Condition | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary introduces new information not present in the source document, such as the patient's age (বয়স ৫০) and the duration of diabetes (ডায়াবেটিস ৫ বছর যাবত আছে).
+- The summary also adds a new symptom not mentioned in the source document: heart problems (হার্টে সমস্যা রয়েছে). 
+
+These details are not supported by the source document and thus are hallucinations."
+5061,B_32,B,1,Substitute,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states that the diabetes level is 14-15, whereas the source document mentions that the diabetes level is 6-7. This is a contradiction."
+7282,B_33,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""কার্মিনা সিরাপ"" (Carminative syrup), which is not mentioned in the source document. The source document only mentions ""গ্যাস্ট্রিড সিরাপ"" (Gastrid syrup).
+- The summary asks if any medicine should be taken, which is not a direct question in the source document. The source document ends with a statement expressing gratitude for potential medication, not a question."
+7282,B_34,B,1,Delete,2,Medicine | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""শুধু ইফতারের এক ঘন্টা পর"" (only one hour after Iftar), which is not supported by the source document.
+- The summary mentions ""কার্মিনা সিরাপ"" (Carminative syrup), which is not mentioned in the source document. The source document only mentions ""গ্যাস্ট্রিড সিরাপ"" (Gastrid syrup).
+- The summary asks ""কি ওষুধ সেবন করব?"" (what medicine should I take?), which is not a question posed in the source document. The source document only mentions that the person is not getting any benefit from the Gastrid syrup and would be grateful if medicine is provided."
+7282,B_35,B,1,Delete,3,Medicine | Symptom | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the pain is felt only one hour after iftar, which is not mentioned in the source document.
+- The summary mentions that the person is taking ""কার্মিনা সিরাপ ও গাস্ট্রিড সিরাপ,"" which is not mentioned in the source document.
+- The source document does not specify the exact timing of the pain after iftar, only that it occurs after eating.
+- The source document does not mention any specific medications being taken."
+7282,B_36,B,1,Substitute,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""গাস্ট্রিড সিরাপ"" (Gastrid syrup), but the source document only mentions ""সেক্লো সিরাপ"" (Seclo syrup) for gas issues. This is a contradiction.
+- The summary asks if any medicine should be taken, but the source document already states that the person is taking medications (Carmin syrup and Seclo syrup) and is not getting relief. This is an unsupported statement."
+7476,B_37,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects that the person has been experiencing intermittent abdominal pain for 3-4 days and is seeking advice on what to do."
+7476,B_38,B,1,Delete,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the main points of the patient's complaint about the abdominal pain lasting 3-4 days and the request for advice."
+7476,B_39,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary states that the pain has been occurring for 3-4 days, whereas the source document mentions that the pain has been present for 10-12 days. This is a contradiction."
+7664,B_40,B,1,Coarsen,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the patient took ""টারবিন ১ + ০ + ১ ( ২ মাস )"", but the source document mentions ""টারবিন কিছুদিন খেয়েছি"" which does not specify the dosage or duration as 2 months.
+- The summary also states ""ডামার্সিন ২ ফোঁটা নিয়েছি"" whereas the source document mentions ""ডার্মাসিম ২ফোটা ( ২বার ) ব্যবহার করেছি"". The name of the medication and the frequency of use are different."
+7664,B_41,B,1,Delete,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""ডামার্সিন ২ ফোঁটা নিয়েছি"" is not mentioned in the source document."
+7664,B_42,B,1,Delete,2,Dosage | Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""ফ্লোরিজ ১ + ০ + ১ ( ২ মাস ) . ডামার্সিন ২ ফোঁটা নিয়েছি"" which is not present in the source document."
+7664,B_43,B,1,Delete,3,Dosage | Dosage | Other,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""ফ্লোরিজ ১ + ০ + ১ ( ২ মাস ) . ডামার্সিন ২ ফোঁটা নিয়েছি"" which is not present in the source document. The source document only mentions the use of টারবিন, ওমাসটিন, and জেনেভাস."
+7664,B_44,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states the age as 68, but the summary states the age as 43. This is a contradiction.
+- The summary correctly mentions the weight as 72 kg, which matches the source document.
+- The summary accurately describes the nail condition, the consultation with a dermatologist, and the medications and treatments used.
+- The summary correctly states that part of the nail has improved while the rest remains the same.
+- The summary accurately asks what to do next.
+
+However, the age discrepancy is a clear contradiction, so the summary contains hallucinated information."
+7854,B_45,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the symptoms and conditions mentioned in the source document, including the intermittent itching in the nose and upper throat, the absence of fever and throat pain, the presence of a cold, and the allergy issues."
+7854,B_46,B,1,Delete,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states ""ঠাণ্ডা ও অ্যালার্জির সমস্যা আছে"" (there is a cold and allergy problem), but the source document only mentions ""ঠান্ডা লেগেই থাকে"" (there is a cold). The source document does not mention any allergy problem. Therefore, the summary contains information that is not supported by the source document."
+7854,B_47,B,1,Delete,2,Health Condition | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""জ্বর ও গলা ব্যথা নেই"" (no fever and no throat pain), but the source document does not mention anything about fever or throat pain.
+- The summary also states ""ঠাণ্ডা ও অ্যালার্জির সমস্যা আছে"" (there is a cold and allergy problem), but the source document only mentions a cold and a general discomfort, not specifically an allergy."
+7854,B_48,B,1,Delete,3,Health Condition | Symptom | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention ""জ্বর ও গলা ব্যথা নেই"" (no fever or throat pain), ""ঠাণ্ডা ও অ্যালার্জির সমস্যা আছে"" (cold and allergy problems), or ""করণীয় কি?"" (what to do?). These details are not present in the original text and thus are hallucinations."
+7854,B_49,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions symptoms lasting for 15-20 days, but the summary states 4-5 days.
+- The source document does not mention any specific actions to be taken (করণীয় কি?), but the summary includes this question."
+8107,B_50,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""নড়ে ও হালকা চাপ দিলে ব্যাথা করে"" (it moves and hurts when light pressure is applied), which is not mentioned in the source document. The source document only mentions that the lump can be moved but does not mention any pain or discomfort when pressure is applied."
+8107,B_51,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the following hallucinated information:
+- ""হালকা চাপ দিলে ব্যাথা করে"" (It hurts when light pressure is applied) - This contradicts the source document, which states ""হালকা চাপ দিলে কিছুই অনুভূত হয় না"" (Nothing is felt when light pressure is applied)."
+8111,B_52,B,1,Coarsen,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- The summary states ""কুসুম গরম পানি খেয়েছি"" (I drank hot water from Kusum), but the source document says ""করুনার ভয়ে কুসুমগরম থেকেও এক্টু বেশিএমন গরম পানি খেয়েছি"" (I drank a bit more hot water than usual, even from Kusum, out of fear of corona).
+- The summary mentions ""টনসিল লাল হয়ে আছে"" (the tonsils are red), but the source document only mentions ""ট্রনছিল একটু লালচে হয়ে আছে"" (the throat is a bit red) and does not specifically mention the tonsils."
+8111,B_53,B,1,Delete,1,Other,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""কুসুম গরম পানি খেয়েছি ও গার্গল করেছি"" (Kusum drank hot water and did gargles), which is not supported by the source document. The source document does not mention any such actions.
+- The summary also states ""গলা ব্যাথা ছিল না"" (there was no throat pain), which is consistent with the source document. However, the additional information about drinking hot water and gargling is not supported."
+8111,B_54,B,1,Delete,2,Other | Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""কুসুম গরম পানি খেয়েছি ও গার্গল করেছি"" (Kusum drank hot water and did gargles), which is not supported by the source document.
+- The summary also mentions ""টনসিল লাল হয়ে আছে"" (tonsils are red), which is not mentioned in the source document."
+8111,B_55,B,1,Delete,3,Other | Test Result | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by or contradicts the source document. Specifically:
+
+1. The summary mentions ""কুসুম গরম পানি খেয়েছি ও গার্গল করেছি"" (Kusum drank hot water and gargled), which is not mentioned in the source document.
+2. The summary states ""টনসিল লাল হয়ে আছে"" (the tonsils are red), which is also not mentioned in the source document."
+8111,B_56,B,1,Substitute,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""টনসিল লাল হয়ে আছে"" (the tonsils are red), but the source document mentions ""ট্রনছিল সাদা হয়ে আছে"" (the tonsils are white). This is a contradiction.
+- The summary also mentions ""কুসুম গরম পানি খেয়েছি"" (I drank hot water from Kusum), but the source document says ""কুসুমগরম থেকেও এক্টু বেশিএমন গরম পানি খেয়েছি"" (I drank a bit more hot water than usual from Kusum). This is a slight but significant difference in the information provided."
+10553,B_57,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,ANSWER: 0
+10553,B_58,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the statement ""হালকা কাশি আছে"" (there is a mild cough), which is not mentioned in the source document. The source document states ""অন্য কোন সমস্যা নাই"" (there are no other problems). Therefore, the summary contains information that is not supported by the source document."
+10553,B_59,B,1,Delete,2,Symptom | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""কয়েক দিন হলো নিশ্বাসের সমস্যা হচ্ছে"" - The source document does not specify the duration of the breathing problem.
+- ""হালকা কাশি আছে"" - The source document does not mention any cough."
+10553,B_60,B,1,Delete,3,Symptom | Temporal | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""বয়স ১৭"" (age 17), which is not mentioned in the source document.
+- The summary states ""হালকা কাশি আছে"" (there is a mild cough), which is not mentioned in the source document. The source document specifically states ""অন্য কোন সমস্যা নাই"" (there are no other problems)."
+10553,B_61,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains hallucinated information. The age in the source document is 65, but the summary states the age as 17. This is a clear contradiction."
+10592,B_62,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""২ বছর হলো মুখে ব্রুন"" (acne has been present for 2 years), but the source document says ""অনেক দিন যাবত"" (for a long time), which is not specific to 2 years.
+- The summary states ""২ মাস ক্লিনফেস জেল ব্যবহার করার পরে কমেছিল কিন্তু পরে বেশি হয়েছে"" (after 2 months of using Clinface Gel, it reduced but then increased), but the source document only mentions that after 2 months of using Clinface Gel, it increased again, without mentioning any reduction."
+10592,B_63,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""২ দিন হলো ফনাপ্লাস ব্যবহার করছি"" (I have been using PhonoPlus for 2 days), which is not mentioned in the source document. This is hallucinated information."
+10592,B_64,B,1,Delete,2,Medicine | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document only states the age of the person (18 years). The summary includes additional details about acne, treatments tried, and a request for permanent treatment, which are not mentioned in the source document."
+10592,B_65,B,1,Substitute,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""২ মাস ক্লিনফেস জেল ব্যবহার করার পরে কমেছিল কিন্তু পরে বেশি হয়েছে"" which is not supported by the source document. The source document mentions ""ক্লিনডামাইসিন জেল ব্যবহার করছি ২ মাস কমার পর আবার বেশি"" which means the acne got worse after stopping the use of Clindamycin gel, not that it improved and then worsened.
+- The summary also mentions ""ক্লিনফেস জেল"" instead of ""ক্লিনডামাইসিন জেল"" which is a different product and not mentioned in the source document."
+10696,B_66,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""প্যারাসিটামল"" (paracetamol) as one of the medications taken, but the source document only mentions ""এন্টিহিসটামিন"" (antihistamine). This is unsupported information."
+10696,B_67,B,1,Delete,2,Medicine | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary states ""প্যারাসিটামল ও এন্টিহিসটামিন খেয়েও উপকার নেই"" (taking paracetamol and antihistamines did not help), which is not mentioned in the source document."
+10696,B_68,B,1,Delete,3,Medicine | Medicine | Other,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains information that is not supported by the source document. Specifically, the summary states ""প্যারাসিটামল ও এন্টিহিসটামিন খেয়েও উপকার নেই"" (taking paracetamol and antihistamines did not help), which is not mentioned in the source document. The source document does not mention the use of any medications."
+10696,B_69,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states the person's age as 62, but the summary states the age as 29. This is a clear contradiction.
+- The summary mentions ""কুলি করতে গেলে"" (trying to swallow), which is not mentioned in the source document. The source document only mentions that the water went into the stomach while gargling.
+- The summary is accurate in mentioning that the throat pain increased after the salt water incident and that the person has been taking paracetamol and antihistamines without relief. However, the age discrepancy and the additional detail about swallowing are not supported by the source document."
+11277,B_70,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৫৫"" (age 55), but the source document does not mention the age.
+- The summary states ""হার্টের রোগী"" (heart patient), but the source document mentions ""হাটের রোগি"" (leg patient).
+
+These points are not supported by the source document and thus are hallucinations."
+11277,B_71,B,1,Delete,2,Age | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৫৫"" (age 55), but the source document does not mention the age.
+- The summary states ""হার্টের রোগী"" (heart patient), but the source document mentions ""হাটের রোগি"" (diabetic patient). 
+
+These points are not supported by the source document and thus are hallucinations."
+11277,B_72,B,1,Delete,3,Age | Symptom | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৫৫"" (age 55), but the source document does not mention the age.
+- The summary mentions ""ডান পায়ে রক্ত জমেছিল"" (blood clotted in the right foot), but the source document does not mention any blood clot.
+- The summary states ""হার্টের রোগী"" (heart patient), but the source document does not mention any heart condition."
+11277,B_73,B,1,Substitute,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the statement ""হার্টের রোগী"" (heart patient), which is not supported by the source document. The source document mentions that the father is a diabetic but does not mention any heart condition."
+12559,B_74,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. The summary accurately reflects the main points of the source document, including the duration of the itching, the fact that it has been happening for a long time, and that it only occurs after bathing."
+12559,B_75,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""আমার গোসলের পরে শরীর চুলকায় প্রায় ২০ মিনিটের মতো"" which is not supported by the source document. The source document does not mention the duration of the itching after bathing."
+12559,B_76,B,1,Delete,2,Temporal | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the information that the itching lasts for about 20 minutes, which is not mentioned in the source document. The source document only states that the itching occurs after bathing but does not specify the duration."
+12559,B_77,B,1,Delete,3,Temporal | Temporal | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions that the itching occurs after bathing, specifically after applying soap and water.
+- The summary states that the itching lasts for about 20 minutes, which is not mentioned in the source document.
+- The summary also mentions that the itching has been happening for many days, but the source document does not specify the duration of the problem.
+- The summary adds that the person is seeking advice, which is not explicitly stated in the source document.
+
+These details in the summary are not supported by the source document, hence the summary contains hallucinated information."
+12559,B_78,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains a hallucination. The source document mentions that the issue is a burning sensation (জ্বালাপোড়া) after bathing, while the summary states that the issue is itching (চুলকায়). This is a contradiction between the source document and the summary."
+12628,B_79,B,1,Coarsen,1,Dosage,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory information."
+12628,B_80,B,1,Delete,1,Dosage,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+12628,B_81,B,1,Delete,2,Dosage | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""বয়স ৩১"" (Age 31) - This information is not mentioned in the source document.
+- ""সকালে ও রাতে সেকলো খাই"" (I eat snacks in the morning and evening) - This information is not mentioned in the source document."
+12628,B_82,B,1,Delete,3,Dosage | Age | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the patient's age or the duration of the gastric problem (6 years).
+- The source document does not specify the timing of taking the medication (morning and night).
+- The source document mentions that acid levels increase without medication, but the summary states that acid occurs without medication, which is a slight but significant change in meaning."
+12628,B_83,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the original text, including the age, duration of the gastric problem, medication intake, symptoms without medication, and the questions about long-term medication use and ways to reduce gastric issues."
+13323,B_84,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the hallucinated information ""বয়স ২২"" (age 22), which is not mentioned in the source document."
+13323,B_85,B,1,Delete,2,Age | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the patient's age (22) or the duration of the symptoms (2 months).
+- The source document does not mention pain in the neck or muscles (পেশি, ঘাড়).
+- The source document only mentions the sensation of the back feeling like it is tearing (পিঠ চিঁড়ে যাচ্ছে) and frequent urination (ঘনঘন প্রস্রাব হয়).
+
+These details in the summary are not supported by the source document."
+13323,B_86,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. The summary accurately reflects the key points from the source document, including the age, duration of symptoms, location of discomfort, and frequency of urination."
+13879,B_87,B,1,Coarsen,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the specific value ""১০"" for the sugar level, which is not mentioned in the source document. The source document only states that the sugar level was ""একটু বেশি ছিল"" (a bit high). This specific value is not supported by the source document."
+13879,B_88,B,1,Delete,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains information that is not supported by the source document. Specifically, the statement ""সপ্তাহখানেক আগে ডায়াবেটিস পরীক্ষা করলে সুগার লেভেল ১০ হয়"" (a few weeks ago, a diabetes test was done and the sugar level was 10) is not mentioned in the source document. The source document only mentions that the person is a diabetic but does not provide any specific information about a recent diabetes test or sugar level."
+13879,B_89,B,1,Delete,2,Test Result | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention that the person has diabetes or that a diabetes test was conducted where the sugar level was 10. These details are not present in the original text."
+13879,B_90,B,1,Delete,3,Test Result | Health Condition | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""ডায়াবেটিস আছে"" and ""সপ্তাহখানেক আগে ডায়াবেটিস পরীক্ষা করলে সুগার লেভেল ১০ হয়"" which are not supported by the source document. The source document does not mention anything about diabetes or sugar levels."
+13879,B_91,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions the age as 58, but the summary states the age as 32.
+- The source document mentions that the person has a small child, but the summary does not include this information.
+- The summary does not mention the lockdown situation, which is a significant detail in the source document.
+
+These discrepancies indicate that the summary contains information that is not supported by the source document."
+14138,B_92,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+14138,B_93,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary includes the patient's age (বয়স ২২) which is not mentioned in the source document.
+- The summary states ""কফ হয়েছে"" (there is cough), but the source document only mentions that the patient has to cough to clear their throat (কফ ফেলতে হয়), not that there is a persistent cough.
+- The summary is otherwise accurate in mentioning the long-standing cold, the discomfort in the chest after taking medicine, and the need for advice."
+14138,B_94,B,1,Delete,2,Age | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary includes the age ""বয়স ২২"" which is not mentioned in the source document.
+- The source document does not mention that the person has had a cold for a long time (""অনেকদিন হলো সর্দি ভালো হচ্ছে না""), but the summary includes this information.
+- The summary states ""কফ হয়েছে"" (there is cough), but the source document only mentions that the person has to cough to clear their throat, not that they have a cough.
+- The summary is accurate in mentioning that the medicine causes the cold to settle in the chest and causes discomfort throughout the year, and that the person is seeking advice. However, the additional information not supported by the source document makes the summary hallucinated."
+14138,B_95,B,1,Delete,3,Age | Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ২২"" (age 22), but the source document does not mention the age.
+- The summary mentions ""কফ হয়েছে"" (cough has developed), but the source document does not mention a cough.
+- The summary states ""অনেকদিন হলো সর্দি ভালো হচ্ছে না"" (the cold has not been getting better for a long time), but the source document does not specify the duration of the cold.
+
+These points in the summary are not supported by the source document."
+14138,B_96,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points from the original text, including the age, the ongoing issue with cold, the discomfort caused by the cold even after taking medicine, and the request for advice."
+15433,B_97,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions ""মাথা এলোমেলো"" (confused head), but the summary states ""খুব দ্রুত ভুলে যাই"" (forget very quickly). This is not supported by the source document.
+- The summary is correct in stating ""বয়স ২৬"" (age 26) and ""ঘুম হয় না"" (can't sleep), but the additional information about forgetting quickly is not present in the source document."
+15433,B_98,B,1,Delete,2,Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention the person's age (বয়স ২৬) or that they forget things very quickly (খুব দ্রুত ভুলে যাই). The source document only mentions issues with sleep, stating that the person cannot sleep at night but falls asleep after Fajr prayers, and that they need sleep and feel confused."
+15433,B_99,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states the age as ২৬, while the source document mentions the age as ৬২.
+- The summary does not mention the height or marital status, which is not a hallucination as it is just incomplete.
+- The summary correctly states that the person forgets things quickly, which is supported by the source document.
+- The summary mentions sleep issues, which is also supported by the source document.
+
+However, the age discrepancy is a clear hallucination."
+15688,B_100,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the age ""১৫"" (15), which is not mentioned in the source document. The source document does not provide any information about the age of the person. Therefore, this information is hallucinated."
+15688,B_101,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the key points: the person is 15 years old, experiencing hair loss, and is seeking advice."
+15818,B_102,B,1,Delete,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The source document mentions that the doctor has advised to do a root canal, and the summary correctly states this. The summary does not mention the patient's fear of eye or head pain, the possibility of pain after a few months, or the suggestion for what to do, but these omissions do not constitute hallucination. The summary is incomplete but does not contain unsupported information."
+15818,B_103,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The source document mentions that the doctor has advised to do a root canal, and the summary accurately reflects this. The summary also mentions significant tooth pain, which is consistent with the source document's mention of the tooth aching (""দাত শিরশির করছে""). Therefore, the summary is accurate and does not contain hallucinated information."
+15819,B_104,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+15819,B_105,B,1,Delete,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the main points of the patient's symptoms, the medications prescribed, and the ongoing issues with feeling weak despite eating properly."
+15819,B_106,B,1,Delete,2,Temporal | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the doctor has prescribed ""এম - কস্ট এবং রুপিন"" (M-cast and Rupin), but the source document does not mention any specific medications prescribed by a doctor.
+- The summary also mentions that ""ঔষাধ না খেলে আবার ঠান্ডা লাগে"" (if the medicine is not taken, the cold returns), but the source document does not provide this information. 
+
+These points are not supported by the source document and thus are hallucinations."
+15819,B_107,B,1,Delete,3,Temporal | Medicine | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically:
+
+1. The source document does not mention having a cold, coughing, or sneezing.
+2. The source document does not mention being prescribed M-Cast or Rupin.
+3. The source document does not mention feeling cold again if the medicine is not taken.
+
+These details are not present in the source document and thus are hallucinations."
+15819,B_108,B,1,Substitute,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the information that the doctor prescribed ""রুপিন"" (Rupin), but the source document mentions ""ফেক্সো"" (Fexofenadine). This is a contradiction."
+16344,B_109,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""ঘুম বেশি হয়"" (sleep increases), which is not mentioned in the source document. The source document only mentions symptoms like মাথা ঘুরায় (dizziness) and তাকায় থাকতে পারে না (difficulty in focusing). Therefore, the summary contains information that is not supported by the source document."
+16344,B_110,B,1,Delete,2,Symptom | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""উচ্চ রক্তচাপ আছে"" (high blood pressure) and ""ঘুম বেশি হয়"" (excessive sleep), which are not mentioned in the source document. The source document only mentions that the person feels weak, dizzy, and has difficulty standing."
+16344,B_111,B,1,Delete,3,Symptom | Health Condition | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document asks for a list of foods that a diabetic person should eat when they are feeling weak. It does not mention anything about high blood pressure, dizziness, or excessive sleepiness. Therefore, the summary includes unsupported information."
+16344,B_112,B,1,Substitute,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document discusses a person with thyroid disease, while the summary mentions a person with diabetes. This is a contradiction.
+- The source document mentions thyroid disease and high blood pressure, while the summary only mentions high blood pressure. This is an omission but not a contradiction.
+- The symptoms described in the summary (dizziness and excessive sleep) are consistent with the source document.
+
+Since the summary contains information that contradicts the source document (diabetes vs. thyroid disease), it is hallucinated."
+16760,B_113,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not specify the duration of the headache as ""2 months"" as mentioned in the summary. The document only mentions that the person has not been sleeping well for many days.
+- The summary states ""ঘুম হয় না"" (not sleeping at all), whereas the source document mentions ""ঠিকমত ঘুম হয় না"" (not sleeping well), which is a different level of sleep disturbance.
+- The summary mentions ""নাপা এক্সট্রা খেলে ঘুম হয়"" (sleeps after taking Napa Extra), but the source document states that the person sleeps for 4 hours after taking Napa Extra, not that it always helps them sleep.
+- The summary asks ""বেশি ঘুমালে সমস্যা আছে কি?"" (Is there a problem with sleeping too much?), but the source document does not specifically mention a concern about sleeping too much, only that the person is sleeping for 4 hours after taking Napa Extra.
+
+These discrepancies indicate that the summary contains information not supported by the source document."
+16760,B_114,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the duration of the headache (2 months) as stated in the summary.
+- The source document mentions that the person has been sleeping for 4 hours after taking Napa Extra, but the summary states that Napa Extra helps them sleep without specifying the duration.
+- The source document does not mention any long-term sleep issues or concerns about excessive sleep, only that the person is currently sleeping more after taking the medication."
+16760,B_115,B,1,Delete,2,Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""২ মাস হলো মাথায় যন্ত্রনা করে"" (The headache has been going on for 2 months), but the source document does not mention the duration of the headache.
+- The summary includes ""খাওয়ায় অরুচি"" (Loss of appetite), but the source document does not mention any loss of appetite."
+16760,B_116,B,1,Delete,3,Temporal | Symptom | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically:
+
+1. ""২ মাস হলো মাথায় যন্ত্রনা করে"" - The source document does not mention the duration of the headache.
+2. ""ঘুম হয় না"" - The source document does not state that the person cannot sleep.
+3. ""নাপা এক্সট্রা খেলে ঘুম হয়"" - The source document does not mention taking any specific medication for sleep.
+4. ""খাওয়ায় অরুচি"" - The source document does not mention a lack of appetite."
+16760,B_117,B,1,Substitute,1,Medicine,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+17727,B_118,B,1,Coarsen,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains a discrepancy in the dosage of Disopene. The source document mentions ""ডিসোপেন কম মাত্রার"" (Disopene in a lower dose), but the summary specifies ""ডিসোপেন ০.৫ এমজি"" (Disopene 0.5 mg). This specific dosage is not mentioned in the source document."
+17727,B_119,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the medication ""মাইলাম"" (Myalam), which is not mentioned in the source document. The source document lists the following medications: রিবোটিল 2এম জি, মিরতাজ 15এম জি, ডিসোপিন 2এম জি, ডিসোপেন 0.5এম জি, and নরিওম 10এম জি. Therefore, the summary contains information that is not supported by the source document."
+17727,B_120,B,1,Delete,2,Medicine | Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the medication ""মাইলাম"" (Mylam), which is not mentioned in the source document. The source document lists the following medications: রিবোটিল 2এম জি, মিরতাজ 15এম জি, ডিসোপিন, ডিসোপেন 0.5এম জি, and নরিওম 10এম জি. Therefore, the summary contains information that is not supported by the source document."
+17727,B_121,B,1,Delete,3,Medicine | Dosage | Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains a medication name ""মাইলাম"" (Myalam) which is not mentioned in the source document. The source document lists the following medications: রিবোটিল 2এম জি, মিরতাজ 15এম জি, ডিসোপিন এম জি, ডিসোপেন 0.5এম জি, and নরিওম এম জি. The medication ""মাইলাম"" is not part of this list, making the summary contain hallucinated information."
+17727,B_122,B,1,Substitute,1,Dosage,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains a discrepancy in the dosage of Disopen. The source document mentions ""ডিসোপেন 2এম জি"" (Disopen 2 mg), but the summary states ""ডিসোপেন ০ . ৫ এমজি"" (Disopen 0.5 mg). This is a contradiction."
+18129,B_123,B,1,Coarsen,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the triglyceride level was 185, but the source document does not provide a specific number for the triglyceride level. It only mentions that the triglyceride level was slightly high. This is unsupported information."
+18129,B_124,B,1,Delete,1,Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""টেসট করলে ট্রাইগ্লিসারাইডের মাত্রা বেশি যা ১৮৫ আসে"" (When tested, the triglyceride level was high, which came to 185). This information is not mentioned in the source document. The source document only mentions that tests were done but does not specify the results or any specific values.
+- The source document mentions that the doctor advised to continue taking ""অলমাজেস্ট এএম"" (Almajeast EM), but the summary incorrectly states ""ডাক্তার এএম চালিয়ে যেতে বলে"" (The doctor advised to continue EM). This is a minor discrepancy but still an inaccuracy."
+18129,B_125,B,1,Delete,2,Test Result | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""টেস্ট করলে ট্রাইগ্লিসারাইডের মাত্রা বেশি যা ১৮৫ আসে"" (Tests showed high triglyceride levels, which came to 185). This information is not present in the source document.
+- The source document only mentions that all tests were done as per the doctor's advice, but it does not provide any specific test results or mention triglyceride levels.
+- The summary also states ""ডাক্তার এএম চালিয়ে যেতে বলে"" (The doctor advised to continue the medication), which is not mentioned in the source document. The source document only mentions that the patient has been taking medication for pressure since December 2019."
+18129,B_126,B,1,Delete,3,Test Result | Medicine | Test Result,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary mentions ""টেস্ট করলে ট্রাইগ্লিসারাইডের মাত্রা বেশি যা ১৮৫ আসে"" (Tests showed high triglyceride levels, which came to 185). This information is not present in the source document.
+- The summary also mentions ""ডাক্তার এএম চালিয়ে যেতে বলে"" (The doctor advised to continue). This information is not present in the source document.
+
+These points are not supported by the source document, hence the summary contains hallucinated information."
+18129,B_127,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""৬ / ৭ দিন হলো ব্যাথা বেড়েছে"" (The pain has increased for 6/7 days), but the source document mentions ""বর্তমা‌নে ১৫ / ২০ দিন যাবত এই ব‌্যাথা আবার প্রচন্ড আকার ধারণ ক‌রে‌ছে"" (Currently, the pain has intensified over 15/20 days). This is a contradiction."
+18248,B_128,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the statement ""এই সমস্যা ৩ - ৪ মাস ধরে"" (This problem has been going on for 3-4 months), which is not supported by the source document. The source document mentions that the problem has been happening for ""অনেক দিন"" (many days), but does not specify a duration of 3-4 months."
+18248,B_129,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states that the child coughs and vomits during the day, which is not mentioned in the source document. The source document only mentions that the child has these symptoms after waking up at night to eat.
+- The source document specifies that the child wakes up at night to eat and then experiences coughing and vomiting, but the summary incorrectly states that these symptoms occur during the day as well."
+18248,B_130,B,1,Delete,2,Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention that the child coughs and vomits during the day. It specifically states that the child is fine throughout the day and night, and the issues only occur after the child wakes up at night to eat.
+- The summary incorrectly states that the child coughs and vomits during the day, which is not supported by the source document."
+18248,B_131,B,1,Delete,3,Symptom | Age | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the child's age being 14 months. It only states ""আমার ছেলের বয়স"" (my son's age) without specifying the exact age.
+- The source document does not mention that the child coughs and vomits during the day. It only mentions that the child wakes up at night to eat and then starts coughing and vomiting after eating.
+- The source document does not mention that the problem has been ongoing for 3-4 months. It only states that the problem is now a cause for concern."
+18248,B_132,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states that the problem has been occurring for 3-4 months, which contradicts the source document, which mentions that the problem has been occurring for about 1-2 weeks."
+19859,B_133,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+19859,B_134,B,1,Delete,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+19859,B_135,B,1,Delete,2,Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the following hallucinated information:
+- ""পুঁজ বা ব্যাথা নেই"" (There is no swelling or pain) - This information is not mentioned in the source document. The source document does not provide any information about swelling or pain."
+19859,B_136,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,ANSWER: 0
+20110,B_137,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the statement ""খাবারের গন্ধ সহ্য হয় না"" (cannot tolerate the smell of food), which is not mentioned in the source document. The source document does not mention anything about the smell of food."
+20110,B_138,B,1,Delete,2,Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the statement ""খাবারের গন্ধ সহ্য হয় না"" (cannot tolerate the smell of food), which is not mentioned in the source document. The source document does not mention anything about the smell of food. Therefore, this information is hallucinated."
+20110,B_139,B,1,Delete,3,Symptom | Age | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document does not mention the patient's age or pregnancy status, but the summary states ""বয়স ২০"" (age 20) and ""দেড় মাসের প্রেগন্যান্ট"" (1.5 months pregnant). This is hallucinated information.
+- The summary also includes ""খাবারের গন্ধ সহ্য হয় না"" (cannot tolerate the smell of food), which is not mentioned in the source document. This is also hallucinated information."
+20110,B_140,B,1,Substitute,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states that the patient is pregnant for ""সাড়ে সাত মাস"" (about seven and a half months), but the summary states ""দেড় মাসের প্রেগন্যান্ট"" (one and a half months pregnant). This is a contradiction."
+20770,B_141,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The summary accurately reflects the key points from the source document, including the child's age, the difficulty with defecation, the hardness of the stool, the frequency of constipation, and the use of glycerin suppositories."
+20770,B_142,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains the information ""বয়স ২ . ৫"" (age 2.5), which is not mentioned in the source document. Therefore, the summary contains hallucinated information."
+20770,B_143,B,1,Delete,2,Age | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions the use of glycerin suppositories (""তখন গ্লিসারিন সাপোজিটরি দিয়ে চেষ্টা করি""), which is not mentioned in the source document. Additionally, the source document does not mention the child's age (2.5 years) as stated in the summary."
+20770,B_144,B,1,Delete,3,Age | Medicine | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary introduces new information not present in the source document, such as the child's age (2.5 years) and the use of glycerin suppositories.
+- The source document does not mention the child's age or any use of glycerin suppositories.
+- The summary also states that the child sometimes does not have a bowel movement for 4-5 days, which is not mentioned in the source document."
+20770,B_145,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains the following hallucinated information:
+- ""খুবই শক্ত এবং কষা"" (very hard and constipated) contradicts the source document, which states ""খুবই নরম এবং পাতলা পায়খানা হয়"" (very soft and loose stool)."
+21042,B_146,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains additional information not present in the source document. Specifically, the summary mentions ""পিঠের পিছনে পাঁজরের উপরে ব্যথা করছে"" (pain in the back of the chest), which is not mentioned in the source document."
+21042,B_147,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains a detail that is not supported by the source document. The source document mentions ""পেটের ডান পাশে পাঁজরের নিচে ব্যথা করছে"" (pain in the right side of the abdomen below the chest), while the summary states ""পিঠের পিছনে পাঁজরের উপরে ব্যথা করছে"" (pain in the back above the chest). This is a contradiction."
+21362,B_148,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,ANSWER: 0
+21362,B_149,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary contains information that is not supported by the source document. Specifically, the source document does not mention any pain in the forehead or sides of the head, nor does it mention that the pain is worse at night. These details are hallucinations and are not present in the original text."
+21362,B_150,B,1,Delete,2,Symptom | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention any pain in the forehead or on the sides of the head, nor does it mention that the pain is worse at night. These details are hallucinations and are not present in the original text."
+21362,B_151,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains a piece of information that is not supported by the source document. The source document mentions that the pain is more prevalent in the morning, while the summary states that the pain is more prevalent at night. This is a contradiction."
+21785,B_152,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. It accurately reflects the key points mentioned in the source, such as the age, high blood pressure, continuous medication, excessive talking, sleep issues, difficulty understanding new information, and forgetting where things are placed."
+21785,B_153,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""কিছুদিন যাবত অতিরিক্ত কথা বলে"" (speaks excessively for a few days), but the source document does not mention a specific duration for this behavior.
+- The summary mentions ""৩ - ৪ ঘন্টা ঘুমায়"" (sleeps 3-4 hours), but the source document only states that the person does not sleep at night and does not specify the duration of sleep.
+- These details are not supported by the source document and thus are hallucinations."
+21785,B_154,B,1,Delete,2,Temporal | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""প্রেসারে প্রবলেম"" (high blood pressure problem) and ""হাই প্রেসার এর জন্য কন্টিনিউ ওষুধ খাইতে হয়"" (taking continuous medication for high blood pressure), which are not mentioned in the source document."
+21785,B_155,B,1,Delete,3,Temporal | Medicine | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""হাই প্রেসার এর জন্য কন্টিনিউ ওষুধ খাইতে হয়"" (She has to take medicine continuously for high blood pressure), but the source document does not mention anything about taking medicine for high blood pressure.
+- The summary also states ""কিছুদিন যাবত অতিরিক্ত কথা বলে"" (She has been talking excessively for a few days), but the source document mentions that she talks a lot all the time, not just for a few days."
+21785,B_156,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains hallucinated information. The age mentioned in the summary is 65 years, while the source document states the age as 78 years."
+21855,B_157,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""দুই মাস হলো প্রস্রাবের রাস্তায় জ্বালা পোড়া হয়"" (The burning sensation in the urinary tract has been going on for two months). However, the source document only mentions ""অনেক দিন ধরে"" (for many days), which is not specific to two months. This is an unsupported detail."
+21855,B_158,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""দুই মাস হলো প্রস্রাবের রাস্তায় জ্বালা পোড়া হয়"" (The burning sensation in the urinary tract has been going on for two months). However, the source document does not specify the duration of the urinary tract issue, only mentioning that it happens occasionally. This is unsupported information.
+- The source document mentions that the thumb corn has been present for the past three weeks, which is correctly reflected in the summary. However, the duration of the urinary tract issue is not supported by the source document."
+21855,B_159,B,1,Delete,2,Temporal | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention anything about a problem with the thumb (ডান হতের বুড়ো আঙুলের কোনি পাকা) or that it has been painful and itchy for 3 weeks. The source document only discusses the issue of burning sensation during urination."
+21855,B_160,B,1,Delete,3,Temporal | Health Condition | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document mentions ""মাঝে মাঝে ভালো মনে হচ্ছে আবার কখনো কখনো জ্বালাপোড়া হচ্ছে"" (feeling good sometimes and experiencing burning sensation at other times), but the summary includes specific details such as ""৩ সপ্তাহ হলো ডান হাতের বুড়ো আঙুলের কোনি পাকা । ব্যাথা করে ও চুলকায়"" (for 3 weeks, the corner of the right thumb has been sore and itchy) and ""দুই মাস হলো প্রস্রাবের রাস্তায় জ্বালা পোড়া হয়"" (for two months, there has been a burning sensation in the urinary tract), which are not mentioned in the source document."
+21855,B_161,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary accurately reflects the information provided in the source document without adding any unsupported or contradictory details."
+22314,B_162,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""এনার্জি বেশি"" (high energy), but the source document mentions ""এলর্জির পরমান খুব বেশি"" (allergy problem is very high). This is a contradiction.
+- The summary mentions ""কাশি আছে"" (cough is present), but the source document does not mention any cough. This is unsupported information."
+22314,B_163,B,1,Delete,2,Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৩১"" (age 31), but the source document does not mention the age.
+- The summary states ""এনার্জি বেশি"" (high energy), but the source document says ""এলর্জির পরমান খুব বেশি"" (allergy symptoms are very high).
+- The summary mentions ""কাশি আছে"" (cough is present), but the source document does not mention cough.
+
+These points in the summary are not supported by the source document."
+22314,B_164,B,1,Delete,3,Symptom | Age | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically:
+
+- ""বয়স ৩১"" (Age 31) is not mentioned in the source document.
+- ""এজমা আছে"" (There is edema) is not mentioned in the source document.
+- ""এনার্জি বেশি"" (High energy) is not mentioned in the source document.
+- ""শ্বাসকষ্ট ও বুক ভারি"" (Breathing difficulty and chest heaviness) is not mentioned in the source document.
+- ""কাশি আছে"" (There is cough) is not mentioned in the source document.
+- ""লমুনা ১০ মাঝে মাঝে খায়"" (Occasionally takes Lomuna 10) is not mentioned in the source document."
+22314,B_165,B,1,Substitute,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""এজমা আছে"" (there is asthma), but the source document does not mention asthma.
+- The summary states ""এনার্জি বেশি"" (high energy), but the source document mentions ""এলর্জির পরমান খুব বেশি"" (allergy symptoms are very high), which is different from high energy. 
+
+These points in the summary are not supported by the source document."
+22486,B_166,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions that the pain started ""কিছুক্ষণ আগে"" (a little while ago), but the summary states ""রাত থেকে"" (since night). This is a contradiction.
+- The summary asks if the pain can be reduced with primary treatment, but the source document already mentions the person is asking for primary treatment options. The summary does not provide the context that the person cannot see a doctor today."
+22486,B_167,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention any chest pain or the effectiveness of initial treatment. The source document only mentions the person's age, a plan to move, thinking the tension is causing something (though it's not clear what), and the inability to see a doctor today."
+22486,B_168,B,1,Delete,2,Symptom | Age,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document does not mention any symptoms like chest pain or the patient's age. It only talks about changing residence, thinking it might be due to tension, and the inability to see a doctor today. Therefore, the summary contains hallucinated information."
+22486,B_169,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states that the pain started ""গত সপ্তাহ থেকে"" (last week), but the summary states ""রাত থেকে"" (since last night). This is a contradiction.
+- The summary asks if the pain can be reduced with primary treatment, which is a valid question from the source document, but the timing of the pain onset is incorrect."
+22981,B_170,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states ""৫ দিন আগে থেকে মাড়িতে ব্যথা , ফোলা"" (pain and swelling in the jaw for 5 days), but the source document does not specify the exact duration of the symptoms, only mentioning ""কিছুদিন ধরে"" (for a few days). This is a specific detail that is not supported by the source document."
+22981,B_171,B,1,Delete,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states ""৫ দিন আগে থেকে মাড়িতে ব্যথা"" (pain in the gums for 5 days), but the source document does not mention the duration of the pain. This is information that is not supported by the source document."
+22981,B_172,B,1,Delete,2,Temporal | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary states ""৫ দিন আগে থেকে মাড়িতে ব্যথা , ফোলা"" (pain and swelling in the ankle for 5 days), but the source document does not mention the duration of the symptoms."
+22981,B_173,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states the age as ২২ (22), while the source document mentions the age as ৬৫ (65). This is a contradiction."
+23240,B_174,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The source document mentions that the husband has not been to the bathroom for ""অনেক দিন"" (many days), but it does not specify a specific number of days like 4 or 5. The summary introduces a specific timeframe (4/5 days) that is not supported by the source document. Therefore, the summary contains hallucinated information."
+23240,B_175,B,1,Delete,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary states that the husband does not have a bowel movement for 4-5 days, which is consistent with the information provided in the source document. The source document mentions that the husband has not been to the bathroom for about 4-5 days and that this has been a recurring issue. Therefore, the summary does not contain any hallucinated information."
+23240,B_176,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary states that the husband has not been able to clear his bowels for 4-5 days, whereas the source document mentions that the issue has been ongoing for about 10-12 days. This is a clear discrepancy, indicating that the summary contains information not supported by the source document."
+23712,B_177,B,1,Coarsen,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any hallucinated information. It accurately reflects the information provided in the source document, including the ultrasound findings, the baby's movements, and the mother's observations. The only detail not explicitly mentioned in the source document is the pregnancy duration of 32 weeks, but this does not contradict any information given and can be inferred from the context. Therefore, the summary is considered accurate."
+23712,B_178,B,1,Delete,1,Temporal,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. The summary accurately reflects the key points from the source document, including the ultrasound results, the baby's movements, and the mother's observations and concerns."
+23712,B_179,B,1,Delete,2,Temporal | Test Result,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or that contradicts the source document. It accurately reflects the details provided in the source, including the ultrasound date, the baby's movements, and the mother's observations and concerns."
+23712,B_180,B,1,Delete,3,Temporal | Test Result | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary mentions ""৩২সপ্তাহ চলছে"" (32 weeks have passed) and ""১৬তারিখ আল্ট্রাসাউন্ড করেছি"" (an ultrasound was done on the 16th), which are not mentioned in the source document. Additionally, the summary states that the movements were ""অনেক কম ছিলো"" (much less) on the 21st and 22nd, whereas the source document mentions the movements were ""অনেক বেশি"" (many) on the 23rd and 24th, but not as strong as before."
+23712,B_181,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+The summary contains a contradiction regarding the baby's movements on 21 and 22 of the month. The source document states that the baby's movements were ""অনেক বেশি"" (very frequent) on those dates, while the summary states that the movements were ""অনেক কম"" (very less) on those dates. This is a clear contradiction."
+24011,B_182,B,1,Delete,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৪৪"" (age 44), but the source document does not mention the patient's age.
+- The summary states ""কম ঘুম হবে এবং কিডনির ক্ষতি করবে না এমন ওষুধ দেন"" (give a medicine that will reduce sleep and not damage the kidneys), but the source document does not mention a request for a medicine that reduces sleep. It only mentions that the current medication causes drowsiness and affects work.
+- The summary states ""ট্র্রাবলেট ইবাট্রল ১০ খাই"" (I take Trablate Ibator 10), but the source document mentions that the patient takes ""ট্র্রাবলেট ইবাট্রল ১০"" (Trablate Ibator 10) only when other medications do not work. It does not state that the patient is currently taking it regularly."
+24011,B_183,B,1,Delete,2,Age | Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""বয়স ৪৪"" (age 44), but the source document does not mention the patient's age.
+- The summary mentions ""কম ঘুম হবে এবং কিডনির ক্ষতি করবে না এমন ওষুধ দেন"" (give a medicine that will not cause less sleep and kidney damage), but the source document does not specify that the patient is asking for a medicine that will not cause less sleep and kidney damage. The source document only mentions concerns about kidney damage from the medication.
+- The summary states ""ট্র্রাবলেট ইবাট্রল ১০ খাই"" (I take Trablate Ibator 10), but the source document mentions that the patient takes Trablate Ibator 10, not that they are currently taking it. The source document also mentions that the patient takes Elator, which is not mentioned in the summary."
+24011,B_184,B,1,Substitute,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""কম ঘুম হবে এবং কিডনির ক্ষতি করবে না এমন ওষুধ দেন"" (Give a medicine that will reduce sleep and not damage the kidneys). This is not supported by the source document. The source document mentions concerns about kidney damage but does not request a specific type of medicine that reduces sleep and does not damage the kidneys.
+- The summary also states ""ট্র্রাবলেট ইবাট্রল ১০ খাই"" (I take Trabulet Ibratrol 10). The source document mentions ""ট্র্রাবলেট রুপাট্রল ১০"" (Trabulet Rupatrol 10), which is a different medication."
+24392,B_185,B,1,Delete,1,Health Condition,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""৩৯ সপ্তাহ প্রেগনেন্সির"" (39 weeks pregnant), but the source document does not mention anything about pregnancy or the duration of pregnancy.
+- The summary asks ""ইন্টারকোর্স করা যাবে কি?"" (Can intercourse be done?), but the source document does not directly ask this question. It mentions that the person read on the internet that if there are no problems, intercourse can be done and it can induce pain, but it does not frame it as a direct question.
+
+These points indicate that the summary contains information not supported by the source document."
+24392,B_186,B,1,Delete,2,Health Condition | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""৩৯ সপ্তাহ প্রেগনেন্সির"" (39 weeks pregnant), but the source document does not mention pregnancy or any specific duration of pregnancy.
+- The summary mentions ""ব্যথা হচ্ছে পেলভিকে"" (pelvic pain), but the source document does not mention any pelvic pain.
+- The source document only mentions that the vagina is dry and there is very little white discharge, with no other symptoms. It also mentions that the doctor advised diet and exercise, and the person is seeking information about intercourse during this condition. 
+
+These discrepancies indicate that the summary contains information not supported by the source document."
+24392,B_187,B,1,Substitute,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""ব্যথা হচ্ছে পেলভিকে"" (pelvic pain), but the source document mentions only ""মাঝে মাঝে হাল্কা চুলকানি হচ্ছে পেলভিকে"" (occasional mild itching in the pelvis). This is a contradiction.
+- The summary asks ""ইন্টারকোর্স করা যাবে কি?"" (Can intercourse be done?), but the source document only mentions that the person is looking for information about intercourse and pain induction, not directly asking if it can be done. This is an unsupported addition."
+24780,B_188,B,1,Delete,1,Other,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The summary states ""মুখের পিম্পল নখ দিয়ে ফাটিয়ে এখন বড় হওয়া গেছে"" (The pimple on the face was popped with a nail and has now grown bigger). This information is not supported by the source document. The source document does not mention anything about popping the pimple with a nail.
+- The source document mentions that the pimple grew bigger and became swollen, but it does not specify how it was popped or what caused it to grow bigger."
+24780,B_189,B,1,Delete,2,Other | Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the summary states that the pimple was popped with a nail and has grown bigger, and that when scratched, it releases foul-smelling dirt. These details are not mentioned in the source document. The source document only mentions that the pimple swells up and feels like a tumor, but does not describe any actions taken to pop it or any foul-smelling discharge."
+24780,B_190,B,1,Substitute,1,Symptom,0.0,0.0,0,stop,"ANSWER: 0
+
+The summary does not contain any information that is not supported by or contradicts the source document. The summary accurately reflects the key points from the source, including the pimple becoming larger, the suspicion of it being a tumor, the foul-smelling discharge when prodded, and the current presence of swelling."
+25080,B_191,B,1,Coarsen,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions ""কিছুদিন ধরে"" (for a few days), while the summary states ""প্রায় পাঁচ দিন থেকে"" (for about five days). This is a specific detail that is not supported by the source document.
+- The source document states ""হাত নাড়াচাড়া করতে ব্যাথা পাইনা"" (I do not feel pain when moving my hand), while the summary says ""নাড়াচাড়া করতে ব্যথা হয় না"" (I do not feel pain when moving my hand). Although this part is consistent, the summary adds ""হাত দিলেই ব্যথা পাই"" (I feel pain when I touch it), which is also consistent with the source document. However, the specific detail about the duration of the pain is not supported."
+25080,B_192,B,1,Delete,1,Symptom,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document mentions ""ভিশন ব্যাথা"" (vision pain) and does not mention any pain in the right hand or knee. Additionally, the source document does not specify that the pain occurs only when pressure is applied or that moving does not cause pain. Therefore, the summary contains hallucinated information."
+25080,B_193,B,1,Delete,2,Symptom | Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. The source document mentions ""ভিশন ব্যাথা"" (vision pain), while the summary talks about ""ডান হাতের কনুই তে ব্যথা"" (pain in the right elbow). This is a clear contradiction. Additionally, the source document does not mention any details about the nature of the pain (e.g., whether it hurts when touched or moved) or the effectiveness of medication."
+25080,B_194,B,1,Delete,3,Symptom | Medicine | Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains information that is not supported by the source document. Specifically, the source document does not mention anything about pain in the right elbow for five days, nor does it mention that the pain does not decrease with medication. The source document only states that the person can feel their hand when touched but cannot move it, and asks if they can take medicine."
+25080,B_195,B,1,Substitute,1,Temporal,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document mentions the pain has been ongoing for about 5 months, but the summary states it has been 5 days. This is a clear contradiction.
+- The rest of the summary aligns with the source document, but the duration discrepancy is significant enough to mark the summary as containing hallucinated information."
+26268,B_196,B,1,Delete,1,Other,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary contains the following hallucinated information:
+- ""আগামী ২ / ৩ বছর বেবী নিতে চাইনা"" (We do not want to have a baby for the next 2/3 years) is not mentioned in the source document. The source document does not mention any plans about not wanting to have a baby."
+26268,B_197,B,1,Substitute,1,Age,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation:
+- The source document states the wife's age as 35, but the summary incorrectly states the age as 25.
+- The summary omits the information about the wife's period starting on the 24th, which is a detail present in the source document.
+- The summary also omits the note that there is no blood pressure issue, which is mentioned in the source document.
+
+These discrepancies indicate that the summary contains information that is not supported by the source document."
+26458,B_198,B,1,Delete,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+Explanation: The summary states that the wife has been taking the pill for a year and a half (""বিয়ের আড়াই মাস থেকে পিল খায়""), but the source document does not provide any information about how long she has been taking the pill. This is unsupported information."
+26458,B_199,B,1,Substitute,1,Medicine,1.0,1.0,0,stop,"ANSWER: 1
+
+The summary states that the wife wants to stop taking the pill, but the source document says she wants to continue taking it and never stop in order to regulate her menstrual cycle. This is a contradiction."
