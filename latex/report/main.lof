@@ -1,0 +1,15 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces End-to-end construction and evaluation pipeline. Three authentic corpora feed four tracks; each track applies exactly one recorded corruption; every item lands in Track A (faithful) or Track B (hallucinated); six detectors score every item under one protocol.}}{10}{figure.caption.8}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Detection recall by track and detector. The NER bar is the mean over its seven entity types.}}{19}{figure.caption.14}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Screenshot of the GitHub Commit History, verifying date and commit frequency. \textit {(Dated: [Insert Date])}}}{43}{figure.caption.26}%
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Screenshot of the GitHub Contributors Graph, validating individual contributions over time. \textit {(Dated: [Insert Date])}}}{44}{figure.caption.27}%

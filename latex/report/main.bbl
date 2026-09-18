@@ -1,0 +1,1107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{adib2026benhallueval}{misc}{}{}
+      \name{author}{6}{}{%
+        {{hash=f390e11be4f617dfc025d8f357b9c76a}{%
+           family={Adib},
+           familyi={A\bibinitperiod},
+           given={Shefayat\bibnamedelimb E\bibnamedelima Shams},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=4525af7b8968decb87aad044cd0757ae}{%
+           family={Sani},
+           familyi={S\bibinitperiod},
+           given={Ahmed\bibnamedelima Alfey},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a28dc443e176bbb0b68ce894b25a3056}{%
+           family={Esham},
+           familyi={E\bibinitperiod},
+           given={Ekramul\bibnamedelima Alam},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=67d8bddc1daea55ab47fcb917e34e6f1}{%
+           family={Abrar},
+           familyi={A\bibinitperiod},
+           given={Ajwad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b7dd070e5d5a77809420a0c05f04046}{%
+           family={Tashdeed},
+           familyi={T\bibinitperiod},
+           given={Ishmam},
+           giveni={I\bibinitperiod}}}%
+        {{hash=ef93f5e7a25ea7dc0d4a30d0a004e794}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Md\bibnamedelima Taukir\bibnamedelima Azam},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c14ae00d22bf9154ecfde156072fbb76}
+      \strng{fullhash}{718a6835d58ced1e14c5d341616d739f}
+      \strng{fullhashraw}{718a6835d58ced1e14c5d341616d739f}
+      \strng{bibnamehash}{718a6835d58ced1e14c5d341616d739f}
+      \strng{authorbibnamehash}{718a6835d58ced1e14c5d341616d739f}
+      \strng{authornamehash}{c14ae00d22bf9154ecfde156072fbb76}
+      \strng{authorfullhash}{718a6835d58ced1e14c5d341616d739f}
+      \strng{authorfullhashraw}{718a6835d58ced1e14c5d341616d739f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{BenHalluEval: A Multi-Task Hallucination Evaluation Framework for Large Language Models on Bengali}
+      \field{year}{2026}
+      \verb{eprint}
+      \verb 2605.31483
+      \endverb
+    \endentry
+    \entry{banglasummeval}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=aea9b8f30cb92de89d8c5996108068d3}{%
+           family={{BanglaSummEval Authors}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{fullhash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{fullhashraw}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{bibnamehash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{authorbibnamehash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{authornamehash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{authorfullhash}{aea9b8f30cb92de89d8c5996108068d3}
+      \strng{authorfullhashraw}{aea9b8f30cb92de89d8c5996108068d3}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Bibliographic details to be verified by the authors}
+      \field{title}{{BanglaSummEval: Evaluating Summarization Quality for Bangla}}
+      \field{year}{2024}
+    \endentry
+    \entry{bhattacharjee2022banglabert}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{hash=ed505cc9cc82a0b3c09de416fc9d74e7}{%
+           family={Bhattacharjee},
+           familyi={B\bibinitperiod},
+           given={Abhik},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b61affeaaa779b0fb01ef427f3deff06}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Tahmid},
+           giveni={T\bibinitperiod}}}%
+        {{hash=349acd90e658a614644a50b4d6042da0}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Wasi\bibnamedelima Uddin},
+           giveni={W\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=8fb12431816bc4635715e4ccf4e68e86}{%
+           family={Mubasshir},
+           familyi={M\bibinitperiod},
+           given={Kazi\bibnamedelima Samin},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=15b9487683cce8730bb9d2188b6ec1ea}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Md\bibnamedelima Saiful},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=c989b9ca434e1128132d867dcad0d23e}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Anindya},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f83d37370b41755cdb76f8a4fb49a1e6}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Sohel},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bd8efab70f6080b93ab3faf9a1d0f79c}{%
+           family={Shahriyar},
+           familyi={S\bibinitperiod},
+           given={Rifat},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{c5432af3cd49c7f6e68180c105b9a6dc}
+      \strng{fullhash}{252a1b2ff8735c7ba478e1a7cadda4e6}
+      \strng{fullhashraw}{252a1b2ff8735c7ba478e1a7cadda4e6}
+      \strng{bibnamehash}{c5432af3cd49c7f6e68180c105b9a6dc}
+      \strng{authorbibnamehash}{c5432af3cd49c7f6e68180c105b9a6dc}
+      \strng{authornamehash}{c5432af3cd49c7f6e68180c105b9a6dc}
+      \strng{authorfullhash}{252a1b2ff8735c7ba478e1a7cadda4e6}
+      \strng{authorfullhashraw}{252a1b2ff8735c7ba478e1a7cadda4e6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Findings of the Association for Computational Linguistics: NAACL 2022}}
+      \field{title}{{BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla}}
+      \field{year}{2022}
+      \field{pages}{1318\bibrangedash 1327}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.18653/v1/2022.findings-naacl.98
+      \endverb
+    \endentry
+    \entry{bn2025factcontrolled}{inproceedings}{}{}
+      \name{author}{1}{}{%
+        {{hash=ad3d49d2c3558254654f237ee6d275fd}{%
+           family={BN},
+           familyi={B\bibinitperiod},
+           given={Suhas},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ISCA}%
+      }
+      \strng{namehash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{fullhash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{fullhashraw}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{bibnamehash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{authorbibnamehash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{authornamehash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{authorfullhash}{ad3d49d2c3558254654f237ee6d275fd}
+      \strng{authorfullhashraw}{ad3d49d2c3558254654f237ee6d275fd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of Interspeech 2025}}
+      \field{title}{{Fact-Controlled Diagnosis of Hallucinations in Medical Text Summarization}}
+      \field{year}{2025}
+    \endentry
+    \entry{dou2024cmhe}{inproceedings}{}{}
+      \name{author}{9}{}{%
+        {{hash=a62724859aed43a77394305e9976b351}{%
+           family={Dou},
+           familyi={D\bibinitperiod},
+           given={Chengfeng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f5acec98b29ee91fa6b08b85a6a0adad}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1731def8f60ab0061c394f808e2350b6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yanyuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=59ead1ce694d996ebe61da34178792ee}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Zhi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=ba88638fafd3417451242770cf92b6b9}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Wenpin},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2c7ce99db27aebd3f72ba9fa5d2f559b}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Haiyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=522762c4231ca3217cab632182818512}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yongqiang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=773d4b0c4fe78a34104d3aa902d9085b}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Zhenwei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=c056050f1a670f94d13b85d976205785}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yun},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7837e7b149fb37e8f9a45b532588a09}
+      \strng{fullhash}{a0bb13a5c8eab9be956f2e720c8e787a}
+      \strng{fullhashraw}{a0bb13a5c8eab9be956f2e720c8e787a}
+      \strng{bibnamehash}{b7837e7b149fb37e8f9a45b532588a09}
+      \strng{authorbibnamehash}{b7837e7b149fb37e8f9a45b532588a09}
+      \strng{authornamehash}{b7837e7b149fb37e8f9a45b532588a09}
+      \strng{authorfullhash}{a0bb13a5c8eab9be956f2e720c8e787a}
+      \strng{authorfullhashraw}{a0bb13a5c8eab9be956f2e720c8e787a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)}
+      \field{title}{Detection, Diagnosis, and Explanation: A Benchmark for {C}hinese Medical Hallucination Evaluation}
+      \field{year}{2024}
+      \field{pages}{4784\bibrangedash 4794}
+      \range{pages}{11}
+    \endentry
+    \entry{hasan2021xlsum}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{hash=b61affeaaa779b0fb01ef427f3deff06}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Tahmid},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ed505cc9cc82a0b3c09de416fc9d74e7}{%
+           family={Bhattacharjee},
+           familyi={B\bibinitperiod},
+           given={Abhik},
+           giveni={A\bibinitperiod}}}%
+        {{hash=15b9487683cce8730bb9d2188b6ec1ea}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Md\bibnamedelima Saiful},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=05d378e19b6e24e33063a0008ea6ae9c}{%
+           family={Mubasshir},
+           familyi={M\bibinitperiod},
+           given={Kazi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b2655140f8655160ff3309a7646b2335}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuan-Fang},
+           giveni={Y\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=4c06aad7e231dcb7a6dbea5328b5c5db}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yong-Bin},
+           giveni={Y\bibinithyphendelim B\bibinitperiod}}}%
+        {{hash=f83d37370b41755cdb76f8a4fb49a1e6}{%
+           family={Rahman},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi Sohel},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bd8efab70f6080b93ab3faf9a1d0f79c}{%
+           family={Shahriyar},
+           familyi={S\bibinitperiod},
+           given={Rifat},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{267b0ab20f6d990a892ba929cda97413}
+      \strng{fullhash}{4f3e61137adbf4ab638971dc391ef48a}
+      \strng{fullhashraw}{4f3e61137adbf4ab638971dc391ef48a}
+      \strng{bibnamehash}{267b0ab20f6d990a892ba929cda97413}
+      \strng{authorbibnamehash}{267b0ab20f6d990a892ba929cda97413}
+      \strng{authornamehash}{267b0ab20f6d990a892ba929cda97413}
+      \strng{authorfullhash}{4f3e61137adbf4ab638971dc391ef48a}
+      \strng{authorfullhashraw}{4f3e61137adbf4ab638971dc391ef48a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021}}
+      \field{title}{{XL-Sum: Large-Scale Multilingual Abstractive Summarization for 44 Languages}}
+      \field{year}{2021}
+      \field{pages}{4693\bibrangedash 4703}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.18653/v1/2021.findings-acl.413
+      \endverb
+    \endentry
+    \entry{ji2023survey}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=24b318d147ffe07cf3d183806694085a}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Ziwei},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=30e209c0765ff028b6fcf8cab91168d6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Nayeon},
+           giveni={N\bibinitperiod}}}%
+        {{hash=597ff597dc47ab99a423ad5244f36682}{%
+           family={Frieske},
+           familyi={F\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c5c5b0c867563b0b96b0baac7fcac39c}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tiezheng},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0d5b93df1983207786b72b9e0149f7c7}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=86acdbbb888fb1622ad5366d9d67dc8f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cabf98fe93804124c62b0da032c7d50b}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Etsuko},
+           giveni={E\bibinitperiod}}}%
+        {{hash=be28d93258f7d45919f0e6af840ca7b8}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Ye\bibnamedelima Jin},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c42ccecbd088ddce88e391c844d4bb7a}{%
+           family={Madotto},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ea1e0efe4f3dcaf0a50c1119d83f7ca8}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Pascale},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{7f1de58d3d36035f2dcbf85d331900f1}
+      \strng{fullhash}{49761b2d8905ea2a262c7076dcd0dd8e}
+      \strng{fullhashraw}{49761b2d8905ea2a262c7076dcd0dd8e}
+      \strng{bibnamehash}{7f1de58d3d36035f2dcbf85d331900f1}
+      \strng{authorbibnamehash}{7f1de58d3d36035f2dcbf85d331900f1}
+      \strng{authornamehash}{7f1de58d3d36035f2dcbf85d331900f1}
+      \strng{authorfullhash}{49761b2d8905ea2a262c7076dcd0dd8e}
+      \strng{authorfullhashraw}{49761b2d8905ea2a262c7076dcd0dd8e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACM Computing Surveys}}
+      \field{number}{12}
+      \field{title}{{Survey of Hallucination in Natural Language Generation}}
+      \field{volume}{55}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 38}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1145/3571730
+      \endverb
+    \endentry
+    \entry{khan2023banglachq}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=be7c273956ae8599270da832a8502bed}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Alvi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=89c388e3ce9fb89baff4ce94fb5638e1}{%
+           family={Kamal},
+           familyi={K\bibinitperiod},
+           given={Fida},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d120076cf9a86be116a8f391270f2b99}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Mohammad\bibnamedelima Abrar},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=14654e16724e8391ded24897f7496639}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Tasnim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fd747cc8f50393611ad69d538bd61db7}{%
+           family={Laskar},
+           familyi={L\bibinitperiod},
+           given={Md\bibnamedelima Tahmid\bibnamedelima Rahman},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e4e6ea91ae2e5ca3cf2e9adaf8d879a9}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Sabbir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0029a6945c9ad62ad7193aae54a57c89}
+      \strng{fullhash}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \strng{fullhashraw}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \strng{bibnamehash}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \strng{authorbibnamehash}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \strng{authornamehash}{0029a6945c9ad62ad7193aae54a57c89}
+      \strng{authorfullhash}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \strng{authorfullhashraw}{1ab172c2cab5a76d91b3bb8e1aac7b23}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the First Workshop on Bangla Language Processing (BLP-2023)}
+      \field{title}{{B}angla{CHQ}-Summ: An Abstractive Summarization Dataset for Medical Queries in {B}angla Conversational Speech}
+      \field{year}{2023}
+      \field{pages}{85\bibrangedash 93}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.18653/v1/2023.banglalp-1.10
+      \endverb
+    \endentry
+    \entry{khan2023healthner}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=be7c273956ae8599270da832a8502bed}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Alvi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=89c388e3ce9fb89baff4ce94fb5638e1}{%
+           family={Kamal},
+           familyi={K\bibinitperiod},
+           given={Fida},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ba3f6950de5e2f1c57cbd8a38aa65326}{%
+           family={Nower},
+           familyi={N\bibinitperiod},
+           given={Nuzhat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=14654e16724e8391ded24897f7496639}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Tasnim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e4e6ea91ae2e5ca3cf2e9adaf8d879a9}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Sabbir},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d05d13eea494bcbf79c4144e9601800}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Tareque},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{0029a6945c9ad62ad7193aae54a57c89}
+      \strng{fullhash}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \strng{fullhashraw}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \strng{bibnamehash}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \strng{authorbibnamehash}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \strng{authornamehash}{0029a6945c9ad62ad7193aae54a57c89}
+      \strng{authorfullhash}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \strng{authorfullhashraw}{4fb52ad5fd621e9c7e080c5fc7e68611}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Findings of the Association for Computational Linguistics: EMNLP 2023}
+      \field{title}{NERvous About My Health: Constructing a {B}engali Medical Named Entity Recognition Dataset}
+      \field{year}{2023}
+      \field{pages}{5768\bibrangedash 5774}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.18653/v1/2023.findings-emnlp.383
+      \endverb
+    \endentry
+    \entry{kryscinski2020factcc}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=0bb9cad6fd80a0cad2f9918c4c5c57b2}{%
+           family={Kryściński},
+           familyi={K\bibinitperiod},
+           given={Wojciech},
+           giveni={W\bibinitperiod}}}%
+        {{hash=58763a34c6b2d398ae469a89597e7d18}{%
+           family={McCann},
+           familyi={M\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=1fa4dfdd5ecf049d39575fe7ba1ec9f3}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Caiming},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d5670b2600fea169724521e252d9d09d}{%
+           family={Socher},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{9b7519649eec4aee5eb7aa471ac497e2}
+      \strng{fullhash}{b8694f23a9089afe86c5557ef5c17d72}
+      \strng{fullhashraw}{b8694f23a9089afe86c5557ef5c17d72}
+      \strng{bibnamehash}{b8694f23a9089afe86c5557ef5c17d72}
+      \strng{authorbibnamehash}{b8694f23a9089afe86c5557ef5c17d72}
+      \strng{authornamehash}{9b7519649eec4aee5eb7aa471ac497e2}
+      \strng{authorfullhash}{b8694f23a9089afe86c5557ef5c17d72}
+      \strng{authorfullhashraw}{b8694f23a9089afe86c5557ef5c17d72}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+      \field{title}{{Evaluating the Factual Consistency of Abstractive Text Summarization}}
+      \field{year}{2020}
+      \field{pages}{9332\bibrangedash 9346}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.18653/v1/2020.emnlp-main.750
+      \endverb
+    \endentry
+    \entry{li2023halueval}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=0da53871c5bda3ae9ea7b5d31b6a8874}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Junyi},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7ae44f2b553bc6bf83f65c53aa479422}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Xiaoxue},
+           giveni={X\bibinitperiod}}}%
+        {{hash=64942cca497eff6cd6c5b264afdc5dd6}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Wayne\bibnamedelima Xin},
+           giveni={W\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=249bb150525fcf94fd8a35571a611e24}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Jian-Yun},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=5ff29ba5ea8e6fdd73a84f998eec45f2}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Ji-Rong},
+           giveni={J\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{b79930cd0570346260903e713cb107c4}
+      \strng{fullhash}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \strng{fullhashraw}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \strng{bibnamehash}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \strng{authorbibnamehash}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \strng{authornamehash}{b79930cd0570346260903e713cb107c4}
+      \strng{authorfullhash}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \strng{authorfullhashraw}{bfdd4442a0e0130d671db1d86d1ae7a1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+      \field{title}{{HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models}}
+      \field{year}{2023}
+      \field{pages}{6449\bibrangedash 6464}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.18653/v1/2023.emnlp-main.397
+      \endverb
+    \endentry
+    \entry{lin2022truthfulqa}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=00fd40e4b8f963e9edd28ee849b64ef0}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9e4edc142b0564cbbb1cf93a401e4434}{%
+           family={Hilton},
+           familyi={H\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6b07bfe62c5870808c4d460a3275f391}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={Owain},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{3be27770c900ce3f287decb97963365c}
+      \strng{fullhash}{5859ef73d57f8294b3d2194eec5bbd72}
+      \strng{fullhashraw}{5859ef73d57f8294b3d2194eec5bbd72}
+      \strng{bibnamehash}{5859ef73d57f8294b3d2194eec5bbd72}
+      \strng{authorbibnamehash}{5859ef73d57f8294b3d2194eec5bbd72}
+      \strng{authornamehash}{3be27770c900ce3f287decb97963365c}
+      \strng{authorfullhash}{5859ef73d57f8294b3d2194eec5bbd72}
+      \strng{authorfullhashraw}{5859ef73d57f8294b3d2194eec5bbd72}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)}}
+      \field{title}{{TruthfulQA: Measuring How Models Mimic Human Falsehoods}}
+      \field{year}{2022}
+      \field{pages}{3214\bibrangedash 3252}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.18653/v1/2022.acl-long.229
+      \endverb
+    \endentry
+    \entry{manakul2023selfcheckgpt}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=907636e6dda8eabc85e679df0797f557}{%
+           family={Manakul},
+           familyi={M\bibinitperiod},
+           given={Potsawee},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6fd5f13e7c91a54ec391ecab3570fa45}{%
+           family={Liusie},
+           familyi={L\bibinitperiod},
+           given={Adian},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b664fc5f45b40ed91915dd5a63afa92e}{%
+           family={Gales},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelimb J.\bibnamedelimi F.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{8dc779247777a5d0d0ef4ce8b2688f21}
+      \strng{fullhash}{5eb123148c51b7913be715851f3677c2}
+      \strng{fullhashraw}{5eb123148c51b7913be715851f3677c2}
+      \strng{bibnamehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authorbibnamehash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authornamehash}{8dc779247777a5d0d0ef4ce8b2688f21}
+      \strng{authorfullhash}{5eb123148c51b7913be715851f3677c2}
+      \strng{authorfullhashraw}{5eb123148c51b7913be715851f3677c2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+      \field{title}{{SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models}}
+      \field{year}{2023}
+      \field{pages}{9004\bibrangedash 9017}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.18653/v1/2023.emnlp-main.557
+      \endverb
+    \endentry
+    \entry{maynez2020faithfulness}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{hash=2eda226c5ef11a030c1a898ef763b643}{%
+           family={Maynez},
+           familyi={M\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4441dc3e1ad144e77413de7cad67cbad}{%
+           family={Narayan},
+           familyi={N\bibinitperiod},
+           given={Shashi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c58a0f7e4cffc545ce67494b67012fd}{%
+           family={Bohnet},
+           familyi={B\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c89c5fee46ef8f26ee51eb1a51c0b154}{%
+           family={McDonald},
+           familyi={M\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{4fad349c9814fa1756d66fcddcbe297e}
+      \strng{fullhash}{e62709ee9657242fc11df91a6707820e}
+      \strng{fullhashraw}{e62709ee9657242fc11df91a6707820e}
+      \strng{bibnamehash}{e62709ee9657242fc11df91a6707820e}
+      \strng{authorbibnamehash}{e62709ee9657242fc11df91a6707820e}
+      \strng{authornamehash}{4fad349c9814fa1756d66fcddcbe297e}
+      \strng{authorfullhash}{e62709ee9657242fc11df91a6707820e}
+      \strng{authorfullhashraw}{e62709ee9657242fc11df91a6707820e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)}}
+      \field{title}{{On Faithfulness and Factuality in Abstractive Summarization}}
+      \field{year}{2020}
+      \field{pages}{1906\bibrangedash 1919}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.18653/v1/2020.acl-main.173
+      \endverb
+    \endentry
+    \entry{min2023factscore}{inproceedings}{}{}
+      \name{author}{9}{}{%
+        {{hash=28789ec78f6ba72f59baf40dfb377588}{%
+           family={Min},
+           familyi={M\bibinitperiod},
+           given={Sewon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2d42b453b4785b3a0ba5a8a04e918605}{%
+           family={Krishna},
+           familyi={K\bibinitperiod},
+           given={Kalpesh},
+           giveni={K\bibinitperiod}}}%
+        {{hash=495a50109b0d7df7d26b3b4a36916ff4}{%
+           family={Lyu},
+           familyi={L\bibinitperiod},
+           given={Xinxi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c97f53fdeeb04c28de19e3324cb4bc0a}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d4d56d3d370b3afd4ad2ebf985fbd3f8}{%
+           family={Yih},
+           familyi={Y\bibinitperiod},
+           given={Wen-tau},
+           giveni={W\bibinithyphendelim t\bibinitperiod}}}%
+        {{hash=b7309d5979903f9e56ec43ebf0d594ad}{%
+           family={Koh},
+           familyi={K\bibinitperiod},
+           given={Pang\bibnamedelima Wei},
+           giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=48ea6f65be60970c81190df53e86239e}{%
+           family={Iyyer},
+           familyi={I\bibinitperiod},
+           given={Mohit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1dbd3a5b42828fb2cebd7786488ba425}{%
+           family={Zettlemoyer},
+           familyi={Z\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e9dafefb58a6a6e1e496fdf8928b3eeb}{%
+           family={Hajishirzi},
+           familyi={H\bibinitperiod},
+           given={Hannaneh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{a0430095b3081f3f6d581b5106916389}
+      \strng{fullhash}{7a0d825e121204fede4564c87bff701e}
+      \strng{fullhashraw}{7a0d825e121204fede4564c87bff701e}
+      \strng{bibnamehash}{a0430095b3081f3f6d581b5106916389}
+      \strng{authorbibnamehash}{a0430095b3081f3f6d581b5106916389}
+      \strng{authornamehash}{a0430095b3081f3f6d581b5106916389}
+      \strng{authorfullhash}{7a0d825e121204fede4564c87bff701e}
+      \strng{authorfullhashraw}{7a0d825e121204fede4564c87bff701e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)}}
+      \field{title}{{FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation}}
+      \field{year}{2023}
+      \field{pages}{12076\bibrangedash 12100}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.18653/v1/2023.emnlp-main.741
+      \endverb
+    \endentry
+    \entry{pal2023medhalt}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=d2259c87f2c78394669011416100bb77}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4d5c9dccb107b43ae5e3f6f1f7da2c3a}{%
+           family={Umapathi},
+           familyi={U\bibinitperiod},
+           given={Logesh\bibnamedelima Kumar},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=598738fddbded589fe166ab69e1fdeff}{%
+           family={Sankarasubbu},
+           familyi={S\bibinitperiod},
+           given={Malaikannan},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{eacd79ec189289dfde08f426bc162b7e}
+      \strng{fullhash}{47e26707c32d84990574bc55cb99cc1a}
+      \strng{fullhashraw}{47e26707c32d84990574bc55cb99cc1a}
+      \strng{bibnamehash}{47e26707c32d84990574bc55cb99cc1a}
+      \strng{authorbibnamehash}{47e26707c32d84990574bc55cb99cc1a}
+      \strng{authornamehash}{eacd79ec189289dfde08f426bc162b7e}
+      \strng{authorfullhash}{47e26707c32d84990574bc55cb99cc1a}
+      \strng{authorfullhashraw}{47e26707c32d84990574bc55cb99cc1a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL)}}
+      \field{title}{{Med-HALT: Medical Domain Hallucination Test for Large Language Models}}
+      \field{year}{2023}
+      \field{pages}{314\bibrangedash 334}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.18653/v1/2023.conll-1.21
+      \endverb
+    \endentry
+    \entry{pandit2025medhallu}{inproceedings}{}{}
+      \name{author}{7}{}{%
+        {{hash=ff0013da80da668489ea3564c39e94d6}{%
+           family={Pandit},
+           familyi={P\bibinitperiod},
+           given={Shrey},
+           giveni={S\bibinitperiod}}}%
+        {{hash=200fc57a11eee07e89779b8575fba40f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiawei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=81e2d48dab4e16b05f9ffecbefdae197}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Junyuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4f87ba962b43f4d664922e1f3c38c9c0}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhangyang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d30571882fcf746c466a57da914b08ad}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tianlong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=019109ff4c9ff96b9017a5fe4dfacdcd}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Kaidi},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f0fc7ccc30c05c346877b314d03cb921}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0f5eb824dff805e052a17f208c16da9}
+      \strng{fullhash}{bf0a0f94df66dc49ab5fdfde2478f630}
+      \strng{fullhashraw}{bf0a0f94df66dc49ab5fdfde2478f630}
+      \strng{bibnamehash}{f0f5eb824dff805e052a17f208c16da9}
+      \strng{authorbibnamehash}{f0f5eb824dff805e052a17f208c16da9}
+      \strng{authornamehash}{f0f5eb824dff805e052a17f208c16da9}
+      \strng{authorfullhash}{bf0a0f94df66dc49ab5fdfde2478f630}
+      \strng{authorfullhashraw}{bf0a0f94df66dc49ab5fdfde2478f630}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)}
+      \field{title}{MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models}
+      \field{year}{2025}
+      \field{pages}{2858\bibrangedash 2873}
+      \range{pages}{16}
+    \endentry
+    \entry{sultana2025banglamedqa}{misc}{}{}
+      \name{author}{5}{}{%
+        {{hash=6715366e9f6cdffd358fb1a8e284ad5a}{%
+           family={Sultana},
+           familyi={S\bibinitperiod},
+           given={Sadia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a206a99652eafe742822a983cc8228ce}{%
+           family={Muna},
+           familyi={M\bibinitperiod},
+           given={Saiyma\bibnamedelima Sittul},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=68445635566e47bc78f783d93224d647}{%
+           family={Samarukh},
+           familyi={S\bibinitperiod},
+           given={Mosammat\bibnamedelima Zannatul},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=67d8bddc1daea55ab47fcb917e34e6f1}{%
+           family={Abrar},
+           familyi={A\bibinitperiod},
+           given={Ajwad},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6dd6b8313d1d7999e64ce3c46e52f0a0}{%
+           family={Chowdhury},
+           familyi={C\bibinitperiod},
+           given={Tareque\bibnamedelima Mohmud},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{94aa2d71d32449c8085488a9ad841598}
+      \strng{fullhash}{74aee25f2e49790176272d01922b1387}
+      \strng{fullhashraw}{74aee25f2e49790176272d01922b1387}
+      \strng{bibnamehash}{74aee25f2e49790176272d01922b1387}
+      \strng{authorbibnamehash}{74aee25f2e49790176272d01922b1387}
+      \strng{authornamehash}{94aa2d71d32449c8085488a9ad841598}
+      \strng{authorfullhash}{74aee25f2e49790176272d01922b1387}
+      \strng{authorfullhashraw}{74aee25f2e49790176272d01922b1387}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CL}
+      \field{eprinttype}{arXiv}
+      \field{title}{{B}angla{M}ed{QA} and {B}angla{MM}ed{B}ench: Evaluating Retrieval-Augmented Generation Strategies for {B}angla Biomedical Question Answering}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2511.04560
+      \endverb
+    \endentry
+    \entry{yim2023acibench}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=10d4cb10fc4494744850224ff10e584e}{%
+           family={Yim},
+           familyi={Y\bibinitperiod},
+           given={Wen-wai},
+           giveni={W\bibinithyphendelim w\bibinitperiod}}}%
+        {{hash=d626b147b7d0cdcafd3ab919898629a3}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Yujuan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c6f79cf90bec8385f7be0e3097bd143f}{%
+           family={Ben\bibnamedelima Abacha},
+           familyi={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Asma},
+           giveni={A\bibinitperiod}}}%
+        {{hash=60058f420612f6ce641dfea2096f5ad4}{%
+           family={Snider},
+           familyi={S\bibinitperiod},
+           given={Neal},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3d9a8c87c66223526a9ddaae6571388f}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d7be9a1f301bce85baca6ee213cf32ad}{%
+           family={Yetisgen},
+           familyi={Y\bibinitperiod},
+           given={Meliha},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{287fec33e4cf298b3e2aface87686c29}
+      \strng{fullhash}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \strng{fullhashraw}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \strng{bibnamehash}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \strng{authorbibnamehash}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \strng{authornamehash}{287fec33e4cf298b3e2aface87686c29}
+      \strng{authorfullhash}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \strng{authorfullhashraw}{2a5494f6acffd1d7d8441bc1bd2cba24}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Scientific Data}}
+      \field{number}{1}
+      \field{title}{{ACI-BENCH: a Novel Ambient Clinical Intelligence Dataset for Benchmarking Automatic Visit Note Generation}}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{586}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41597-023-02487-3
+      \endverb
+    \endentry
+    \entry{zheng2023judging}{inproceedings}{}{}
+      \name{author}{13}{}{%
+        {{hash=0beb8f75088bfac1e81ca3840d0e89f0}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Lianmin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d5030c6327cf9a55d5a372b89093395a}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Wei-Lin},
+           giveni={W\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=b99fbe22103d2d6f803495267ee1cac9}{%
+           family={Sheng},
+           familyi={S\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d922f0e30f0817f9514b3360b791d760}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Siyuan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8b10808456d34160e841fd9eac30a4ce}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zhanghao},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=329b3ab9fbc7cbf15e931d5f693d0e81}{%
+           family={Zhuang},
+           familyi={Z\bibinitperiod},
+           given={Yonghao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=14378cef37bf00d8a8fcc705a62d573e}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zi},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a57e6ad48b4f46462aa4a0aa5a0f704e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhuohan},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=0d9e6cedc08528d9cc2c770f5726e8bc}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dacheng},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b80203b0ba1299db35073382e835b485}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Eric\bibnamedelima P.},
+           giveni={E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8c6d18e2d167e1a3dc88c0166bbc3471}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=80175f489665023b28dbb4cf1775c0ef}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Joseph\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=51d9ef26181e2e8a9dc546b401e0bb26}{%
+           family={Stoica},
+           familyi={S\bibinitperiod},
+           given={Ion},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{293dcbfb5b9446f7f90cf8d346a542fe}
+      \strng{fullhash}{5d79fd4ebbbfd5b26e4a0e35e41dae2f}
+      \strng{fullhashraw}{5d79fd4ebbbfd5b26e4a0e35e41dae2f}
+      \strng{bibnamehash}{293dcbfb5b9446f7f90cf8d346a542fe}
+      \strng{authorbibnamehash}{293dcbfb5b9446f7f90cf8d346a542fe}
+      \strng{authornamehash}{293dcbfb5b9446f7f90cf8d346a542fe}
+      \strng{authorfullhash}{5d79fd4ebbbfd5b26e4a0e35e41dae2f}
+      \strng{authorfullhashraw}{5d79fd4ebbbfd5b26e4a0e35e41dae2f}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Datasets and Benchmarks Track}}
+      \field{title}{{Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena}}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,50 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background and Motivation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement and Objectives}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Challenges}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Contributions}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Justification as a Complex Engineering Problem}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Organisation of the Report}{3}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Related Works}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Two Ways to Build a Benchmark}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Medical Hallucination Beyond English}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Detection Methods and Bengali Resources}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Identified Gaps}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Problem Definition and Scope}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Problem and Research Questions}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Scope and Delimitations}{7}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Proposed Methodology}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Overview}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The Four Tracks}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Selecting the Corruption Operations}{12}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Verification and Anti-Circularity}{12}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Comparison of State-of-the-Art Approaches}{13}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Implementation}{14}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Architecture and Configuration}{14}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Source Corpora}{15}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Generator Selection}{16}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Determinism and Reliability}{16}{section.5.4}%
+\contentsline {section}{\numberline {5.5}The Resulting Benchmark}{16}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Results and Discussion}{18}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Overview}{18}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Track 1: Entity-Level Detection}{19}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Track 2: Answer-Level Detection}{20}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Track 3: Question-Level Detection}{21}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Track 4: Document-Level Detection}{22}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Qualitative Examples}{23}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Cross-Track Discussion}{24}{section.6.7}%
+\contentsline {chapter}{\numberline {7}Ethical, Social, and Environmental Considerations}{26}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Challenges and Limitations}{28}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Challenges}{28}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Limitations}{28}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Conclusion and Future Work}{30}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Findings and Contributions}{30}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Future Work}{30}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Concluding Remarks}{32}{section.9.3}%
+\contentsline {chapter}{References}{33}{chapter*.22}%
+\contentsline {chapter}{Appendices}{36}{section*.23}%
+\contentsline {chapter}{\numberline {A}Weekly Meeting Summary}{37}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Code and Implementation Artifacts}{40}{appendix.1.B}%
+\contentsline {section}{\numberline {B.1}Quantitative Summary: GitHub Metrics}{40}{section.1.B.1}%
+\contentsline {section}{\numberline {B.2}Feature Ownership and Technical Contribution}{41}{section.1.B.2}%
+\contentsline {section}{\numberline {B.3}Verification: GitHub Screenshots}{43}{section.1.B.3}%

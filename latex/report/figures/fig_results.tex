@@ -1,0 +1,37 @@
+\documentclass[border=4pt]{standalone}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\definecolor{mGrok}{HTML}{14457B}
+\definecolor{mGem}{HTML}{2E8C8C}
+\definecolor{mQwen}{HTML}{4E9A51}
+\definecolor{mGPT}{HTML}{D9A036}
+\definecolor{mDS}{HTML}{D4703A}
+\definecolor{mLlama}{HTML}{9E3B33}
+
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[ybar, bar width=5.4pt,
+  width=14cm, height=6.2cm,
+  ymin=0, ymax=105, ytick={0,20,40,60,80,100},
+  ylabel={detection recall (\%)},
+  ylabel style={font=\small},
+  tick label style={font=\small},
+  symbolic x coords={NER,QA,Q-ALT,Summarization},
+  xtick=data,
+  ymajorgrids, grid style={draw=black!12},
+  axis line style={draw=black!45},
+  legend style={font=\scriptsize,draw=none,fill=none,
+                at={(0.5,1.03)},anchor=south,legend columns=3,
+                /tikz/every even column/.append style={column sep=3mm}},
+  enlarge x limits=0.18]
+\addplot[fill=mGrok,draw=none]  coordinates {(NER,84.3) (QA,92.2) (Q-ALT,88.8) (Summarization,94.2)};
+\addplot[fill=mGem,draw=none]   coordinates {(NER,70.9) (QA,90.0) (Q-ALT,54.8) (Summarization,93.5)};
+\addplot[fill=mQwen,draw=none]  coordinates {(NER,68.2) (QA,78.2) (Q-ALT,44.9) (Summarization,87.8)};
+\addplot[fill=mGPT,draw=none]   coordinates {(NER,68.1) (QA,84.7) (Q-ALT,50.8) (Summarization,78.0)};
+\addplot[fill=mDS,draw=none]    coordinates {(NER,75.3) (QA,89.6) (Q-ALT,60.6) (Summarization,72.9)};
+\addplot[fill=mLlama,draw=none] coordinates {(NER,39.7) (QA,70.8) (Q-ALT,11.4) (Summarization,81.1)};
+\legend{Grok-4.3,Gemini 3.1 flash-lite,Qwen 2.5 72B,GPT-4o-mini,DeepSeek V4 Flash,Llama 3.1 70B}
+\end{axis}
+\end{tikzpicture}
+\end{document}

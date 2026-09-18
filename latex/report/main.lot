@@ -1,0 +1,29 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Marks Distribution Summary}}{x}{table.caption.5}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Corruptions that leave the text fluent. Each is an item from this benchmark.}}{1}{table.caption.6}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Positioning of related work along task, language and label provenance}}{6}{table.caption.7}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Candidate detection approaches against project selection criteria}}{13}{table.caption.9}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces One pipeline, four tracks. Only extraction and corruption differ; selection, filtering, evaluation and aggregation are the same code path throughout.}}{15}{table.caption.10}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Source corpora. The reference in each is treated as ground truth and never edited.}}{15}{table.caption.11}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Generator selection by human evaluation. Mean rating out of 5 over three independent reviewers.}}{16}{table.caption.12}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Benchmark inventory. NER pairs are judged twice, clean and corrupted.}}{17}{table.caption.13}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Track 1 detection recall (\%) by entity type, with per-detector and per-category means.}}{19}{table.caption.15}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Track 2 results (\%). Wrong-answer recall is the mean over three distractor variants, which agree to within about three points.}}{20}{table.caption.16}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Track 3 detection rate (\%) by technique. Items: Contradiction 436, Referent Deletion 472, Unrealism 86.}}{21}{table.caption.17}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces Track 4 overall results (\%) and measured run cost over 2,377 items per detector.}}{22}{table.caption.18}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces Track 4 recall (\%) by corruption operation. Deletion becomes easier as $N$ rises; Coarsen collapses.}}{22}{table.caption.19}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces Track 4 recall (\%) by targeted fact category, across the six detectors.}}{23}{table.caption.20}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces Representative items and how many of the detectors caught each.}}{24}{table.caption.21}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Group Contribution and Next Plan Table}}{37}{table.1.A.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Developer Contribution Metrics}}{40}{table.caption.25}%
+\contentsline {table}{\numberline {B.2}{\ignorespaces Feature ownership and technical contribution by team member}}{41}{table.1.B.2}%
