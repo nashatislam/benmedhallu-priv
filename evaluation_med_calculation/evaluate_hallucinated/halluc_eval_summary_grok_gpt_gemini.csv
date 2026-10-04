@@ -1,0 +1,4 @@
+model,items,valid,excluded,pending,correct,accuracy,95% CI,accuracy (common items),avg attempts,truncated
+gpt-4o-mini,608,608,0,0,585,96.2%,94.4%-97.5%,96.2%,1.0,0
+gemini-3.1-flash-lite,608,608,0,0,572,94.1%,91.9%-95.7%,94.1%,1.03,0
+grok-4.3,608,608,0,0,567,93.3%,91.0%-95.0%,93.3%,1.0,0
