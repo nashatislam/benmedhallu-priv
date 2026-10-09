@@ -1,0 +1,2 @@
+﻿Model,Health Condition_Correct,Health Condition_Wrong,Specialist_Correct,Specialist_Wrong,Medical Procedure_Correct,Medical Procedure_Wrong,Medicine_Correct,Medicine_Wrong,Age_Correct,Age_Wrong,Dosage_Correct,Dosage_Wrong,Symptom_Correct,Symptom_Wrong,Mean_Correct,Mean_Wrong,Overall_Correct,Overall_Wrong,cost
+JEV (jev-1.13),98.61,61.18,100.0,66.15,100.0,63.64,99.72,91.21,100.0,99.06,98.59,94.75,99.12,51.72,99.43,75.39,99.38,72.77,0.235
